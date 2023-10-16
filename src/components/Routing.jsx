@@ -14,5 +14,6 @@ export default function Routing(){
             <Route element={<Contact></Contact>} path={"/contact"}/>
             <Route element={<Profile></Profile>} path={"/profile"}/>
         </Routes>
+
     )
 }
