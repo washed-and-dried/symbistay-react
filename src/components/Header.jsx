@@ -11,26 +11,26 @@ export default function Header() {
         dialogRef.current?.toggleAttribute("open")
     }
 
-    return (
-        <>
-            <header>
-                <nav className={"main-nav"}>
-                    <div className="nav-links">
-                        <NavLink to={"/"}><img src={SymbiStayIcon} alt="Symbi Stay"/></NavLink>
-                        <NavLink to={"/"}>Home</NavLink>
-                        <NavLink to={"/search"}>Search</NavLink>
-                        <NavLink to={"/contact"}>Contact</NavLink>
-                        <NavLink to={"/profile"}>Profile</NavLink>
-                    </div>
-                    <img src={ProfileIcon} onClick={handleProfileIconClick} alt="Profile" className={"profile-icon"}/>
-                    <dialog className={"profile-icon-dialog"} ref={dialogRef}>
-                        <button>Account</button>
-                        <button>Sign Out</button>
-                        <button>What else?</button>
-                    </dialog>
-                </nav>
-            </header>
+    return (<>
+        <header>
+            <nav className={"main-nav"}>
+                <div className="nav-links">
+                        <a className={"nav-logo"} href={"/"}><img src={SymbiStayIcon} alt="Symbi Stay"/></a>
 
-        </>
-    )
+                        <NavLink className={"nav-text"} to={"/"}>Home</NavLink>
+                        <NavLink className={"nav-text"} to={"/search"}>Search</NavLink>
+                        <NavLink className={"nav-text"} to={"/contact"}>Contact</NavLink>
+                        <NavLink className={"nav-text"} to={"/profile"}>Profile</NavLink>
+
+                </div>
+                <img src={ProfileIcon} onClick={handleProfileIconClick} alt="Profile" className={"profile-icon"}/>
+                <dialog className={"profile-icon-dialog"} ref={dialogRef}>
+                    <button>Account</button>
+                    <button>Sign Out</button>
+                    <button>What else?</button>
+                </dialog>
+            </nav>
+        </header>
+
+    </>)
 }

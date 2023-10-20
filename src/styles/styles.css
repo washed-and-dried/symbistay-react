@@ -77,6 +77,7 @@ textarea:not([rows]) {
 :target {
     scroll-margin-block: 5ex;
 }
+
 /*Reset ends*/
 
 /* Variables start here */
@@ -101,38 +102,52 @@ textarea:not([rows]) {
 
     box-shadow: 0px 0px 51px -10px rgba(0, 0, 0, 0.25);
 
-    font-family: Inter, sans-serif;
-    font-weight: bold;
-
-
-    min-width: 30em;
-    padding-right: 0.55em;
-    padding-left: 1em;
-    border-radius: 1em;
+    padding-left: 1.5em;
+    padding-right: 0.5em;
     padding-block: 0.5em;
+
+    min-width: 25em;
+    border-radius: 1em;
     text-decoration: none;
-    gap: 1em;
 }
+
+.active {
+    cursor: default;
+    /*padding-inline: 2em;*/
+    /*padding-block: 1em;*/
+    border-radius: 0.6875rem;
+    background: linear-gradient(233deg, #F8A3FF 12.86%, #988FFF 76.84%);
+}
+
+.nav-logo {
+    padding-right: 1em;
+}
+
 
 .profile-icon-cont {
     background-color: #f00;
 }
 
-NavLink {
-    padding-inline: 1.8em;
+.nav-text {
+    color: black;
+    text-decoration: none;
+    font-family: Inter, sans-serif;
+    font-weight: bold;
+    padding-inline: 1.3em;
     padding-block: 0.8em;
 }
 
-a {
+.nav-text:link {
     text-decoration: none;
-    color: #000;
 }
+
 
 .profile-icon {
     max-width: 3%;
     aspect-ratio: 1;
     transform: scale(0.5);
 }
+
 /*EOF header-nav styling*/
 
 
