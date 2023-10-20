@@ -150,6 +150,7 @@ textarea:not([rows]) {
 
 /*EOF header-nav styling*/
 
+/* Making the footer stick to the bottom */
 .app-container {
     min-height: 100vh;
     display: flex;
@@ -159,3 +160,4 @@ textarea:not([rows]) {
 .footer {
     margin-top: auto;
 }
+/*EOF footer adjustments*/

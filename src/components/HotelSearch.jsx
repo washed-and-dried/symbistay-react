@@ -1,5 +1,6 @@
 import {useState} from "react";
 import HotelSearchResultCard from "./HotelSearchResultCard.jsx";
+import {useLocation} from "react-router-dom";
 
 const fetchData = /*FIXME: async*/ (city) => {
     return [
@@ -22,7 +23,11 @@ const fetchData = /*FIXME: async*/ (city) => {
 }
 
 export default function HotelSearch() {
-    const [currentCitySelected, setCurrentCitySelected] = useState("Rome");
+    const location = useLocation();
+
+    const [currentCitySelected, setCurrentCitySelected] = useState(
+        location?.state?.citySelectedAtHome ? location?.state?.citySelectedAtHome : "Paris"
+    );
     /*
     * FIXME: This state will be replaced by @tanstack/react-query~useQuery(fetchData(currentCitySelected))
     * */

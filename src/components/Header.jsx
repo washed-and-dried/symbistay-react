@@ -15,13 +15,11 @@ export default function Header() {
         <header>
             <nav className={"main-nav"}>
                 <div className="nav-links">
-                        <a className={"nav-logo"} href={"/"}><img src={SymbiStayIcon} alt="Symbi Stay"/></a>
-
-                        <NavLink className={"nav-text"} to={"/"}>Home</NavLink>
-                        <NavLink className={"nav-text"} to={"/search"}>Search</NavLink>
-                        <NavLink className={"nav-text"} to={"/contact"}>Contact</NavLink>
-                        <NavLink className={"nav-text"} to={"/profile"}>Profile</NavLink>
-
+                    <a className={"nav-logo"} href={"/"}><img src={SymbiStayIcon} alt="Symbi Stay"/></a>
+                    <NavLink className={"nav-text"} to={"/"}>Home</NavLink>
+                    <NavLink className={"nav-text"} to={"/search"}>Search</NavLink>
+                    <NavLink className={"nav-text"} to={"/contact"}>Contact</NavLink>
+                    <NavLink className={"nav-text"} to={"/profile"}>Profile</NavLink>
                 </div>
                 <img src={ProfileIcon} onClick={handleProfileIconClick} alt="Profile" className={"profile-icon"}/>
                 <dialog className={"profile-icon-dialog"} ref={dialogRef}>

@@ -6,7 +6,9 @@ export default function Home() {
     return (
         <>
             <div>This is home</div>
-            <button onClick={() => {navigate("/search")}}>Go to search</button>
+            <button onClick={() => {navigate("/search", {state: {
+                    citySelectedAtHome: "Berlin" //FIXME: Prolly setup a state for the selection and other stuffs
+                }})}}>Go to search</button>
         </>
     );
 }
