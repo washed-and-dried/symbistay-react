@@ -1,14 +1,39 @@
-import {useLocation, useNavigate} from "react-router-dom";
+import { useLocation } from "react-router-dom";
 
 export default function HotelDetails(){
-    const navigate = useNavigate();
     const location = useLocation();
+
+    const hotelData = location?.state?.hotelData;
+
+    const handleBookNowPressed = () => {
+        console.log("What to do?")
+    }
 
     return (
         <>
-            <h1>This is hotel details</h1>
-            <h2>Message: {location.state.message}</h2>
-            <button onClick={() => {navigate("/search")}}>back to search</button>
+            <div className="hotel-details-container">
+                <img src={hotelData.imageSource} alt="Hotel Image"/>
+                <div className="hotel-details">
+                    <div className="hotel-headings">{hotelData.title}</div>
+                    <div className="hotel-rating">Star {hotelData.rating}</div>
+                    <div className="hotel-price">{hotelData.hotelPrice}</div>
+                    <div className="hotel-features">
+                        <div className="hotel-features-heading">Features</div>
+                        <ul>
+                            {hotelData.subtitles?.map(subtitle => {
+                                return <li key={crypto.randomUUID()}>{subtitle}</li>
+                            })}
+                        </ul>
+                    </div>
+                    <div className="hotel-book">
+                        <div className="hotel-book-guest">
+                            <label htmlFor="hotel-book-guest-count">Guests</label>
+                            <input type="number" name="hotel-book-guest-count" id="hotel-book-guest-count" min={0}/>
+                        </div>
+                        <button onClick={handleBookNowPressed}>Book now</button>
+                    </div>
+                </div>
+            </div>
         </>
     )
 }

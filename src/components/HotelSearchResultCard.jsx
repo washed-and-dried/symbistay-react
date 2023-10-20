@@ -1,13 +1,23 @@
+import {useNavigate} from "react-router-dom";
+
 const validateImage = (imageSource) => {
     return imageSource;
 }
 
 export default function HotelSearchResultCard({thumbnail, title, subtitles, price, rating, link}){
-    const hotelImageSource = validateImage(thumbnail);
+    const navigate = useNavigate();
+
+    const imageSource = validateImage(thumbnail);
+    const hotelPrice = ""+ price.currency +price.value;
+
     return(
         <>
-            <div className="hotel-search-result-card">
-                <img src={hotelImageSource} alt="Hotel Image"/>
+            <div className="hotel-search-result-card" onClick={() => {
+                navigate("details", {state: {
+                    hotelData: { imageSource, title, subtitles, hotelPrice, rating, link }
+                }})
+            }}>
+                <img src={imageSource} alt="Hotel Image"/>
                 <div>{title}</div>
                 <div>
                     <ul>
@@ -16,7 +26,7 @@ export default function HotelSearchResultCard({thumbnail, title, subtitles, pric
                         })}
                     </ul>
                 </div>
-                <div>{price.currency}{price.value}</div>
+                <div>{hotelPrice}</div>
             </div>
         </>
     )

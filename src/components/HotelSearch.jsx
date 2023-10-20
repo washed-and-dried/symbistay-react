@@ -28,6 +28,7 @@ export default function HotelSearch() {
     * */
     const [hotelSearchResult, setHotelSearchResult] = useState(fetchData(currentCitySelected));
 
+    //maybe we will query this from the backend in the future?
     const cityOptionList = ["Rome", "Berlin", "Paris", "London", "Madrid"];
 
 

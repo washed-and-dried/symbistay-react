@@ -6,7 +6,7 @@ export default function Home() {
     return (
         <>
             <div>This is home</div>
-            <button onClick={() => {navigate("/search")}}>Click me!!</button>
+            <button onClick={() => {navigate("/search")}}>Go to search</button>
         </>
     );
 }
