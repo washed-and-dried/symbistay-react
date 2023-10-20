@@ -150,4 +150,12 @@ textarea:not([rows]) {
 
 /*EOF header-nav styling*/
 
+.app-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
 
+.footer {
+    margin-top: auto;
+}
