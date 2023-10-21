@@ -1,7 +1,7 @@
-import {useNavigate} from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import Footer from "./constants/Footer";
 import MiddleSection from "./firstpageshit/Middlesection.jsx";
-
+import SearchX from "./SearchX.jsx";
 
 export default function Home() {
     const navigate = useNavigate();
@@ -13,7 +13,16 @@ export default function Home() {
             <MiddleSection></MiddleSection>
 
             <Footer></Footer>
+            <div>This is home</div>
+            <button onClick={() => {
+                navigate("/search", {
+                    state: {
+                        citySelectedAtHome: "Berlin" //FIXME: Prolly setup a state for the selection and other stuffs
+                    }
+                })
+            }}>Go to search</button>
+            <SearchX />
         </>
-        
+
     );
 }
