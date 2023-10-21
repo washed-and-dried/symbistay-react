@@ -249,21 +249,11 @@ input, option {
 
 /*EOF footer adjustments*/
 
-
 /* footer styling below */
 .footer {
-    bottom: 0;
-    position: fixed;
-    margin-top: 5vh;
-
     background-color: #EFE7E7;
     display: flex;
-
-    width: 100vw;
-    /*height: 100vh;*/
-    max-width: 100%; /* added */
-
-    /*height: 13.5625rem;*/
+    max-width: 100%;
     padding: 2.5625rem 4.375rem;
     justify-content: center;
     align-items: flex-start;
@@ -283,11 +273,8 @@ input, option {
     font-style: normal;
     font-weight: 600;
     line-height: normal;
-
     margin-bottom: 0.5em;
 }
-
-
 
 .footer-col {
     display: flex;
@@ -305,5 +292,4 @@ input, option {
     text-decoration: none;
     color: #000;
 }
-
 /*EOF Footer Style*/

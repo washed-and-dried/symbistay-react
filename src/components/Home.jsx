@@ -1,6 +1,5 @@
 
 import { useNavigate } from "react-router-dom";
-import Footer from "./constants/Footer";
 import MiddleSection from "./firstpageshit/Middlesection.jsx";
 import SearchX from "./SearchX.jsx";
 
@@ -13,8 +12,6 @@ export default function Home() {
             <button onClick={() => {navigate("/search")}}>Click me!!</button> */}
             <MiddleSection></MiddleSection>
 
-
-            <Footer></Footer>
             <div>This is home</div>
             <button onClick={() => {
                 navigate("/search", {
