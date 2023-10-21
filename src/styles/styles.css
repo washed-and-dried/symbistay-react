@@ -248,3 +248,62 @@ input, option {
 }
 
 /*EOF footer adjustments*/
+
+
+/* footer styling below */
+.footer {
+    bottom: 0;
+    position: fixed;
+    margin-top: 5vh;
+
+    background-color: #EFE7E7;
+    display: flex;
+
+    width: 100vw;
+    /*height: 100vh;*/
+    max-width: 100%; /* added */
+
+    /*height: 13.5625rem;*/
+    padding: 2.5625rem 4.375rem;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 9.3125rem;
+}
+
+.footer-cont {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.footer-title {
+    color: #000;
+    font-family: Red Hat Display, sans-serif;
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+    margin-bottom: 0.5em;
+}
+
+
+
+.footer-col {
+    display: flex;
+    flex-direction: row;
+
+    color: #000;
+    font-family: Red Hat Display, sans-serif;
+    font-size: 0.8125rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.footer-col a{
+    text-decoration: none;
+    color: #000;
+}
+
+/*EOF Footer Style*/
