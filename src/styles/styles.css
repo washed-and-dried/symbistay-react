@@ -163,14 +163,15 @@ body {
     gap: 0.75rem;
 }
 
-.footer {
+
     /*FIXME: In case flex-grow: 1 on .content-container breaks enable this!
     margin-top: auto !important;*/
-}
+
 
 .content-main {
     flex: 1;
     display: flex; /*to make the content inside it 100% remaining height*/
+    justify-content: center;
 }
 
 .content-container { /*We need this wrapper to make the actual content take 100% height without having to put flex: 1
