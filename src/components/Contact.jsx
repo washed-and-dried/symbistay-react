@@ -2,8 +2,8 @@ import "../styles/contact.css"
 
 export default function Contact() {
     return (
-        <>
-            <div class="contact-container">
+        <div className="contact-container-wrapper">
+            <div className="contact-container">
                 <form method="get">
                     <table border="0" cellspacing="5em">
                         <tr>
@@ -28,9 +28,7 @@ export default function Contact() {
                         </tr>
                     </table>
                 </form>
-
-
             </div>
-        </>
+        </div>
     )
 }

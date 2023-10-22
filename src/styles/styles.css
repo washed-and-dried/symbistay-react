@@ -163,10 +163,10 @@ body {
     gap: 0.75rem;
 }
 
-
+.footer {
     /*FIXME: In case flex-grow: 1 on .content-container breaks enable this!
     margin-top: auto !important;*/
-
+}
 
 .content-main {
     flex: 1;

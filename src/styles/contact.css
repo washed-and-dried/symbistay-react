@@ -1,3 +1,9 @@
+.contact-container-wrapper {
+    min-height: 100%;
+    display: grid;
+    place-items: center;
+}
+
 .contact-container {
     margin-top: 2em;
     display: flex;
@@ -14,9 +20,7 @@
     font-weight: 600;
 }
 
-
-
-input, textarea, button{
+.contact-container input, textarea, button{
     /*margin-left: 0.4em;*/
     background-color: #eae9e9;
     border-radius: 0.3em;
@@ -26,7 +30,6 @@ input, textarea, button{
     outline: 0;
     font-size: 1em;
 }
-
 
 #email {
     min-width: 98%;
