@@ -34,8 +34,13 @@ const fetchHotelsData = async (currentCitySelected) => {
 }
 
 const filterAndRenderHotels = (hotelsData, counter, amountToShow) => {
-    const numberOfHotelsToShow = Math.min(counter * amountToShow, hotelsData?.length);
-    return hotelsData?.slice(0, numberOfHotelsToShow).map(hotelDetails => {
+    let showFrom = (counter - 1) * amountToShow;
+    if (showFrom > hotelsData?.length - amountToShow){
+        showFrom = hotelsData?.length - amountToShow - 1;
+    }
+
+    const showTill = Math.min(counter * amountToShow, hotelsData?.length);
+    return hotelsData?.slice(showFrom, showTill).map(hotelDetails => {
         return <HotelSearchResultCard key={crypto.randomUUID()} {...hotelDetails}></HotelSearchResultCard>
     });
 }
@@ -59,10 +64,13 @@ export default function HotelSearch() {
 
     const hotelSearchResult = useQuery({
         queryFn: () => fetchHotelsData(currentCitySelected),
+        //cache and fresh for 60 minutes
         cacheTime: 1000 * 60 * 60,
         staleTime: 1000 * 60 * 60,
         queryKey: [currentCitySelected]
     });
+
+    console.log(currentCitySelected);
 
     return (
         <div className="hotel-search-container">
@@ -86,8 +94,16 @@ export default function HotelSearch() {
             </div>
             <div className="hotel-search-result">
                 {currentCitySelected}
-                {filterAndRenderHotels(hotelSearchResult?.data?.hotels, hotelsCounter, 10)}
-                <button onClick={() => setHotelsCounter((oldCounter) => oldCounter + 1)}>more</button>
+                {filterAndRenderHotels(hotelSearchResult?.data?.hotels, hotelsCounter, 9)}
+                <button
+                        onClick={() => setHotelsCounter((oldCounter) =>
+                            oldCounter - 1 <= 0 ? 1 : oldCounter - 1)}>
+                    prev
+                </button>
+                <button
+                        onClick={() => setHotelsCounter((oldCounter) => oldCounter + 1)}>
+                    next
+                </button>
             </div>
         </div>
     )
