@@ -81,7 +81,19 @@ textarea:not([rows]) {
 
 /* EOL Variables */
 
+body {
+    background-image: url("../assets/bg.jpg");
+    background-attachment: fixed;
+    backdrop-filter: blur(2px);
+    background-size: cover;
+    background-position-y: center;
+}
+
 /*header-nav styling*/
+.main-header {
+    margin-top: 1rem;
+}
+
 .main-nav {
     display: flex;
 }

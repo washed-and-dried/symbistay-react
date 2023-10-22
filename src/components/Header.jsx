@@ -12,7 +12,7 @@ export default function Header() {
     }
 
     return (<>
-        <header>
+        <header className="main-header">
             <nav className={"main-nav"}>
                 <div className="nav-links">
                     <a className={"nav-logo"} href={"/"}><img src={SymbiStayIcon} alt="Symbi Stay"/></a>
