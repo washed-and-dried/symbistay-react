@@ -8,8 +8,10 @@ export default function App() {
         <>
             <div className={"app-container"}>
                 <Header/>
-                <main className="content-container">
-                    <Routing/>
+                <main className="content-main">
+                    <div className="content-container">
+                        <Routing/>
+                    </div>
                 </main>
                 <Footer/>
             </div>

@@ -38,7 +38,7 @@ export default function HotelSearch() {
 
 
     return (
-        <>
+        <div className="hotel-search-container">
             <div className="hotel-option-container">
                 <label htmlFor="hotel-city-selection">City</label>
                 <select id="hotel-city-selection" value={currentCitySelected}
@@ -62,6 +62,6 @@ export default function HotelSearch() {
                     return <HotelSearchResultCard key={crypto.randomUUID()} {...hotelDetails}></HotelSearchResultCard>
                 })}
             </div>
-        </>
+        </div>
     )
 }

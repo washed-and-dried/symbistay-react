@@ -152,7 +152,18 @@ textarea:not([rows]) {
 }
 
 .footer {
-    margin-top: auto !important;
+    /*FIXME: In case flex-grow: 1 on .content-container breaks enable this!
+    margin-top: auto !important;*/
+}
+
+.content-main {
+    flex: 1;
+    display: flex; /*to make the content inside it 100% remaining height*/
+}
+
+.content-container { /*We need this wrapper to make the actual content take 100% height without having to put flex: 1
+                        in every component*/
+    flex: 1;
 }
 
 /*EOF footer adjustments*/
@@ -196,8 +207,9 @@ textarea:not([rows]) {
     line-height: normal;
 }
 
-.footer-col a{
+.footer-col a {
     text-decoration: none;
     color: #000;
 }
+
 /*EOF Footer Style*/
