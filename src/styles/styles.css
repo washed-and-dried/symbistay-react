@@ -116,7 +116,7 @@ body {
     text-decoration: none;
 }
 
-.active {
+.nav-text.active {
     cursor: default;
     /*padding-inline: 2em;*/
     /*padding-block: 1em;*/

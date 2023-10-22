@@ -1,0 +1,4320 @@
+{
+  "hotels": [
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-878385/original/98111fe2-1a41-47b9-9911-96772ecd4037.jpeg?im_w=720",
+      "title": "Private room in Esquilino",
+      "subtitles": [
+        "Cosy single room | 2 | Rome City Center",
+        "1 double bed",
+        "Oct 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 51,
+        "period": "night"
+      },
+      "rating": 4.83,
+      "link": "https://www.airbnb.com/rooms/878385"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-871506811576025683/original/709ee006-3b70-493a-a3b7-bf5c339c0364.jpeg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Volupta's house  Rome Termini 2",
+        "2 beds",
+        "Jun 18 – 23"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 114,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/871506811576025683"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c51cf902-e79a-42bc-a5cf-f09e896a97d8.jpg?im_w=720",
+      "title": "Private room in Don Bosco",
+      "subtitles": [
+        "Studio apartment near Pigneto",
+        "1 double bed",
+        "Jun 27 – Jul 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 36,
+        "period": "night"
+      },
+      "rating": 4.89,
+      "link": "https://www.airbnb.com/rooms/51481591"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/012cde53-9058-4b7c-a385-f6002ef69d34.jpg?im_w=720",
+      "title": "Apartment in Trastevere",
+      "subtitles": [
+        "Exotic House in Historic Trastevere Area",
+        "1 double bed",
+        "Jul 26 – 31"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 154,
+        "period": "night"
+      },
+      "rating": 4.5,
+      "link": "https://www.airbnb.com/rooms/plus/24010612"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-874285157343761312/original/622516ad-ec8a-4c92-b66e-783a417614ba.png?im_w=720",
+      "title": "Apartment in Gianicolense",
+      "subtitles": [
+        "Appartamento semi centrale",
+        "3 beds",
+        "Jun 14 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 63,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/874285157343761312"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e0153888-94b8-47e7-ad47-d8820029882c.jpg?im_w=720",
+      "title": "Apartment in Monti",
+      "subtitles": [
+        "Just Behind Coliseum 3",
+        "2 beds",
+        "Dec 10 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 81,
+        "period": "night"
+      },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/21580691"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/41452339/df04301b_original.jpg?im_w=720",
+      "title": "Apartment in Monti",
+      "subtitles": [
+        "A stone's throw from the Colosseum",
+        "2 beds",
+        "Jul 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 144,
+        "period": "night"
+      },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/3260174"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-795535608287044220/original/8be0f6c1-ae24-4774-abf8-59070a50b950.jpeg?im_w=720",
+      "title": "Private room in Trastevere",
+      "subtitles": [
+        "small room\nvia staircase",
+        "1 bed",
+        "Jul 14 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 84,
+        "period": "night"
+      },
+      "rating": 2.83,
+      "link": "https://www.airbnb.com/rooms/795535608287044220"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/20227796-417a-435b-8ab6-435252d53662.jpg?im_w=720",
+      "title": "Home in Rome",
+      "subtitles": [
+        "Al Civico 7 - Historic residence",
+        "1 queen bed",
+        "Nov 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 141,
+        "period": "night"
+      },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/23516427"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-874514804509309853/original/c63c509b-6c2a-4d0a-990c-369a81982a4a.jpeg?im_w=720",
+      "title": "Apartment in Flaminio",
+      "subtitles": [
+        "R20 - boutique apartment Rome",
+        "2 beds",
+        "May 28 – Jun 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 152,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/874514804509309853"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-712352743028062451/original/cff39051-d181-4094-8d96-8e4f39bcb9ab.jpeg?im_w=720",
+      "title": "Private room in Esquilino",
+      "subtitles": [
+        "a stone's throw from the Colosseum_Camera Campidoglio x 1p",
+        "1 single bed",
+        "Jul 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 84,
+        "period": "night"
+      },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/712352743028062451"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-37284575/original/dc2ae522-aa9f-4153-a78c-53830106a304.jpeg?im_w=720",
+      "title": "Loft in Trastevere",
+      "subtitles": [
+        "Contemporary loft with brick vaults.",
+        "1 bed",
+        "Nov 7 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 114,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/37284575"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/140215dc-87d6-430c-b486-8af0d06d15bb.jpg?im_w=720",
+      "title": "Loft in Trastevere",
+      "subtitles": [
+        "Your little house in Trastevere",
+        "2 beds",
+        "Nov 8 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 99,
+        "period": "night"
+      },
+      "rating": 4.89,
+      "link": "https://www.airbnb.com/rooms/18684769"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/690e388b-0a56-4380-b2f2-10448b54daed.jpg?im_w=720",
+      "title": "Private room in Monti",
+      "subtitles": [
+        "Cosy single for girls near Colosseum with terrace",
+        "1 single bed",
+        "Jul 17 – 22"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 68,
+        "period": "night"
+      },
+      "rating": 4.81,
+      "link": "https://www.airbnb.com/rooms/18190229"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/55540879/ac1fce2c_original.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Rotonda All'Aventino - Studio Apt with 3 balconies",
+        "1 sofa bed",
+        "Nov 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 101,
+        "period": "night"
+      },
+      "rating": 4.95,
+      "link": "https://www.airbnb.com/rooms/4421234"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/61200501/3410d894_original.jpg?im_w=720",
+      "title": "Private room in Trastevere",
+      "subtitles": [
+        "B&B La fontana. Trastevere",
+        "1 double bed",
+        "Oct 14 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 92,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/4821276"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7d43c2cb-abf8-4fb0-b922-657751b7232c.jpg?im_w=720",
+      "title": "Private room in Trionfale",
+      "subtitles": [
+        "Standard Double Room Standard rate",
+        "1 double bed",
+        "Oct 30 – Nov 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 99,
+        "period": "night"
+      },
+      "rating": 4.6,
+      "link": "https://www.airbnb.com/rooms/30785103"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ca893860-98df-43fe-86b5-cc690a619c79.jpg?im_w=720",
+      "title": "Tiny home in Rome",
+      "subtitles": [
+        "The cottage in the Blue courtyard",
+        "2 beds",
+        "Jul 14 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 66,
+        "period": "night"
+      },
+      "rating": 4.83,
+      "link": "https://www.airbnb.com/rooms/11916722"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-823175598572246020/original/cb7f7a0c-219e-41b1-a580-70c962cf8da5.jpeg?im_w=720",
+      "title": "Home in Castro Pretorio",
+      "subtitles": [
+        "202 alveare suite",
+        "1 bed",
+        "Jun 27 – Jul 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 99,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/875072409904689781"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-4480304/original/3b4f5aa2-6f78-4d8d-93c0-8aa971c5b60e.jpeg?im_w=720",
+      "title": "Private room in Prati",
+      "subtitles": [
+        "Cozy en-suite double room in S. Peter's / Borgo",
+        "2 beds",
+        "Nov 4 – 9"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 62,
+        "period": "night"
+      },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/4480304"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/09614fad-8028-4496-8cb9-76f556ad5784.jpg?im_w=720",
+      "title": "Condo in Rome",
+      "subtitles": [
+        "Apartment Roma",
+        "1 bed",
+        "Dec 11 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 88,
+        "period": "night"
+      },
+      "rating": 4.98,
+      "link": "https://www.airbnb.com/rooms/732247102748448134"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-917861/original/6b4e76a4-6bfc-4f9e-8c94-524522f0585c.jpeg?im_w=720",
+      "title": "Private room in Esquilino",
+      "subtitles": [
+        "Cosy single room | 1 | Rome City Center",
+        "1 double bed",
+        "Oct 9 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 51,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/917861"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-759543048982505367/original/82ef4eee-c7da-4d72-a1f6-aa5d76b9ba0c.jpeg?im_w=720",
+      "title": "Private room in Trastevere",
+      "subtitles": [
+        "room Nice\n bathroom in suite \nvia della staircase",
+        "1 bed",
+        "Jul 9 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 81,
+        "period": "night"
+      },
+      "rating": 3.42,
+      "link": "https://www.airbnb.com/rooms/759543048982505367"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/07c87858-388e-43ef-96c3-ba9305106c4d.jpg?im_w=720",
+      "title": "Private room in Parioli",
+      "subtitles": [
+        "l 'acaccia",
+        "1 small double bed",
+        "Jun 12 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 64,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/35249716"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/51642965/373968b3_original.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "GARDEN ROOM near metro C",
+        "1 single bed",
+        "Jun 4 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 33,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/1333060"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/77ee6b5a-8c52-4aa8-9af7-fba2a589cd11.jpg?im_w=720",
+      "title": "Private room in Esquilino",
+      "subtitles": [
+        "A little cozy room, 800m Colosseo and Termini!#10",
+        "2 single beds",
+        "Nov 13 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 38,
+        "period": "night"
+      },
+      "rating": 4.56,
+      "link": "https://www.airbnb.com/rooms/17606907"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-34727729/original/d953f318-b5c3-4072-ba46-491ab0854f65.jpeg?im_w=720",
+      "title": "Private room in Esquilino",
+      "subtitles": [
+        "Tiny room near by termini colosseum and metro",
+        "1 queen bed",
+        "Oct 8 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 38,
+        "period": "night"
+      },
+      "rating": 4.59,
+      "link": "https://www.airbnb.com/rooms/34727729"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7c0aff95-28ef-4eac-a1e3-fc1cda7dd3df.jpg?im_w=720",
+      "title": "Hotel room in Rome",
+      "subtitles": [
+        "Single Room",
+        "1 single bed",
+        "May 29 – Jun 3"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 58,
+        "period": "night"
+      },
+      "rating": 4.43,
+      "link": "https://www.airbnb.com/rooms/32154200"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d10b5466-d0db-4504-90bd-11839fac20f8.jpg?im_w=720",
+      "title": "Tiny home in Portuense",
+      "subtitles": [
+        "ROMA - MARCONI - TRASTEVERE ASIA |  Cozy Flat",
+        "2 beds",
+        "Oct 7 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 71,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/31918286"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-33774167/original/1fc99709-56eb-4130-9fbf-73a0242fc7c2.jpeg?im_w=720",
+      "title": "Private room in Castro Pretorio",
+      "subtitles": [
+        "Tourist Accommodation",
+        "1 double bed",
+        "Nov 12 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 38,
+        "period": "night"
+      },
+      "rating": 4.95,
+      "link": "https://www.airbnb.com/rooms/33774167"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-624344274085322071/original/d3dcdb11-7897-43c1-8ef4-784640659a5d.jpeg?im_w=720",
+      "title": "Vacation home in Rome",
+      "subtitles": [
+        "Mini house",
+        "1 double bed",
+        "Jul 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 51,
+        "period": "night"
+      },
+      "rating": 4.1,
+      "link": "https://www.airbnb.com/rooms/624344274085322071"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/f577b493-16a2-4986-8328-db2a0c46da29.jpg?im_w=720",
+      "title": "Private room in Esquilino",
+      "subtitles": [
+        "A  cozy quite room + balcony,10 mins to Colosseo!",
+        "2 beds",
+        "Nov 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 48,
+        "period": "night"
+      },
+      "rating": 4.51,
+      "link": "https://www.airbnb.com/rooms/14024883"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ee76c40c-fc83-4b59-a7c5-68715b59b891.jpg?im_w=720",
+      "title": "Private room in Esquilino",
+      "subtitles": [
+        "Rome  room 199",
+        "1 double bed",
+        "Jul 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 71,
+        "period": "night"
+      },
+      "rating": 4.24,
+      "link": "https://www.airbnb.com/rooms/27079425"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/58692450/1b8b0741_original.jpg?im_w=720",
+      "title": "Private room in Ostiense",
+      "subtitles": [
+        "Comfy room near Caracalla, Testaccio, Ostiense St.",
+        "1 single bed",
+        "Oct 13 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 56,
+        "period": "night"
+      },
+      "rating": 4.97,
+      "link": "https://www.airbnb.com/rooms/4343351"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/8e19a179-b991-479b-a18f-a136e1a0ec98.jpg?im_w=720",
+      "title": "Apartment in Monti",
+      "subtitles": [
+        "Studio with use of roof top & view of Colosseum",
+        "1 queen bed",
+        "Jun 19 – 24"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 84,
+        "period": "night"
+      },
+      "rating": 4.16,
+      "link": "https://www.airbnb.com/rooms/570339"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/724b878b-3710-493f-966c-9ff446e3d8bd.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Alys's Rooms 1 🌜",
+        "1 double bed",
+        "Jun 24 – 29"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 38,
+        "period": "night"
+      },
+      "rating": 4.79,
+      "link": "https://www.airbnb.com/rooms/571474938351632346"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-28628858/original/f8bee5e2-51be-4b84-a1e2-64836a0c5cbf.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "private metro room rebibbia tiburtina",
+        "1 double bed",
+        "May 1 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 44,
+        "period": "night"
+      },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/28628858"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-619418911864309346/original/1011f75d-0cbe-4ebf-a878-01cb2c17cdfb.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Hidden palace in central Rome...",
+        "2 beds",
+        "Aug 20 – 25"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 44,
+        "period": "night"
+      },
+      "rating": 4.65,
+      "link": "https://www.airbnb.com/rooms/619418911864309346"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-873602684046252383/original/06866b79-1e22-4bfb-8ab7-64134514b2ee.jpeg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Locazione turistica",
+        "1 bed",
+        "May 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 101,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/873602684046252383"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/2dcfff48-8ee5-479e-bd75-15da5afc630c.jpg?im_w=720",
+      "title": "Hotel room in Rome",
+      "subtitles": [
+        "HostelTrastevere bed in dorm mix  6p",
+        "1 bed",
+        "Jul 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 33,
+        "period": "night"
+      },
+      "rating": 4.34,
+      "link": "https://www.airbnb.com/rooms/37573610"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/b5619e02-2337-42ff-8d77-1922cdc85064.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "LT  Rooms near the Trastevere station",
+        "1 double bed",
+        "Aug 9 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 29,
+        "period": "night"
+      },
+      "rating": 4.58,
+      "link": "https://www.airbnb.com/rooms/23855710"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6af26c30-6da2-41f5-825b-95f4e2552cdc.jpg?im_w=720",
+      "title": "Tiny home in Rome",
+      "subtitles": [
+        "Vatican cozy garden",
+        "2 beds",
+        "Nov 3 – 9"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 92,
+        "period": "night"
+      },
+      "rating": 4.76,
+      "link": "https://www.airbnb.com/rooms/45435539"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ef30cd4a-cafc-4379-ac83-55d19aee0b39.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "REAL BEST VIEW COLISEUM LUXURY LOFT HISTORY CENTER",
+        "1 double bed",
+        "Oct 30 – Nov 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 255,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/23880958"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1a507297-5dfd-432f-9872-102a4f6e1f78.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Single number  27",
+        "1 bed",
+        "Aug 8 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 44,
+        "period": "night"
+      },
+      "rating": 4.3,
+      "link": "https://www.airbnb.com/rooms/13580801"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/59dcad62-c6f6-4f50-a0c4-e506e004f761.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Oxy Room3 near by Termini and Colosseum",
+        "1 small double bed",
+        "Aug 22 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 44,
+        "period": "night"
+      },
+      "rating": 4.51,
+      "link": "https://www.airbnb.com/rooms/31250215"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/f9cdd31c-9ae8-4a57-87d4-1d5c51c28fc4.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "CASA LAURA\nINDEPENDENT🌼🍀 ROOM NO KITCHEN",
+        "1 queen bed",
+        "Sep 22 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 57,
+        "period": "night"
+      },
+      "rating": 4.74,
+      "link": "https://www.airbnb.com/rooms/24976201"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/95864419-7b9c-40bc-ba66-82cf9b0f61c5.jpg?im_w=720",
+      "title": "Home in Lido di Ostia",
+      "subtitles": [
+        "Mapy place",
+        "2 sofa beds",
+        "Oct 11 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 51,
+        "period": "night"
+      },
+      "rating": 4.69,
+      "link": "https://www.airbnb.com/rooms/33715396"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/f314debd-ae79-4c90-a64d-323d34f6a1fe.jpg?im_w=720",
+      "title": "Condo in Rome",
+      "subtitles": [
+        "ROMA - MARCONI - TRASTEVERE AFRICA | Cozy Flat",
+        "2 beds",
+        "Oct 7 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 77,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/31594310"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/b30c2a1c-2dd6-4574-b1f3-c95fcf37f5ce.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "a  COZY room balcony, 800m Colosseo,150mSubway",
+        "2 beds",
+        "Nov 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 52,
+        "period": "night"
+      },
+      "rating": 4.46,
+      "link": "https://www.airbnb.com/rooms/10719987"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/27522926/9d174867_original.jpg?im_w=720",
+      "title": "Condo in Rome",
+      "subtitles": [
+        "Central&safe BB  w exclusive entrance and terrace",
+        "1 queen bed",
+        "Jul 29 – Aug 3"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 72,
+        "period": "night"
+      },
+      "rating": 4.85,
+      "link": "https://www.airbnb.com/rooms/841633"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-672992581469885148/original/23b705df-714e-48b3-bd4c-0399c12fde3f.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Rome 2 private room in shared apartment",
+        "1 double bed",
+        "May 28 – Jun 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 54,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/672992581469885148"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ec197e78-b4bd-4fbb-b85f-06fcf92c20b0.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Cozy room in Testaccio",
+        "1 single bed",
+        "Oct 17 – 22"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 47,
+        "period": "night"
+      },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/25364492"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/89e799f6-660c-4b1f-a9a7-10127033ed9a.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Brand new apartment near central rome",
+        "2 beds",
+        "Nov 5 – 10"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 51,
+        "period": "night"
+      },
+      "rating": 4.71,
+      "link": "https://www.airbnb.com/rooms/41339218"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/11012849/b9017a80_original.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Wonderful view over Vatican Dome",
+        "2 beds",
+        "Oct 27 – Nov 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 81,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/712160"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/35841796/b05dd8b5_original.jpg?im_w=720",
+      "title": "Home in Rome",
+      "subtitles": [
+        "Independent house bedroom kitchen",
+        "1 double bed",
+        "Jul 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 70,
+        "period": "night"
+      },
+      "rating": 4.63,
+      "link": "https://www.airbnb.com/rooms/1559615"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/34e5851d-ada3-4177-a48e-70e69ebd553b.jpg?im_w=720",
+      "title": "Home in Rome",
+      "subtitles": [
+        "Zen Garden TeaHouse outdoor parking space",
+        "1 double bed",
+        "Jun 27 – Jul 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 41,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/645028420036081204"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-710078917740320850/original/f7d3aa7c-3936-411a-ae84-4bb86cc79434.jpeg?im_w=720",
+      "title": "Private room in Ciampino",
+      "subtitles": [
+        "*Ciampino airport 5 min by bus* supercomfy",
+        "1 bed",
+        "Jun 8 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 49,
+        "period": "night"
+      },
+      "rating": 4.89,
+      "link": "https://www.airbnb.com/rooms/710078917740320850"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-580596/original/8ee6632d-c196-4f72-a4c5-96fa6daa7130.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Nice room in lovely flat",
+        "1 double bed",
+        "May 25 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 57,
+        "period": "night"
+      },
+      "rating": 4.61,
+      "link": "https://www.airbnb.com/rooms/580596"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e5af07e7-67cb-4cd0-8b2a-0374db8a593b.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Bright and spacious room 2 mins to \"Mirti\" C line",
+        "1 single bed",
+        "May 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 57,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/25526572"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-839234869501333893/original/b15186cb-caab-42ea-8742-3831be77ddac.jpeg?im_w=720",
+      "title": "Condo in Rome",
+      "subtitles": [
+        "Lovely two-room apartment Piazza Fiume",
+        "2 beds",
+        "Nov 9 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 64,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/839234869501333893"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/359e0b07-bf9f-4440-be60-80f9e0531ee9.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Room in Rome",
+        "1 single bed",
+        "Aug 25 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 29,
+        "period": "night"
+      },
+      "rating": 4.25,
+      "link": "https://www.airbnb.com/rooms/20672547"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-53912446/original/b7a99239-457b-4ef1-a817-41601d6fa1a0.jpeg?im_w=720",
+      "title": "Condo in Rome",
+      "subtitles": [
+        "Trastevere Secret Garden",
+        "1 bed",
+        "Nov 8 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 129,
+        "period": "night"
+      },
+      "rating": 4.79,
+      "link": "https://www.airbnb.com/rooms/53912446"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/107090049/132e9979_original.jpg?im_w=720",
+      "title": "Private room in Torvaianica",
+      "subtitles": [
+        "Single bed room with private bathroom",
+        "1 single bed",
+        "May 11 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 33,
+        "period": "night"
+      },
+      "rating": 4.7,
+      "link": "https://www.airbnb.com/rooms/8419450"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-51360245/original/3875b028-785f-447d-aad6-8826a081e7d0.jpeg?im_w=720",
+      "title": "Private room in Ciampino",
+      "subtitles": [
+        "ROME CENTER at 12 min-Confortable and bright room",
+        "1 queen bed",
+        "May 27 – Jun 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 48,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/51360245"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/b43881c5-7573-44cc-87d0-2878b75fac3d.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "LARGE QUIET ROOM GARBATELLA OSTIENSE G",
+        "1 queen bed",
+        "Jun 4 – 9"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 71,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/19488621"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/62f0cfd9-4729-4565-8548-bfd5925f0f90.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Rent / Rent a Room Termini Roma cam 1",
+        "1 bed",
+        "Aug 22 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 56,
+        "period": "night"
+      },
+      "rating": 4.49,
+      "link": "https://www.airbnb.com/rooms/34505454"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4f521d52-825e-423e-8cb5-870dc06e0708.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Green Room at Colosseum! (Pannonia Smart House)",
+        "1 double bed",
+        "Aug 12 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 87,
+        "period": "night"
+      },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/18740273"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/48b6fd8e-7cab-4929-b4f3-89aff930cab7.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Central Rome Wi Fi Vaulted Roof",
+        "1 double bed",
+        "Jul 24 – 29"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 89,
+        "period": "night"
+      },
+      "rating": 4.73,
+      "link": "https://www.airbnb.com/rooms/857445"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/58b6b027-63b3-4563-a47a-205e5efff197.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Casa Isabò",
+        "1 double bed",
+        "Jul 30 – Aug 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 44,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/23052121"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/24055381/2bed7274_original.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Almost Friend - Apartment in Rome",
+        "1 bed",
+        "Sep 11 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 71,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/947106"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-52704370/original/a4eeb116-dd90-4976-9c00-6437114e8f1b.jpeg?im_w=720",
+      "title": "Guest suite in Fiumicino",
+      "subtitles": [
+        "Independent suite with all comfort.",
+        "1 double bed",
+        "May 27 – Jun 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 70,
+        "period": "night"
+      },
+      "rating": 4.74,
+      "link": "https://www.airbnb.com/rooms/52704370"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/25f400e3-a4c9-4c7a-b1ab-076db21c3a08.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Secret Silent and Romantic spot in Trastevere",
+        "1 double bed",
+        "Dec 1 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 108,
+        "period": "night"
+      },
+      "rating": 4.97,
+      "link": "https://www.airbnb.com/rooms/25155549"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-612722970069377888/original/3fd99ff7-05ca-4518-bb9d-af99a9f45a01.jpeg?im_w=720",
+      "title": "Private room in Primavalle",
+      "subtitles": [
+        "Single room with breakfast included",
+        "1 bed",
+        "May 31 – Jun 5"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 53,
+        "period": "night"
+      },
+      "rating": 4.76,
+      "link": "https://www.airbnb.com/rooms/612722970069377888"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/542f813e-fbd4-4ed9-b0f6-5a4fb56858db.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "MySuiteInRome - Quadraro Artist Suite",
+        "1 king bed",
+        "Aug 8 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 60,
+        "period": "night"
+      },
+      "rating": 4.85,
+      "link": "https://www.airbnb.com/rooms/17589044"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/8bee8530-0f47-4250-9bdf-689b37d2bceb.jpg?im_w=720",
+      "title": "Apartment in Monti",
+      "subtitles": [
+        "delightful mini-apartment in Rome",
+        "1 sofa bed",
+        "Aug 22 – 28"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 76,
+        "period": "night"
+      },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/12894768"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/5aa10a32-8de1-4219-aeda-dc96f471630b.jpg?im_w=720",
+      "title": "Loft in Trastevere",
+      "subtitles": [
+        "Studio apartment in villa (CIU 5711)",
+        "4 beds",
+        "Jan 1 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 64,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/23584523"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-50431843/original/962e9115-ded4-4309-a66e-171ca9fd1c31.jpeg?im_w=720",
+      "title": "Condo in Trionfale",
+      "subtitles": [
+        "Studio and Garden-Vatican District",
+        "2 beds",
+        "Oct 30 – Nov 5"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 89,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/50431843"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6ea5a4ed-c2a2-4815-8c49-2b49fb05aad5.jpg?im_w=720",
+      "title": "Private room in Aurelio",
+      "subtitles": [
+        "Tipica Roma: Private-Room",
+        "1 double bed",
+        "Jun 3 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 65,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/868302290575886296"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e08fb72b-88c4-42ae-8a9c-e5c61e73794d.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "ElciOrange 15min  from downtown. Id reg 6871",
+        "Jun 24 – 29"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 69,
+        "period": "night"
+      },
+      "rating": 4.61,
+      "link": "https://www.airbnb.com/rooms/5744283"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/13960726/5e1c0110_original.jpg?im_w=720",
+      "title": "Apartment in Aurelio",
+      "subtitles": [
+        "lovely apartment saint peter gregor",
+        "1 single bed",
+        "May 9 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 45,
+        "period": "night"
+      },
+      "rating": 4.29,
+      "link": "https://www.airbnb.com/rooms/943348"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/43318bd8-4337-4b20-a260-81f02ae6831b.jpg?im_w=720",
+      "title": "Private room in Monte Sacro Alto",
+      "subtitles": [
+        "Villa Rossellini L1",
+        "1 bed",
+        "May 5 – 10"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 57,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/875105226997097511"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-43210221/original/168b20ae-e51f-42a7-8da2-494409847ff6.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Lovely room in Pigneto",
+        "1 double bed",
+        "Jul 3 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 88,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/43210221"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d93b02ad-3f7d-406a-b774-e9fb6391892a.jpg?im_w=720",
+      "title": "Apartment in Gianicolense",
+      "subtitles": [
+        "Rome Monteverde Mini Garden Apartment",
+        "1 queen bed",
+        "Jul 19 – 24"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 64,
+        "period": "night"
+      },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/28302734"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-50454794/original/379ff8e2-48ac-469c-82c2-405d32ab6d3b.jpeg?im_w=720",
+      "title": "Apartment in Trevi",
+      "subtitles": [
+        "Dolcevita Trevi Home-few steps from most locations",
+        "1 double bed",
+        "Nov 28 – Dec 3"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 140,
+        "period": "night"
+      },
+      "rating": 4.95,
+      "link": "https://www.airbnb.com/rooms/50454794"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/88b8d8c9-d876-4251-9134-3b3cdb4830e6.jpg?im_w=720",
+      "title": "Private room in Esquilino",
+      "subtitles": [
+        "Oxy Room4 near by Termini and Colosseum 15min",
+        "1 queen bed",
+        "Aug 13 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 49,
+        "period": "night"
+      },
+      "rating": 4.5,
+      "link": "https://www.airbnb.com/rooms/31251018"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/bde5e9c0-2ca0-4894-94ea-0084ed1b7d7e.jpg?im_w=720",
+      "title": "Apartment in Nomentano",
+      "subtitles": [
+        "Roma nuovo studio per due",
+        "1 bed",
+        "Jun 7 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 89,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/872408844842040451"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-50315053/original/d139efd3-9155-4317-b205-fe2135c519f3.jpeg?im_w=720",
+      "title": "Home in Rome",
+      "subtitles": [
+        "THE LITTLE HOUSE UNDER THE TREE",
+        "1 double bed",
+        "Aug 8 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 51,
+        "period": "night"
+      },
+      "rating": 4.66,
+      "link": "https://www.airbnb.com/rooms/50315053"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/62c78152-9663-4371-8535-4e5398a6508f.jpg?im_w=720",
+      "title": "Private room in Trionfale",
+      "subtitles": [
+        "B&B Il Ristoro dei Papi Luxury Style II°",
+        "3 beds",
+        "Nov 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 75,
+        "period": "night"
+      },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/15242139"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ccd54e06-691f-42e2-9c67-0014deb7e154.jpg?im_w=720",
+      "title": "Loft in Trastevere",
+      "subtitles": [
+        "The Suite in Rome",
+        "1 queen bed",
+        "Nov 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 112,
+        "period": "night"
+      },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/plus/1262834"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/28be0a30-0236-492f-8b40-ebd47da4e44b.jpg?im_w=720",
+      "title": "Private room in Esquilino",
+      "subtitles": [
+        "Oldwhite house",
+        "2 beds",
+        "Oct 20 – 25"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 67,
+        "period": "night"
+      },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/32887929"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/eb131604-3dec-4ad4-9d9d-eca557ce1447.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Very heart suite 2 - city centre",
+        "1 bed",
+        "Jul 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 158,
+        "period": "night"
+      },
+      "rating": 4.68,
+      "link": "https://www.airbnb.com/rooms/24381349"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/18119370/0bae236e_original.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "CHEAPEST#Cool#ONE STOPtoTRASTEVERE",
+        "1 double bed",
+        "May 27 – Jun 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 68,
+        "period": "night"
+      },
+      "rating": 4.66,
+      "link": "https://www.airbnb.com/rooms/693110"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1c21ac68-db15-44cf-8a64-fed9f3500158.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Grace's House San Pietro 1",
+        "2 beds",
+        "Jun 18 – 23"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 74,
+        "period": "night"
+      },
+      "rating": 4.38,
+      "link": "https://www.airbnb.com/rooms/51273344"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/104186654/d71f54ca_original.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "single room center of Rome",
+        "1 bed",
+        "Nov 15 – 22"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 93,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/8183776"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-39247704/original/894ea5af-2c6d-4b64-8dc6-43ff0760b79c.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Termini Green B&B",
+        "1 double bed",
+        "Apr 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 81,
+        "period": "night"
+      },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/39247704"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d02ae23c-e8e9-4a4c-a22c-a17519ab26cf.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Just behind Coliseum",
+        "3 beds",
+        "Nov 19 – 24"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 110,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/15177565"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4cbaf2a8-80b8-4c69-b733-61cb480937e0.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Lovely Apartment for 2 (+1)",
+        "1 bed",
+        "Nov 1 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 69,
+        "period": "night"
+      },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/30712422"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-10419572/original/82d7fad5-e2cb-455c-8517-d09a1c6315f4.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "A beautiful room in marvelous Rome",
+        "2 single beds",
+        "Jun 10 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 45,
+        "period": "night"
+      },
+      "rating": 4.97,
+      "link": "https://www.airbnb.com/rooms/10419572"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/140e95ad-ec13-4a04-b8b5-bfd750fb4d9d.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Villino Appio Bed and Breakfast",
+        "2 single beds",
+        "Jun 9 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 63,
+        "period": "night"
+      },
+      "rating": 4.79,
+      "link": "https://www.airbnb.com/rooms/52503743"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/fcb6711c-d36a-475b-b908-cafb46652087.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Comfortable and spacious blue room",
+        "2 beds",
+        "Nov 13 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 43,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/825302468976196909"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-724050/original/98bb524b-dbde-4642-8841-a130f7ade48a.jpeg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "TRASTEVERE CHARMING STUDIO",
+        "Jul 21 – 28"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 95,
+        "period": "night"
+      },
+      "rating": 4.85,
+      "link": "https://www.airbnb.com/rooms/724050"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/55484088/86e559e8_original.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "B&B Le Treù",
+        "1 double bed",
+        "Jun 27 – Jul 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 66,
+        "period": "night"
+      },
+      "rating": 4.47,
+      "link": "https://www.airbnb.com/rooms/3428852"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/00a45003-57fa-4c79-bb85-99a211e93367.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Historic center",
+        "1 queen bed",
+        "Oct 20 – 25"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 84,
+        "period": "night"
+      },
+      "rating": 4.28,
+      "link": "https://www.airbnb.com/rooms/28537747"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/922e5a58-ffdf-4406-b92b-a07f0e8e264c.jpg?im_w=720",
+      "title": "Private room in Fiumicino",
+      "subtitles": [
+        "NEW Room close to airport and exhibition",
+        "2 beds",
+        "May 26 – 31"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 92,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/825265201057536593"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/98a79f30-f9f8-4d3d-9d00-273a0481b47c.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "NICE, BRIGHT, PEACEFUL  Room in Roma Center",
+        "1 single bed",
+        "May 7 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 51,
+        "period": "night"
+      },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/24711416"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4f5e396e-2555-41cf-9f69-e9ddca775cd4.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Pink Room at Colosseum! (Pannonia Smart House)",
+        "1 double bed",
+        "Jul 30 – Aug 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 87,
+        "period": "night"
+      },
+      "rating": 4.89,
+      "link": "https://www.airbnb.com/rooms/18740607"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6a5bdb45-3bde-4f28-ae8c-03b6feb0881c.jpg?im_w=720",
+      "title": "Loft in Rome",
+      "subtitles": [
+        "GIULIA'S ROMANTIC LOFT",
+        "1 double bed",
+        "Nov 9 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 139,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/9677348"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4eba7e26-df81-4393-bdbe-30acc485a60c.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Villino Milù in Rome single room",
+        "1 single bed",
+        "May 18 – 25"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 40,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/45278859"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/53df2c5e-c901-40a7-aa5c-1a4d8a67073a.jpg?im_w=720",
+      "title": "Home in Rome",
+      "subtitles": [
+        "Casa di Ale - Cozy House",
+        "1 double bed",
+        "Aug 9 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 63,
+        "period": "night"
+      },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/41635491"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-6929735/original/d769c591-773d-4512-83ef-7973bc508dbb.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Cozy room near Caffarella, Appia and San Giovanni",
+        "2 beds",
+        "Jul 8 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 46,
+        "period": "night"
+      },
+      "rating": 4.84,
+      "link": "https://www.airbnb.com/rooms/6929735"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-814948523345987356/original/d717ddc7-7798-4580-9c66-736c6907bf22.jpeg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Etiopia apartments",
+        "2 beds",
+        "Jun 8 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 89,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/814948523345987356"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-870847207345989928/original/c1d8035b-d88b-4bcc-8f4b-331ca8895611.jpeg?im_w=720",
+      "title": "Condo in Rome",
+      "subtitles": [
+        "Dream Chaser",
+        "1 bed",
+        "Jun 5 – 10"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 214,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/870847207345989928"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c7092fd0-0b9b-4968-bf38-825d0d1abd08.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "♡Central Nest near Vatican City for a Couple♡",
+        "1 double bed",
+        "Aug 30 – Sep 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 88,
+        "period": "night"
+      },
+      "rating": 4.61,
+      "link": "https://www.airbnb.com/rooms/19021999"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-870847338977593245/original/25e81909-dd4c-4489-aee6-d9844a5e9c64.jpeg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Colosseo's Loft",
+        "1 bed",
+        "Jun 18 – 23"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 192,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/870847338977593245"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/bcbe9340-d7c4-477b-b9a6-671988076ce6.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Nicolò V Saint Peter Apartment",
+        "1 queen bed",
+        "Nov 8 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 86,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/25957461"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-43653085/original/dadf4047-c561-4cf1-ba12-4491c950d17d.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "FANTASTIC PELLEGRINO LOCATION -2 beds on request",
+        "1 queen bed",
+        "Aug 28 – Sep 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 66,
+        "period": "night"
+      },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/43653085"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/100559246/02e710ef_original.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Serendipity in  Baldo degli Ubaldi",
+        "2 beds",
+        "Dec 25 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 83,
+        "period": "night"
+      },
+      "rating": 4.76,
+      "link": "https://www.airbnb.com/rooms/7107395"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/107300643/831b465f_original.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Musei Vaticani - Provence Rome",
+        "1 double bed",
+        "Jun 26 – Jul 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 113,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/8437113"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7c572533-4fd3-438e-92fd-237a40cc3baa.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Roman house with balcony, very quiet - New",
+        "1 double bed",
+        "Nov 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 119,
+        "period": "night"
+      },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/17113263"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/a2488699-6146-4287-b951-34ceb52471c4.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "apARTment - cozy home at few steps from Metro A",
+        "1 queen bed",
+        "Sep 10 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 91,
+        "period": "night"
+      },
+      "rating": 4.86,
+      "link": "https://www.airbnb.com/rooms/9398332"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/5d4bcf66-063b-4538-ad15-dca1e5764f46.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Bright Home in Rome, shadow of the Vatican",
+        "3 beds",
+        "Nov 1 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 103,
+        "period": "night"
+      },
+      "rating": 4.86,
+      "link": "https://www.airbnb.com/rooms/17952278"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/58728b07-bd22-462a-96ac-986746ee8331.jpg?im_w=720",
+      "title": "Loft in Rome",
+      "subtitles": [
+        "Luxury panoramic suite, 5mins Colosseo,2mins Metro",
+        "3 beds",
+        "Nov 12 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 86,
+        "period": "night"
+      },
+      "rating": 4.65,
+      "link": "https://www.airbnb.com/rooms/13270751"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d9b95991-83f9-443b-aa9f-f53ee393401e.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Splendid  COZY room! 5 mins walking to Subway!",
+        "2 beds",
+        "Nov 9 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 49,
+        "period": "night"
+      },
+      "rating": 4.5,
+      "link": "https://www.airbnb.com/rooms/32160117"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/bf814e86-62b7-44a6-a3e6-2ea2c4853d78.jpg?im_w=720",
+      "title": "Private room in Piana del Sole",
+      "subtitles": [
+        "b&b New Fair of Rome Fiumicino Airport",
+        "1 double bed",
+        "May 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 81,
+        "period": "night"
+      },
+      "rating": 4.85,
+      "link": "https://www.airbnb.com/rooms/10135823"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/8b1beea1-54c6-4aaf-aa93-833593aa7dd5.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "amore",
+        "1 bed",
+        "Jun 19 – 24"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 113,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/868791601701260513"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-52185875/original/00db5aa9-fc2a-42c7-9ebd-45ad5d0248e9.jpeg?im_w=720",
+      "title": "Condo in Rome",
+      "subtitles": [
+        "Romantic Suite with balcony near San Giovanni",
+        "1 sofa bed",
+        "Jun 11 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 147,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/52185875"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/8c3f3fe1-9b5b-4da6-b687-7cd06831829f.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "YOUR HOME IN ROME",
+        "Nov 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 45,
+        "period": "night"
+      },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/603234"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-11292502/original/6abd2a61-25fd-4d21-a8b9-dd0e15515f25.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "VATICAN - EVENING - The Cardinals' Rooms",
+        "1 double bed",
+        "Oct 11 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 79,
+        "period": "night"
+      },
+      "rating": 4.7,
+      "link": "https://www.airbnb.com/rooms/11292502"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/45f27401-4d87-4334-aec1-82c52aab1bb0.jpg?im_w=720",
+      "title": "Condo in Fiumicino",
+      "subtitles": [
+        "river apartment with terrace and garden",
+        "4 beds",
+        "Jul 19 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 67,
+        "period": "night"
+      },
+      "rating": 4.72,
+      "link": "https://www.airbnb.com/rooms/11705009"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/f1639d97-d855-4660-bc06-eb0e14b61fd2.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Timperi house CIU: CVN-00 | 23-7",
+        "1 king bed",
+        "Jul 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 96,
+        "period": "night"
+      },
+      "rating": 4.86,
+      "link": "https://www.airbnb.com/rooms/34172907"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-735292946030528406/original/be6dc58e-2057-4e4c-89f7-b04a2a93a4d5.jpeg?im_w=720",
+      "title": "Condo in Rome",
+      "subtitles": [
+        "Park House (vatican zone)",
+        "1 bed",
+        "Jun 28 – Jul 3"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 98,
+        "period": "night"
+      },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/735292946030528406"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/741a342c-5424-4a6c-aa20-c31be53f5d65.jpg?im_w=720",
+      "title": "Condo in Rome",
+      "subtitles": [
+        "Huge apartment in Rione Esquilino",
+        "1 double bed",
+        "Aug 12 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 101,
+        "period": "night"
+      },
+      "rating": 4.85,
+      "link": "https://www.airbnb.com/rooms/36760568"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/89c051cc-c86f-405a-8123-0e5b03e69c04.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Ensuite twin room- Termini",
+        "2 beds",
+        "Jun 9 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 111,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/872892174957916668"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/8efa3541-7436-4b73-b4c4-2c6b07fcf4d9.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Art Timeline (with private balcony)",
+        "1 queen bed",
+        "May 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 124,
+        "period": "night"
+      },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/11333827"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/59275754/dda6841d_original.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Colosseum Dream Casa, Rome city center.",
+        "3 beds",
+        "Oct 30 – Nov 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 134,
+        "period": "night"
+      },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/4272608"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/473ac970-5ac0-4101-bbfa-aa616eee7a8f.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Incredible Views of Campo de Fiori",
+        "2 beds",
+        "Nov 12 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 126,
+        "period": "night"
+      },
+      "rating": 4.65,
+      "link": "https://www.airbnb.com/rooms/2179247"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c5e906a1-79c0-4e54-a004-c4e93777acbc.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Casa dolce casa Ro",
+        "1 bed",
+        "Jun 18 – 23"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 63,
+        "period": "night"
+      },
+      "rating": 4.64,
+      "link": "https://www.airbnb.com/rooms/37148449"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-829745975531904637/original/0fe40867-5994-448f-ab4e-386992992519.png?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Loft Accogliente - Piazza San Giovanni",
+        "2 beds",
+        "Jul 7 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 76,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/829745975531904637"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-14582141/original/02400e2c-a39b-4b70-a21a-a56993e9a6c4.jpeg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Romantic near Saint Peter Moustache House Rome",
+        "5 beds",
+        "Nov 7 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 76,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/14582141"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/67688817-f488-40e5-a8a6-8fe091342ed0.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Bright apartment in Rome",
+        "4 beds",
+        "Aug 7 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 67,
+        "period": "night"
+      },
+      "rating": 4.76,
+      "link": "https://www.airbnb.com/rooms/730072"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/93801d81-d247-4c98-9463-031cbefd8d2b.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Sweet wifi 1bdr 4 beds Flat",
+        "2 beds",
+        "May 23 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 128,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/873182529462587196"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1af5d773-5d46-4963-8e25-295b202f7ae8.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Colosseum Hill Mountains",
+        "2 beds",
+        "Nov 28 – Dec 3"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 112,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/41258749"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-19159946/original/1cbf7780-3a55-4a78-8ce7-52365506bfe1.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Green Room, with private bathroom",
+        "2 double beds",
+        "Aug 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 59,
+        "period": "night"
+      },
+      "rating": 4.54,
+      "link": "https://www.airbnb.com/rooms/19159946"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/78d378a2-8741-47f8-b28d-29bac5ab39e2.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "lola's house",
+        "1 single bed",
+        "Jul 11 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 52,
+        "period": "night"
+      },
+      "rating": 4.69,
+      "link": "https://www.airbnb.com/rooms/13725809"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-733712903217137733/original/bd72717e-28ae-4da5-a615-f9f242ae1e65.jpeg?im_w=720",
+      "title": "Shared room in Rome",
+      "subtitles": [
+        "To(i)Travelers",
+        "1 small double bed",
+        "Oct 19 – 24"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 53,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/733712903217137733"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/dd213134-39ad-45cf-a657-bd9da84a8f1a.jpg?im_w=720",
+      "title": "Condo in Rome",
+      "subtitles": [
+        "Cosy apartment 1 in San Lorenzo - Nice View",
+        "3 beds",
+        "Oct 30 – Nov 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 77,
+        "period": "night"
+      },
+      "rating": 4.81,
+      "link": "https://www.airbnb.com/rooms/696149008692020370"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-697070/original/eca8fe49-65e8-430d-ba0f-5343f4ac307f.jpeg?im_w=720",
+      "title": "Apartment in Vitinia",
+      "subtitles": [
+        "Rome suburbs, Great Transit",
+        "2 beds",
+        "May 14 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 61,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/697070"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/22a95277-8724-4eed-90b6-8b08eeadcb17.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Lilly House near Subway",
+        "2 beds",
+        "Aug 24 – 29"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 83,
+        "period": "night"
+      },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/18800967"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-626476722944696608/original/15cda759-1186-47aa-b56d-baac4113269c.jpeg?im_w=720",
+      "title": "Loft in Rome",
+      "subtitles": [
+        "enchanting attic with coronaries for two",
+        "1 bed",
+        "Aug 6 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 139,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/626476722944696608"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/34379848/7574b4a2_original.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "private access studio apartment",
+        "1 bed",
+        "Nov 5 – 10"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 54,
+        "period": "night"
+      },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/2131315"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-870920685223646373/original/6721880e-9d09-4328-9df1-c50dc34ae875.jpeg?im_w=720",
+      "title": "Private room in Marino",
+      "subtitles": [
+        "Camera in Casa degli Artisti",
+        "1 bed",
+        "May 28 – Jun 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 25,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/870920685223646373"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/61821275/eed7bd8a_original.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Single Room Near Metro A",
+        "1 bed",
+        "Jul 4 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 42,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/3087091"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/07ec8fac-86a6-47fe-b816-143337dd77eb.jpg?im_w=720",
+      "title": "Private room in Lido di Ostia",
+      "subtitles": [
+        "Pearl of the Sea",
+        "1 king bed",
+        "May 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 62,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/26254159"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/eb60a605-121a-4f9f-baa6-befe651fb05a.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Mayflower guesthouse Vittorio Emanuele",
+        "1 king bed",
+        "Aug 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 102,
+        "period": "night"
+      },
+      "rating": 4.84,
+      "link": "https://www.airbnb.com/rooms/23035228"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/84660926/2b080d6a_original.jpg?im_w=720",
+      "title": "Condo in Rome",
+      "subtitles": [
+        "Cozy apartament near Colosseo and metro  in Rome!!",
+        "1 queen bed",
+        "Oct 12 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 123,
+        "period": "night"
+      },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/6387577"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-15068287/original/4e640247-cf35-4026-94ec-fffb3ac3d704.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Alice Vatican  room with courtyard view",
+        "1 queen bed",
+        "Aug 19 – 24"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 100,
+        "period": "night"
+      },
+      "rating": 4.81,
+      "link": "https://www.airbnb.com/rooms/15068287"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-49681664/original/d98deb89-d805-491f-b80b-ce84f520eac6.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "TRASTEVERE SMALL SINGLE ROOM",
+        "1 single bed",
+        "Jul 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 49,
+        "period": "night"
+      },
+      "rating": 4.83,
+      "link": "https://www.airbnb.com/rooms/49681664"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/73e12443-2012-4a36-8d6a-7d95c9be071c.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Splendid wide private room with stunning view!#15",
+        "2 beds",
+        "Nov 4 – 9"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 50,
+        "period": "night"
+      },
+      "rating": 4.51,
+      "link": "https://www.airbnb.com/rooms/32160726"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/5af832df-3f81-4b23-809a-e6aa604cf220.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "single/double room B&B Trastevere \"LaZotta\"",
+        "1 double bed",
+        "Jul 5 – 10"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 100,
+        "period": "night"
+      },
+      "rating": 4.7,
+      "link": "https://www.airbnb.com/rooms/2201485"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d8e93080-8ff5-448e-8324-f8f2b2c34122.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Cosmopolitan - Roma Termini Suites 5",
+        "1 small double bed",
+        "Jul 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 83,
+        "period": "night"
+      },
+      "rating": 4.64,
+      "link": "https://www.airbnb.com/rooms/14040202"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/10508780/88563761_original.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Charming Flat in Rome-Trastevere",
+        "2 beds",
+        "Nov 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 69,
+        "period": "night"
+      },
+      "rating": 4.56,
+      "link": "https://www.airbnb.com/rooms/751396"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-40853824/original/008898e8-9675-432c-8e54-5f39338e4af7.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Piazza Bologna room 25 sqm",
+        "2 beds",
+        "Jun 28 – Jul 3"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 28,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/40853824"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/47698805/0b6bc392_original.jpg?im_w=720",
+      "title": "Apartment in Trastevere",
+      "subtitles": [
+        "Heart of Trastevere",
+        "2 single beds",
+        "Nov 17 – 22"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 75,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/3700412"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/038b2bd2-e07d-4d4e-b0a4-926af16903e8.jpg?im_w=720",
+      "title": "Private room in Appio Latino",
+      "subtitles": [
+        "DOUBLE ROOM IN ROME",
+        "1 double bed",
+        "Oct 13 – 20"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 43,
+        "period": "night"
+      },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/9385319"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c3e6e8ce-4f0b-4157-8b7a-ea5d06ae02c3.jpg?im_w=720",
+      "title": "Apartment in Aurelio",
+      "subtitles": [
+        "Central Rome Cornelia near St. Peter",
+        "2 beds",
+        "Jul 24 – 31"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 86,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/20796228"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/54d3c741-afaa-49b2-a6e5-7a1200ac3609.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Room in centralCityVillas+terrace on Pigneto",
+        "1 double bed",
+        "May 26 – 31"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 108,
+        "period": "night"
+      },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/6081258"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-6255549/original/44afdd81-81ac-47f9-ae7b-0047dd49cb55.jpeg?im_w=720",
+      "title": "Condo in Rome",
+      "subtitles": [
+        "Ponte Milvio Roma - Apartment Duke's -",
+        "2 beds",
+        "Jun 11 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 164,
+        "period": "night"
+      },
+      "rating": 4.97,
+      "link": "https://www.airbnb.com/rooms/6255549"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/117628fb-0db3-4964-9da2-ab069bebc56c.jpg?im_w=720",
+      "title": "Apartment in Trastevere",
+      "subtitles": [
+        "BLU HOUSE - city centre",
+        "1 bed",
+        "Jul 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 145,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/24012480"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/2d75f446-4745-4ff2-8dab-5da15b32f534.jpg?im_w=720",
+      "title": "Private room in Trionfale",
+      "subtitles": [
+        "Rose in Rome - Classic Double Room",
+        "1 double bed",
+        "Aug 8 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 60,
+        "period": "night"
+      },
+      "rating": 4.83,
+      "link": "https://www.airbnb.com/rooms/8795587"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-678982103201187603/original/cc5a8db1-74cc-4b68-bcd3-4294a7df1e12.jpeg?im_w=720",
+      "title": "Private room in Trieste",
+      "subtitles": [
+        "Classic Room\nRoma",
+        "1 bed",
+        "May 22 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 134,
+        "period": "night"
+      },
+      "rating": 4.95,
+      "link": "https://www.airbnb.com/rooms/678982103201187603"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/f22f172a-9422-4e47-8963-b06112f60496.jpg?im_w=720",
+      "title": "Apartment in Monti",
+      "subtitles": [
+        "Monti. Between the Colosseum and the Imperial Forums",
+        "3 beds",
+        "Oct 23 – 28"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 102,
+        "period": "night"
+      },
+      "rating": 4.45,
+      "link": "https://www.airbnb.com/rooms/35986408"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/12000280/4bcefbf8_original.jpg?im_w=720",
+      "title": "Apartment in Prati",
+      "subtitles": [
+        "Casina Roma, 2 min to Piazza Navona",
+        "1 double bed",
+        "Jul 25 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 119,
+        "period": "night"
+      },
+      "rating": 4.7,
+      "link": "https://www.airbnb.com/rooms/843160"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-553594344857013396/original/4fe64801-2186-46d9-8ab5-3d576340b42e.png?im_w=720",
+      "title": "Private room in Trionfale",
+      "subtitles": [
+        "Green room in cozy apartment",
+        "1 bed",
+        "Oct 11 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 82,
+        "period": "night"
+      },
+      "rating": 4.76,
+      "link": "https://www.airbnb.com/rooms/553594344857013396"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0b768881-efdc-4367-9883-4772b1d13c87.jpg?im_w=720",
+      "title": "Private room in Esquilino",
+      "subtitles": [
+        "a Charming room , 800m Colosseo.150m Metro A",
+        "2 beds",
+        "Nov 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 57,
+        "period": "night"
+      },
+      "rating": 4.58,
+      "link": "https://www.airbnb.com/rooms/9256627"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/9c9b58e1-646a-42d6-b5db-4fb89a106e28.jpg?im_w=720",
+      "title": "Apartment in Trastevere",
+      "subtitles": [
+        "Cute mini loft in Trastevere",
+        "1 sofa bed",
+        "Jul 28 – Aug 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 70,
+        "period": "night"
+      },
+      "rating": 4.4,
+      "link": "https://www.airbnb.com/rooms/49957867"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/779175c9-1a2a-4635-8bdf-5812c9f88043.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Grandma Maria's House - San Giovanni",
+        "2 beds",
+        "Sep 15 – 20"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 93,
+        "period": "night"
+      },
+      "rating": 4.64,
+      "link": "https://www.airbnb.com/rooms/49703407"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d91c8c06-2787-4dd4-ad77-14d49c05088d.jpg?im_w=720",
+      "title": "Private room in Esquilino",
+      "subtitles": [
+        "Oxy Room2 near by Termini and Colosseum 15min",
+        "1 queen bed",
+        "Aug 7 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 49,
+        "period": "night"
+      },
+      "rating": 4.42,
+      "link": "https://www.airbnb.com/rooms/31246979"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6c8d6622-e84a-432e-aee7-338d53fc0599.jpg?im_w=720",
+      "title": "Tiny home in Rome",
+      "subtitles": [
+        "Grandma Maria's House - Pigneto",
+        "1 double bed",
+        "Sep 11 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 86,
+        "period": "night"
+      },
+      "rating": 4.79,
+      "link": "https://www.airbnb.com/rooms/49708918"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-18713631/original/adae0f32-c4a1-4247-b09f-119f7c8a8408.jpeg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "ELEGANT apartment in HEART ❤ of ROME #RaffaelloInn",
+        "1 king bed",
+        "Nov 11 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 150,
+        "period": "night"
+      },
+      "rating": 4.97,
+      "link": "https://www.airbnb.com/rooms/plus/18713631"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-43654776/original/bf7a2dc3-9149-4211-ad61-38ac0fd23a3f.jpeg?im_w=720",
+      "title": "Private room in Parione",
+      "subtitles": [
+        "FANTASTIC LOCATION SAVELLI -2 beds upon request",
+        "1 queen bed",
+        "Oct 22 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 67,
+        "period": "night"
+      },
+      "rating": 4.76,
+      "link": "https://www.airbnb.com/rooms/43654776"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-601964566116895381/original/34d5e7b0-7c09-486e-9bf0-35f3a8766f84.jpeg?im_w=720",
+      "title": "Private room in Gianicolense",
+      "subtitles": [
+        "Charming apartment: parking,wi-fi,kitchen,AirC",
+        "2 beds",
+        "Aug 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 77,
+        "period": "night"
+      },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/601964566116895381"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/55cc25c5-294f-432b-8065-93cc09318c33.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Room in Villino with BBQ area (Unicamillus)",
+        "2 beds",
+        "May 20 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 36,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/684531490803226286"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ab480e63-5916-4f18-b6eb-1b99e13d5fa6.jpg?im_w=720",
+      "title": "Loft in Sant'Angelo",
+      "subtitles": [
+        "Loft in ex-stables of ancient palace",
+        "1 queen bed",
+        "Nov 22 – 29"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 108,
+        "period": "night"
+      },
+      "rating": 4.86,
+      "link": "https://www.airbnb.com/rooms/23120002"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-858437302311816292/original/c3df6766-e3aa-43f2-bfc2-c66d7c2af99e.jpeg?im_w=720",
+      "title": "Apartment in Monti",
+      "subtitles": [
+        "Colosseo's Uptown Loft",
+        "1 bed",
+        "Jun 18 – 23"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 171,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/858437302311816292"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/3788334/140d1eea_original.jpg?im_w=720",
+      "title": "Apartment in Sant'Angelo",
+      "subtitles": [
+        "Fori Romani 2",
+        "2 beds",
+        "Oct 11 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 102,
+        "period": "night"
+      },
+      "rating": 4.38,
+      "link": "https://www.airbnb.com/rooms/335162"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-844933262334275082/original/23d6ad2f-e13b-4c0c-9dd0-afdf954f2eef.jpeg?im_w=720",
+      "title": "Condo in Esquilino",
+      "subtitles": [
+        "Piacevole, tranquillo a 2 passi dal centro storico",
+        "4 beds",
+        "Jun 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 126,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/844933262334275082"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0f8b4139-5142-4fed-853f-14b7a06e0285.jpg?im_w=720",
+      "title": "Private room in Prati",
+      "subtitles": [
+        "Blue Bird with private bathroom",
+        "1 bed",
+        "Jul 23 – 28"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 79,
+        "period": "night"
+      },
+      "rating": 4.97,
+      "link": "https://www.airbnb.com/rooms/8045343"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/8950cf1d-3e11-446e-8298-4188537921c1.jpg?im_w=720",
+      "title": "Apartment in Aurelio",
+      "subtitles": [
+        "A coffee in Rome - Nice apartment in Rome",
+        "1 queen bed",
+        "Aug 11 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 82,
+        "period": "night"
+      },
+      "rating": 4.97,
+      "link": "https://www.airbnb.com/rooms/15560259"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ddfc6c8e-51bf-43ae-a812-a7b02bfa23ca.jpg?im_w=720",
+      "title": "Private room in Trastevere",
+      "subtitles": [
+        "NEW&MODERN ROOM IN TRASTEVERE ROME CENTER",
+        "1 double bed",
+        "Jun 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 89,
+        "period": "night"
+      },
+      "rating": 4.27,
+      "link": "https://www.airbnb.com/rooms/11417696"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/242caf00-a2f7-4bd8-8a5f-c1aa991ce9c2.jpg?im_w=720",
+      "title": "Private room in Portuense",
+      "subtitles": [
+        "Room w/bathroom 10 ' from Trastevere",
+        "1 double bed",
+        "Aug 25 – 31"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 76,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/11816090"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0cd8d980-ad8b-4853-b4f6-c9cabaca031f.jpg?im_w=720",
+      "title": "Loft in Esquilino",
+      "subtitles": [
+        "SPACIOUS LOFT near Termini station & MetroA!! #21",
+        "2 beds",
+        "Nov 4 – 9"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 70,
+        "period": "night"
+      },
+      "rating": 4.34,
+      "link": "https://www.airbnb.com/rooms/33095985"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-699959951622124326/original/12e1e4c2-5af1-48f1-b35c-41a00e39bb7b.jpeg?im_w=720",
+      "title": "Condo in Trastevere",
+      "subtitles": [
+        "MyRentalInn - Cozy Studio Apartment in Trastevere",
+        "1 bed",
+        "Oct 7 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 91,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/699959951622124326"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0b874515-564f-4c7f-9919-4d9421e1091a.jpg?im_w=720",
+      "title": "Apartment in Campo Marzio",
+      "subtitles": [
+        "Studio flat Via Sistina, central Rome  (Cod.6385)",
+        "2 beds",
+        "Jul 24 – 29"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 127,
+        "period": "night"
+      },
+      "rating": 4.7,
+      "link": "https://www.airbnb.com/rooms/28974953"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-774610310350976121/original/7e716648-249f-493b-9f63-424993336d7b.jpeg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "dolce vita",
+        "1 bed",
+        "Aug 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 83,
+        "period": "night"
+      },
+      "rating": 4.3,
+      "link": "https://www.airbnb.com/rooms/774610310350976121"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/bef9e9a9-36a5-4ef4-9d55-5a515b2e595a.jpg?im_w=720",
+      "title": "Private room in Prati",
+      "subtitles": [
+        "Between Saints and Poets 2 - Daisy Apt.",
+        "1 queen bed",
+        "Sep 22 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 88,
+        "period": "night"
+      },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/27470370"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/fb3b5713-1ea6-4fc8-b80c-9f73cf7879de.jpg?im_w=720",
+      "title": "Loft in Trastevere",
+      "subtitles": [
+        "Quiet, Private BR W/BA, + Amenities",
+        "1 bed",
+        "Jul 25 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 68,
+        "period": "night"
+      },
+      "rating": 4.32,
+      "link": "https://www.airbnb.com/rooms/10448465"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-44467861/original/85bb9499-efbb-4e1f-96a3-4f7298a04d18.jpeg?im_w=720",
+      "title": "Private room in Esquilino",
+      "subtitles": [
+        "A quiet single room.",
+        "1 bed",
+        "May 28 – Jun 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 65,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/44467861"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c1520a4f-6374-45f3-a10d-d3e669ffce7f.jpg?im_w=720",
+      "title": "Apartment in Aurelio",
+      "subtitles": [
+        "Vatican Suite 18944",
+        "1 queen bed",
+        "Oct 13 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 80,
+        "period": "night"
+      },
+      "rating": 4.36,
+      "link": "https://www.airbnb.com/rooms/3564438"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/43318bd8-4337-4b20-a260-81f02ae6831b.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Villa Rossellini L2",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 68,
+        "period": "night"
+      },
+      "rating": 4.84,
+      "link": "https://www.airbnb.com/rooms/52214845"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/df556d4a-b50e-4a01-b13c-f58d01f70b99.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Bright open space close to Trastevere",
+        "1 small double bed",
+        "Aug 19 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 47,
+        "period": "night"
+      },
+      "rating": 4.83,
+      "link": "https://www.airbnb.com/rooms/7676363"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/52eccdd1-9edf-435f-8f11-3f4554c4d37a.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Green room S. Giovanni Metro wifi",
+        "1 double bed",
+        "Aug 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 87,
+        "period": "night"
+      },
+      "rating": 4.47,
+      "link": "https://www.airbnb.com/rooms/9913343"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-615544892912322932/original/f22f6b7b-7221-4667-8487-d2214b03bf1b.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Comfy Room, Memory foam bed, WiFi,  next to metroA",
+        "1 bed",
+        "May 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 53,
+        "period": "night"
+      },
+      "rating": 4.35,
+      "link": "https://www.airbnb.com/rooms/615544892912322932"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0fa49741-6eda-49cb-91af-f4b09a3f7e58.jpg?im_w=720",
+      "title": "Condo in Torvaianica",
+      "subtitles": [
+        "Studio with private beach access",
+        "1 bed",
+        "May 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 64,
+        "period": "night"
+      },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/594626967089923697"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/deff73fc-e7cc-4a68-b333-b442e5eafca4.jpg?im_w=720",
+      "title": "Apartment in Ciampino",
+      "subtitles": [
+        "Leo Station Corner",
+        "1 double bed",
+        "Oct 22 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 70,
+        "period": "night"
+      },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/39356108"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e16f686f-75e6-4c5f-822f-914774386c26.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Rose in Rome - Wood Double Room",
+        "1 double bed",
+        "Aug 24 – 29"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 66,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/9576861"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e8cf8922-b164-4253-8b2c-a7a86db5aa94.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "A Casa Mia Room Rental - Single Room",
+        "1 bed",
+        "Jun 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 73,
+        "period": "night"
+      },
+      "rating": 4.81,
+      "link": "https://www.airbnb.com/rooms/33149792"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/2860a44e-1fac-48e6-98a2-697f50b26197.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Roma SanLollo",
+        "2 beds",
+        "Oct 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 102,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/795613122211087799"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/31aae9b4-b72a-4284-94cf-1a84994598e8.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "San Giovanni flat near to the Colosseum",
+        "2 double beds",
+        "Oct 31 – Nov 5"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 83,
+        "period": "night"
+      },
+      "rating": 4.77,
+      "link": "https://www.airbnb.com/rooms/44314602"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/30323932/6fd0fccb_original.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Feel at home in Rome",
+        "2 beds",
+        "Oct 9 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 83,
+        "period": "night"
+      },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/118803"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/89698212/f58e1e20_original.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Rome, Pigneto: 1 bedroom apartment",
+        "2 beds",
+        "Aug 15 – 21"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 60,
+        "period": "night"
+      },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/7024384"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/bceb88f7-197e-43db-be16-32ad5898287b.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Rosanna's House",
+        "2 beds",
+        "Aug 5 – 10"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 119,
+        "period": "night"
+      },
+      "rating": 4.95,
+      "link": "https://www.airbnb.com/rooms/35598223"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/9c2985a7-3889-4034-a7bc-f058c79dad12.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "APPARTAMENTO RISTRUTTURATO CON GIARDINO - ROMA",
+        "1 queen bed",
+        "May 28 – Jun 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 102,
+        "period": "night"
+      },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/1722794"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-851220619041169985/original/ed4ef52c-7d56-415e-a50a-343b4ba96e2f.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Casa Ravasco - Single bedroom outdoor bathroom",
+        "2 beds",
+        "Jul 12 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 53,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/851220619041169985"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7b57e39a-3d02-4404-a3d7-3b1cd8a99485.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Charming room near Colosseo",
+        "1 queen bed",
+        "Aug 24 – 29"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 87,
+        "period": "night"
+      },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/13025995"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-633903300963263556/original/c41bc77e-d15b-4d2b-a7be-55d0e2f89ab2.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Gulliver Cosmo 905",
+        "1 bed",
+        "Jun 25 – Jul 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 89,
+        "period": "night"
+      },
+      "rating": 4.73,
+      "link": "https://www.airbnb.com/rooms/633903300963263556"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7f70fbd0-2bca-4bb6-9a44-0974643a0a94.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Room in Roma Trastevere",
+        "1 bed",
+        "Sep 11 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 75,
+        "period": "night"
+      },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/6564494"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/45580607-7604-4ca5-906b-bd65e5d92a10.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "COZY, CHARATERISTIC AND CHARMING LOFT N TRASTEVERE",
+        "1 double bed",
+        "Nov 26 – Dec 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 89,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/45892446"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/5fec12a1-a79c-4712-b7be-32416e6789ed.jpg?im_w=720",
+      "title": "Home in Rome",
+      "subtitles": [
+        "Unusual home a livable sculpture",
+        "1 queen bed",
+        "Aug 3 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 95,
+        "period": "night"
+      },
+      "rating": 4.76,
+      "link": "https://www.airbnb.com/rooms/9455259"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e22e3667-c5a8-4310-bc7c-013c64740927.jpg?im_w=720",
+      "title": "Loft in Rome",
+      "subtitles": [
+        "Architectural merit over the roofs",
+        "1 king bed",
+        "Sep 18 – 23"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 80,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/7031479"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-4196414/original/d38c986a-365a-4c95-8037-5e44a019d706.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Single room by Rossella",
+        "1 single bed",
+        "Apr 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 100,
+        "period": "night"
+      },
+      "rating": 4.6,
+      "link": "https://www.airbnb.com/rooms/4196414"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/78464581/2094b89a_original.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "room for single use beautiful",
+        "2 single beds",
+        "Jul 3 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 56,
+        "period": "night"
+      },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/6064625"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/83eb6a9b-2f35-4f73-a813-c6c78697c4c9.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "B&B Il Ristoro dei Papi Luxury Style III°",
+        "3 beds",
+        "Nov 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 75,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/24489119"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-13852710/original/efe7d3f6-8db3-4cf3-8e11-057dec5d6b0e.jpeg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Openspace old town - Piazza Navona - int 5",
+        "1 bed",
+        "Feb 16 – 21"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 75,
+        "period": "night"
+      },
+      "rating": 4.48,
+      "link": "https://www.airbnb.com/rooms/13852710"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/bbc27ced-ca2b-4254-8805-fadbf64d9392.jpg?im_w=720",
+      "title": "Private room in Ostia Antica",
+      "subtitles": [
+        "B&B \"La Nave\" - Ostia Antica (Next To Airport)",
+        "2 beds",
+        "May 24 – 29"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 50,
+        "period": "night"
+      },
+      "rating": 4.73,
+      "link": "https://www.airbnb.com/rooms/2637045"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/29c860b0-1e91-452b-bc05-7b5c3f57c13b.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Studio near piazza Navona and Campo de Fiori",
+        "1 double bed",
+        "Aug 24 – 29"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 110,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/5791838"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1d29a854-3344-4c17-80f2-a4e23d25b1e4.jpg?im_w=720",
+      "title": "Condo in Fiumicino",
+      "subtitles": [
+        "Marisa's haus, airport, fair.",
+        "3 beds",
+        "May 26 – 31"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 84,
+        "period": "night"
+      },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/27244239"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/27562057/bbc1b078_original.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "☆ BunkBeds BR in Beautiful Artsy APT in Trastevere",
+        "4 beds",
+        "Jan 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 26,
+        "period": "night"
+      },
+      "rating": 4.75,
+      "link": "https://www.airbnb.com/rooms/2005424"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ccfad853-76b2-4950-ab32-c0b93b895860.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Rose in Rome - Superior Double Room",
+        "1 double bed",
+        "Aug 14 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 58,
+        "period": "night"
+      },
+      "rating": 4.84,
+      "link": "https://www.airbnb.com/rooms/8882724"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e664cfca-c4e9-4f14-be89-6c94706ad8b5.jpg?im_w=720",
+      "title": "Condo in Fiumicino",
+      "subtitles": [
+        "Apartment new  pedestrian area Leonardo Park",
+        "1 small double bed",
+        "Jul 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 82,
+        "period": "night"
+      },
+      "rating": 4.97,
+      "link": "https://www.airbnb.com/rooms/47775535"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-862111744192096967/original/caa3bdaf-3564-478a-99a7-32d72288b2f9.jpeg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "B&B house n.37",
+        "1 sofa bed",
+        "Jun 3 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 170,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/862111744192096967"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-34055755/original/ea2346e7-d056-4636-80d8-ca4ba288ca1d.jpeg?im_w=720",
+      "title": "Loft in Rome",
+      "subtitles": [
+        "Joy Apartment 2 - Rome - Trastevere",
+        "2 beds",
+        "Nov 30 – Dec 5"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 123,
+        "period": "night"
+      },
+      "rating": 4.97,
+      "link": "https://www.airbnb.com/rooms/34055755"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/40153593/97e123e8_original.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "on the roofs of San Lorenzo!",
+        "1 bed",
+        "Sep 1 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 51,
+        "period": "night"
+      },
+      "rating": 4.59,
+      "link": "https://www.airbnb.com/rooms/3150025"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/fb88ee76-c8bb-46fe-98a6-9bf20463202b.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Gorgeous double room Rome",
+        "1 queen bed",
+        "Jun 9 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 53,
+        "period": "night"
+      },
+      "rating": 4.28,
+      "link": "https://www.airbnb.com/rooms/20855865"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/624a8b8f-0e35-435e-8929-3b4ff28bd3de.jpg?im_w=720",
+      "title": "Hotel room in Rome",
+      "subtitles": [
+        "Grey Room at Colosseum! (Pannonia Smart House)",
+        "2 beds",
+        "Oct 17 – 22"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 112,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/18740879"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1879531c-6c2a-43e7-a94e-9ea7eaa8b03a.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "A Casa Di Ale (Holiday Flat)",
+        "1 double bed",
+        "Nov 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 113,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/18250490"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-27248834/original/3740e6f2-bec0-41e1-9ce6-f357aaf11c2e.jpeg?im_w=720",
+      "title": "Apartment in La Massimina-Casal Lumbroso",
+      "subtitles": [
+        "Charming mini-apartment in Rome",
+        "2 sofa beds",
+        "May 27 – Jun 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 59,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/27248834"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-16984260/original/c3a27935-6817-4038-b34f-ee81b5da5bb4.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Nice place to visit Rome, pine forest and beaches",
+        "1 double bed",
+        "Sep 12 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 38,
+        "period": "night"
+      },
+      "rating": 4.81,
+      "link": "https://www.airbnb.com/rooms/16984260"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/fdc549b2-e046-4442-8634-31f53c31f94d.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "VictoriaeDomus",
+        "2 beds",
+        "May 26 – 31"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 77,
+        "period": "night"
+      },
+      "rating": 4.6,
+      "link": "https://www.airbnb.com/rooms/780104699011817131"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-820345028752587122/original/3c98b07e-953a-47f1-a96d-043390bfc0ea.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Twin room-Executive-Ensuite with Shower-Camera Sta",
+        "1 double bed",
+        "Jun 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 81,
+        "period": "night"
+      },
+      "rating": 4.64,
+      "link": "https://www.airbnb.com/rooms/820345028752587122"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-2740969/original/2cf8b452-92c1-4984-9826-fd6805cd2997.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Cozy staying in Trastevere 1",
+        "1 single bed",
+        "Jun 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 88,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/2740969"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/50de067d-05d7-443c-bf11-e236d03019f9.jpg?im_w=720",
+      "title": "Apartment in Lido di Ostia",
+      "subtitles": [
+        "Rome Beach Home",
+        "2 beds",
+        "May 6 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 122,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/34519622"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/76188692/1cfc6198_original.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "\"Sunlit in Trastevere 55\"",
+        "1 double bed",
+        "Nov 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 127,
+        "period": "night"
+      },
+      "rating": 4.62,
+      "link": "https://www.airbnb.com/rooms/6114208"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/44007410/b25d2093_original.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Cosy studio in the heart of Rome",
+        "2 beds",
+        "Nov 26 – Dec 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 128,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/968004"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-43573223/original/503b652f-0741-4d7e-8e39-e43328a95825.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Zoe’Gardens,  a beauty experience for you!",
+        "1 double bed",
+        "Jun 26 – Jul 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 65,
+        "period": "night"
+      },
+      "rating": 4.97,
+      "link": "https://www.airbnb.com/rooms/43573223"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/db2137f3-73a1-4270-b710-52326db1806d.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Vols 53 - Cute Studio near  Termini",
+        "1 sofa bed",
+        "Nov 18 – 23"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 76,
+        "period": "night"
+      },
+      "rating": 4.46,
+      "link": "https://www.airbnb.com/rooms/40503075"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/35921425-a7c3-4b9f-8e6c-2ce4da5ee423.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Cozy apartment by Piazza Navona.",
+        "1 bed",
+        "Oct 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 89,
+        "period": "night"
+      },
+      "rating": 4.4,
+      "link": "https://www.airbnb.com/rooms/836286779140677050"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/fd5e7d0e-0136-442e-b4ed-f842b586b1f1.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Casa Magnolia Monteverde near Trastevere",
+        "1 double bed",
+        "Jun 21 – 28"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 95,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/45342875"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/025204c4-fdbd-40ba-8721-7d5a5c7d6f8f.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "APARTMENT NEAR CENTER, JUST  20 MINUTES",
+        "1 double bed",
+        "Aug 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 109,
+        "period": "night"
+      },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/9644424"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/8d5afa35-6a69-4a34-9d93-f73ab8e095f2.jpg?im_w=720",
+      "title": "Hotel room in Rome",
+      "subtitles": [
+        "Roman Holidays Hostel near Termini 5 ensuite",
+        "5 single beds",
+        "May 29 – Jun 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 56,
+        "period": "night"
+      },
+      "rating": 4.52,
+      "link": "https://www.airbnb.com/rooms/38340397"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-39259308/original/c857eabe-6684-4ee2-a372-281a28360891.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Termini Green B&B, double room",
+        "1 bed",
+        "Apr 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 50,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/39259308"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-25179983-unapproved/original/e3fed8b4-f0f6-4939-8580-9e9c28ca3caa.JPEG?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Bellavista Trastevere",
+        "1 double bed",
+        "Oct 11 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 113,
+        "period": "night"
+      },
+      "rating": 4.85,
+      "link": "https://www.airbnb.com/rooms/25179983"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/93c981aa-ec32-4cbd-9558-d987980dac24.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "LEONARDO'S ROOM TOURISTIC RENTAL ROME.",
+        "1 queen bed",
+        "Jun 19 – 24"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 71,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/34274569"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/16365570/bbed4499_original.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Colonna's Home in the heart of Rome",
+        "1 double bed",
+        "Aug 28 – Sep 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 107,
+        "period": "night"
+      },
+      "rating": 4.18,
+      "link": "https://www.airbnb.com/rooms/865289"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-642578262874703660/original/7e2cda98-2a84-43d1-9bb0-307bfa39f75c.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Stanza Ostia Antica a stone's throw from Rome",
+        "1 double bed",
+        "Jul 14 – 21"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 63,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/642578262874703660"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6803d77c-735e-4e77-9cde-d4909fd1ae8f.jpg?im_w=720",
+      "title": "Condo in Vitinia",
+      "subtitles": [
+        "The Little House",
+        "2 beds",
+        "May 30 – Jun 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 74,
+        "period": "night"
+      },
+      "rating": 4.77,
+      "link": "https://www.airbnb.com/rooms/531833109875760793"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/a145ca39-6076-486b-a1ee-28196d25b46a.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Villa Urbani B&B Single Room",
+        "1 single bed",
+        "Jun 9 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 88,
+        "period": "night"
+      },
+      "rating": 4.86,
+      "link": "https://www.airbnb.com/rooms/16234589"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/53051762/73c24f52_original.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "The Terrace - Holiday Home",
+        "2 beds",
+        "Jul 23 – 28"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 120,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/4222430"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/823d88ef-86eb-4f0b-bd03-397947a74e9c.jpg?im_w=720",
+      "title": "Private room in Roma Piana del Sole",
+      "subtitles": [
+        "B&B Fiumicino Airport Fiera di Roma",
+        "1 single bed",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 69,
+        "period": "night"
+      },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/10203372"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/31e9824b-082b-412e-9453-cb40e0532a24.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Roma Nord Appartment",
+        "1 bed",
+        "Jun 18 – 23"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 82,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/845531323389058115"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-619022/original/eba9d96b-3ed6-410e-bd05-84ba17c50aaa.jpeg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "nice & easy Garbatella",
+        "1 sofa bed",
+        "Sep 5 – 10"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 67,
+        "period": "night"
+      },
+      "rating": 4.75,
+      "link": "https://www.airbnb.com/rooms/619022"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4ae8e352-8c0c-4862-b0b0-b0aa411252c2.jpg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Just Behind Coliseum Terrace",
+        "3 double beds",
+        "Dec 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 127,
+        "period": "night"
+      },
+      "rating": 4.84,
+      "link": "https://www.airbnb.com/rooms/29185492"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-731056978214566014/original/a361f58c-ef99-46b5-97c4-0088eb969c4f.jpeg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Double Room in Rome 15 min from Trastevere",
+        "1 double bed",
+        "Jun 17 – 22"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 69,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/731056978214566014"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-684537739191507983/original/87b1f5a1-c127-4379-9a3d-7f429b1c741e.jpeg?im_w=720",
+      "title": "Condo in Rome",
+      "subtitles": [
+        "St. Peter Charming and Cozy Loft",
+        "1 bed",
+        "Nov 12 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 145,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/684537739191507983"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-834754647810631439/original/66c06da6-4db7-4d09-b662-170cb636aa9b.jpeg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Frida apartment",
+        "2 beds",
+        "Jul 15 – 20"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 86,
+        "period": "night"
+      },
+      "rating": 4.71,
+      "link": "https://www.airbnb.com/rooms/834754647810631439"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1eaf45fb-f4ee-4456-9a66-8d433fee69e6.jpg?im_w=720",
+      "title": "Private room in Rome",
+      "subtitles": [
+        "Private twin bedroom/ensuite",
+        "2 beds",
+        "Jun 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 130,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/871771212224293795"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-38336465/original/d2f65e40-d200-40f4-80a4-eafef40b6a58.jpeg?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Hermes Suite Four",
+        "2 beds",
+        "Nov 10 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 89,
+        "period": "night"
+      },
+      "rating": 4.69,
+      "link": "https://www.airbnb.com/rooms/38336465"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/28123889/7cf32e54_original.jpg?im_w=720",
+      "title": "Loft in Rome",
+      "subtitles": [
+        "2-level loft Vatican1 in the heart of ancient ROME",
+        "1 bed",
+        "Jul 29 – Aug 3"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 115,
+        "period": "night"
+      },
+      "rating": 4.59,
+      "link": "https://www.airbnb.com/rooms/2044585"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/06ae44a0-3495-42d8-969e-e24217517279.jpg?im_w=720",
+      "title": "Apartment in Castel Gandolfo",
+      "subtitles": [
+        "B&B Fiorella on Lake Castel Gandolfo (Rome)",
+        "4 beds",
+        "May 22 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 76,
+        "period": "night"
+      },
+      "rating": 4.85,
+      "link": "https://www.airbnb.com/rooms/22217583"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/9e11bee3-e506-4188-ae70-62a97d89eb85.jpg?im_w=720",
+      "title": "Loft in Rome",
+      "subtitles": [
+        "Loft with private bathroom near metro station",
+        "2 beds",
+        "Nov 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 66,
+        "period": "night"
+      },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/1684765"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/pro_photo_tool/Hosting-24829066-unapproved/original/4f7c0535-499d-4cf9-8c23-73a23b62b74e.JPEG?im_w=720",
+      "title": "Apartment in Rome",
+      "subtitles": [
+        "Trastevere - Trilussa Studio",
+        "1 queen bed",
+        "Nov 3 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 128,
+        "period": "night"
+      },
+      "rating": 4.98,
+      "link": "https://www.airbnb.com/rooms/24829066"
+    }
+  ]
+}

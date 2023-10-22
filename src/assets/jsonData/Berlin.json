@@ -1,0 +1,4320 @@
+{
+  "hotels": [
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-647664199858827562/original/cfc2fc4c-d703-4827-bc25-f1acb07e0025.jpeg?im_w=720",
+      "title": "Private room in Tempelhof",
+      "subtitles": [
+        "Privatzimmer in Tempelhofer Feld",
+        "1 bed",
+        "Jul 24 – 31"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 31,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/647664199858827562"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/b9cb8b8c-51b3-46c4-b9cd-d27053f7d628.jpg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Tiny, individual Room with private Bathroom",
+        "1 small double bed",
+        "Sep 1 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 40,
+        "period": "night"
+      },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/41220512"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-30881310/original/6dd66f58-0d68-4acf-8f40-168ba0936271.jpeg?im_w=720",
+      "title": "Hotel room in Prenzlauer Berg",
+      "subtitles": [
+        "Serviced Apartment - Studio in Prenzlauer Berg",
+        "1 double bed",
+        "May 8 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 108,
+        "period": "night"
+      },
+      "rating": 4.69,
+      "link": "https://www.airbnb.com/rooms/30881310"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/63522495/ae8d0d82_original.jpg?im_w=720",
+      "title": "Private room in Lichtenberg",
+      "subtitles": [
+        "City East perfectly located",
+        "1 king bed",
+        "Jul 12 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 34,
+        "period": "night"
+      },
+      "rating": 4.89,
+      "link": "https://www.airbnb.com/rooms/2591901"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-19075304/original/a9883618-b227-4d8b-b3a6-f5712349b50a.jpeg?im_w=720",
+      "title": "Private room in Charlottenburg-Wilmersdorf",
+      "subtitles": [
+        "Musical place next to Bundesplatz (U9 & S-Ring)",
+        "1 queen bed",
+        "May 20 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 71,
+        "period": "night"
+      },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/19075304"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-725973277956407623/original/395f1a3d-69d2-4993-8222-52fff94971db.jpeg?im_w=720",
+      "title": "Apartment in Prenzlauer Berg",
+      "subtitles": [
+        "Mini Apartment Altbau Prenzlauer Berg",
+        "1 bed",
+        "Jul 11 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 98,
+        "period": "night"
+      },
+      "rating": 4.97,
+      "link": "https://www.airbnb.com/rooms/725973277956407623"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/687db9dc-3c7f-457f-b855-d3c8ca0af10d.jpg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "Top floor with big private balcony-City center",
+        "1 bed",
+        "May 1 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 97,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/634633900022976900"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-843504356821251289/original/813a57cc-a9f2-4290-a3eb-d2d8ad32db5a.jpeg?im_w=720",
+      "title": "Apartment in Kreuzberg",
+      "subtitles": [
+        "Mini & charming apartment",
+        "1 bed",
+        "Oct 9 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 71,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/843504356821251289"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-675125533235815019/original/a870d7f4-fc72-478b-b782-73e611c0ed84.jpeg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Cozy room in Yoga House",
+        "1 bed",
+        "May 1 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 77,
+        "period": "night"
+      },
+      "rating": 4.64,
+      "link": "https://www.airbnb.com/rooms/675125533235815019"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/95bbe531-fc2a-4350-8b8b-a867acde7e7b.jpg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "Staying in Schöneberg",
+        "1 bed",
+        "May 26 – 31"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 76,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/13798286"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-45606656/original/7301ec85-1b65-4776-9c11-3a2bc36dafe0.jpeg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Minimalist room in Berlin vacations//business trip",
+        "1 single bed",
+        "Jun 23 – 28"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 81,
+        "period": "night"
+      },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/45606656"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/f026d25f-0f39-4afa-84f8-ee0324e524a4.jpg?im_w=720",
+      "title": "Apartment in Prenzlauer Berg",
+      "subtitles": [
+        "Mauerpark, studio under roof",
+        "1 bed",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 111,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/855537907712443459"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/f4fc59f2-958a-402c-8d29-f4e282cbcd57.jpg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "Cozy small room in Neukölln",
+        "1 double bed",
+        "May 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 50,
+        "period": "night"
+      },
+      "rating": 4.74,
+      "link": "https://www.airbnb.com/rooms/20758275"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4463037/e3bd8bb1_original.jpg?im_w=720",
+      "title": "Private room in Charlottenburg",
+      "subtitles": [
+        "Chimaysaberlin Front Room Double Bed",
+        "1 double bed",
+        "May 8 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 50,
+        "period": "night"
+      },
+      "rating": 4.4,
+      "link": "https://www.airbnb.com/rooms/214518"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/806f8886-e482-4d08-a987-00ceba0580ae.jpg?im_w=720",
+      "title": "Apartment in Mitte",
+      "subtitles": [
+        "Sexy Central Flat with View, Home Working Perfect!",
+        "2 beds",
+        "Jul 25 – 31"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 125,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/642955"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/47647887/e2334615_original.jpg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "Room in city center amazing view",
+        "1 queen bed",
+        "May 7 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 101,
+        "period": "night"
+      },
+      "rating": 4.81,
+      "link": "https://www.airbnb.com/rooms/3608625"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/79c24289-f95a-4838-8354-4957bc87672f.jpg?im_w=720",
+      "title": "Apartment in Pankow",
+      "subtitles": [
+        "Unique and colorful flat (LGBTIQ* welcoming)",
+        "2 beds",
+        "Jun 24 – Jul 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 81,
+        "period": "night"
+      },
+      "rating": 4.85,
+      "link": "https://www.airbnb.com/rooms/21129356"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-51148046/original/19a328f0-5838-4065-8706-344259d96b7f.jpeg?im_w=720",
+      "title": "Condo in Charlottenburg",
+      "subtitles": [
+        "Attractive Flat near Charlottenburg & City Center",
+        "1 double bed",
+        "Aug 24 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 112,
+        "period": "night"
+      },
+      "rating": 4.47,
+      "link": "https://www.airbnb.com/rooms/51148046"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/9235110/f19e7f45_original.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Cosy room in Mitte / Rosenthaler Platz",
+        "1 double bed",
+        "Oct 26 – 31"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 68,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/229776"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-680250759870842312/original/488cc21f-7eef-47d9-a158-566ccddce600.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Super cozy room at a great location",
+        "1 bed",
+        "Dec 1 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 65,
+        "period": "night"
+      },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/680250759870842312"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/2bc5b625-ba33-40a1-9540-0d50fa39fd20.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Guest room in bright maisonette",
+        "1 sofa bed",
+        "Sep 4 – 9"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 62,
+        "period": "night"
+      },
+      "rating": 4.95,
+      "link": "https://www.airbnb.com/rooms/12537486"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-636510987314978562/original/f3c4b0bb-0320-4069-aee6-86aeb24dc0f0.jpeg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Highly equipped apartment in the middle of the neighborhood",
+        "1 bed",
+        "Aug 23 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 125,
+        "period": "night"
+      },
+      "rating": 4.75,
+      "link": "https://www.airbnb.com/rooms/636510987314978562"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/2ded056d-0d16-4578-980a-8e1114e3c4f3.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Friendly place in Bln-center",
+        "1 bed",
+        "Feb 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 44,
+        "period": "night"
+      },
+      "rating": 4.75,
+      "link": "https://www.airbnb.com/rooms/846137824533242742"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/637305f9-1e35-4d9d-ad28-d4631af8b407.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Quiet attic in the Tempelhof aviation district",
+        "1 single bed",
+        "May 27 – Jun 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 51,
+        "period": "night"
+      },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/37847588"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/535517d1-87fa-4319-af76-34f9cad10a22.jpg?im_w=720",
+      "title": "Condo in Berlin",
+      "subtitles": [
+        "Cozy and bright apartment in Berlin",
+        "2 beds",
+        "May 19 – 24"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 120,
+        "period": "night"
+      },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/53870090"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/2142a5d4-a418-42b7-9a20-9606edde84c7.jpg?im_w=720",
+      "title": "Private room in Falkensee",
+      "subtitles": [
+        "Private room with Queensize Bed",
+        "1 double bed",
+        "Oct 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 29,
+        "period": "night"
+      },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/11058646"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/78b82aba-25b1-43bf-9141-354e69676435.jpg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Modernized 2 room apartment in the heart of Berlin",
+        "1 bed",
+        "Sep 15 – 20"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 76,
+        "period": "night"
+      },
+      "rating": 4.75,
+      "link": "https://www.airbnb.com/rooms/26248619"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/b6196826-3720-4a0a-b11c-d6b934e692ff.jpg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "1  room boutique apartment, bunk bed and balcony",
+        "2 beds",
+        "May 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 85,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/40716983"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/95c58240-2a77-4b13-bfdc-c02dc8104b5b.jpg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Central & bright apartment in hip disctrict",
+        "1 queen bed",
+        "May 20 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 81,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/44326622"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7b885766-382b-428d-8a37-098c65bd731e.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        ".Comfortable Private Room Nr. 3",
+        "1 double bed",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 71,
+        "period": "night"
+      },
+      "rating": 4.64,
+      "link": "https://www.airbnb.com/rooms/7838790"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-51759565/original/28bec2e7-99a8-4113-82cf-fe2f33322f61.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Homely BR w/free WIFI & parking/bus to BER+U Rudow",
+        "1 single bed",
+        "May 29 – Jun 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 57,
+        "period": "night"
+      },
+      "rating": 4.84,
+      "link": "https://www.airbnb.com/rooms/51759565"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/305f4522-d511-4a2e-adf6-7f9720fe782f.jpg?im_w=720",
+      "title": "Condo in Berlin",
+      "subtitles": [
+        "Whole flat,beautiful,central, quiet.",
+        "3 beds",
+        "Aug 13 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 89,
+        "period": "night"
+      },
+      "rating": 4.54,
+      "link": "https://www.airbnb.com/rooms/16145208"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c8e340a8-2494-4978-935b-978822111ce7.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Sunny, quiet, spacious room with loft-bed",
+        "2 beds",
+        "May 23 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 50,
+        "period": "night"
+      },
+      "rating": 4.69,
+      "link": "https://www.airbnb.com/rooms/34351958"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d7bbff21-5c58-4c43-90d4-269e03cf6dbf.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Shared flat  ++ read description before booking ++",
+        "1 double bed",
+        "Jul 30 – Aug 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 33,
+        "period": "night"
+      },
+      "rating": 4.19,
+      "link": "https://www.airbnb.com/rooms/43550976"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-2793794/original/77edb542-8fe1-4fbe-a08a-2a3181334391.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Attic with terrace in the Bergmannkiez + quiet",
+        "1 king bed",
+        "Jul 24 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 76,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/2793794"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d7b505cd-84be-494d-874e-c67e1bc409de.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Nice & cosy studio in Berlin-Wilmersdorf",
+        "1 bed",
+        "Aug 22 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 76,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/18070061"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6f2e982e-7855-445d-ae64-bd556f9d74b1.jpg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "Bright room in beautiful family flat in Neukölln",
+        "1 double bed",
+        "May 3 – 10"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 45,
+        "period": "night"
+      },
+      "rating": 4.57,
+      "link": "https://www.airbnb.com/rooms/35987131"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-787044645286919162/original/edd04368-79d6-42c4-8f99-ac4fafc919eb.jpeg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Private room in a shared apartment(Wg)",
+        "1 double bed",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 63,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/787044645286919162"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-870087361058955158/original/4b034cad-b166-4b2d-89d5-db43b3e71db0.jpeg?im_w=720",
+      "title": "Apartment in Prenzlauer Berg",
+      "subtitles": [
+        "1-Zimmer Wohnung Prenzlauer Berg",
+        "1 bed",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 102,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/870087361058955158"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/af03e31c-f9dc-4d8e-a834-93956414a305.jpg?im_w=720",
+      "title": "Private room in Prenzlauer Berg",
+      "subtitles": [
+        "Beautiful 25qm room in old building with balkony",
+        "1 double bed",
+        "May 5 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 90,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/27741319"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7263166/5b6887e3_original.jpg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "In the middle of the action in Berlin",
+        "1 bed",
+        "Oct 30 – Nov 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 30,
+        "period": "night"
+      },
+      "rating": 4.61,
+      "link": "https://www.airbnb.com/rooms/584012"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4e85dab3-0f4e-4d25-859a-b44e270c9917.jpg?im_w=720",
+      "title": "Apartment in Lichtenberg",
+      "subtitles": [
+        "Apartment 45sqm, for3 People, U5 Magdalenenstrasse",
+        "1 double bed",
+        "Jun 30 – Jul 5"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 121,
+        "period": "night"
+      },
+      "rating": 4.69,
+      "link": "https://www.airbnb.com/rooms/20517971"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/57f92c6c-0203-4ed0-a7e8-68af0c86590a.jpg?im_w=720",
+      "title": "Private room in Charlottenburg",
+      "subtitles": [
+        ".Comfortable Private Room Nr. 5",
+        "1 bed",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 61,
+        "period": "night"
+      },
+      "rating": 4.57,
+      "link": "https://www.airbnb.com/rooms/38686018"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/76011986/807b5392_original.jpg?im_w=720",
+      "title": "Apartment in Kreuzberg",
+      "subtitles": [
+        "Apartment close to Bergmann hood",
+        "1 double bed",
+        "Apr 13 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 51,
+        "period": "night"
+      },
+      "rating": 4.84,
+      "link": "https://www.airbnb.com/rooms/5784956"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/45165f0f-8a63-4bfb-b06b-b28364b3c249.jpg?im_w=720",
+      "title": "Apartment in Tempelhof",
+      "subtitles": [
+        "In the middle of the neighbourhood",
+        "1 double bed",
+        "Dec 16 – 21"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 100,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/39602283"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-51841334/original/e73c4f85-4448-4ca8-82a8-6270674bd344.jpeg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Cozy single Room near Lake, U-bahn, Central St.",
+        "1 sofa bed",
+        "Oct 30 – Nov 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 45,
+        "period": "night"
+      },
+      "rating": 4.97,
+      "link": "https://www.airbnb.com/rooms/51841334"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/49c7fa3b-18a4-4aa9-bca9-8858cd306ffd.jpg?im_w=720",
+      "title": "Apartment in Mitte",
+      "subtitles": [
+        "Charming Wedding old building apartment at Schillerpark",
+        "2 sofa beds",
+        "Jun 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 97,
+        "period": "night"
+      },
+      "rating": 4.95,
+      "link": "https://www.airbnb.com/rooms/18836091"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-630468862062580379/original/fc0c0e60-4f27-4ee3-8332-d3d97f2e3f53.png?im_w=720",
+      "title": "Condo in Prenzlauer Berg",
+      "subtitles": [
+        "Mauerpark - quite Apartment on vibrant location",
+        "1 bed",
+        "Jun 27 – Jul 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 90,
+        "period": "night"
+      },
+      "rating": 4.84,
+      "link": "https://www.airbnb.com/rooms/630468862062580379"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/708aa3c4-836c-4bed-ad30-729c8e357fb5.jpg?im_w=720",
+      "title": "Private room in Tempelhof",
+      "subtitles": [
+        "Cozy room at the old Berlin airfield.",
+        "1 double bed",
+        "Aug 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 49,
+        "period": "night"
+      },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/50203702"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-40248440/original/1ea214e5-74d6-4291-956d-f7a8fd49536f.jpeg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "Sunflooded room in the heart of Kreuzberg <3",
+        "1 king bed",
+        "Jun 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 105,
+        "period": "night"
+      },
+      "rating": 4.71,
+      "link": "https://www.airbnb.com/rooms/40248440"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1592aa9a-18fd-471b-b4e0-330677b04b6e.jpg?im_w=720",
+      "title": "Apartment in Prenzlauer Berg",
+      "subtitles": [
+        "2-storey maisonette : balcony rooftop terrace",
+        "1 queen bed",
+        "Jul 17 – 22"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 138,
+        "period": "night"
+      },
+      "rating": 4.89,
+      "link": "https://www.airbnb.com/rooms/11661596"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/2b73fbe9-57e9-4581-aef9-7e5a3a3e4b44.jpg?im_w=720",
+      "title": "Apartment in Mitte",
+      "subtitles": [
+        "Cosy altbau studio flat in central Berlin",
+        "2 beds",
+        "May 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 152,
+        "period": "night"
+      },
+      "rating": 4.66,
+      "link": "https://www.airbnb.com/rooms/20943832"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/2a459692-7314-4c87-bec0-82acf69fa99b.jpg?im_w=720",
+      "title": "Private room in Prenzlauer Berg",
+      "subtitles": [
+        "Double Room in Prenzlauer Berg",
+        "1 double bed",
+        "May 19 – 24"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 97,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/14424131"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1efc96df-8b22-4202-af52-dd73988ead6f.jpg?im_w=720",
+      "title": "Shared room in Mitte",
+      "subtitles": [
+        "one room appartment shared with Host",
+        "1 single bed",
+        "May 22 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 30,
+        "period": "night"
+      },
+      "rating": 4.5,
+      "link": "https://www.airbnb.com/rooms/844608023472994750"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/40c6e2c8-4158-4d14-9513-fc38388d13ca.jpg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "Bohemian in Berlin",
+        "1 bed",
+        "Jul 30 – Aug 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 84,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/795738568541225211"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/aaaa1775-5644-4985-bbaa-671d79143fdd.jpg?im_w=720",
+      "title": "Apartment in Neukölln",
+      "subtitles": [
+        "2-room cozy apartment in the heart of Neukolln",
+        "1 double bed",
+        "May 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 126,
+        "period": "night"
+      },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/33634726"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4922ca7b-8da8-406a-be41-3d867aca80f4.jpg?im_w=720",
+      "title": "Apartment in Kreuzberg",
+      "subtitles": [
+        "Central 2 room apartment in Berlin Kreuzberg",
+        "2 beds",
+        "May 12 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 99,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/786310180116401185"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/be5c0ca2-d943-4463-93c5-888e2bbe3e16.jpg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "Nice room, top amenities, air conditioner, legal",
+        "1 double bed",
+        "Sep 25 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 38,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/20568733"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-806443352368381195/original/5311d4b1-edf7-4901-9901-e1aea3cc5951.jpeg?im_w=720",
+      "title": "Private room in Prenzlauer Berg",
+      "subtitles": [
+        "private single room | Hotel Prenzlauer Berg",
+        "1 bed",
+        "Jun 20 – 25"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 79,
+        "period": "night"
+      },
+      "rating": 4.75,
+      "link": "https://www.airbnb.com/rooms/806443352368381195"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7e7eca04-e121-489c-af65-caf39a8f2c50.jpg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Lovely room in the heart of Mitte",
+        "1 bed",
+        "Jul 17 – 22"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 100,
+        "period": "night"
+      },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/747585137941299002"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c154578c-28f4-44e9-b951-77c714209ca5.jpg?im_w=720",
+      "title": "Private room in Pankow",
+      "subtitles": [
+        "Quiet and centrally located room in Florakiez",
+        "1 sofa bed",
+        "Jul 14 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 49,
+        "period": "night"
+      },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/46704484"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0366b1a6-2930-4531-9285-38850aac9ea7.jpg?im_w=720",
+      "title": "Apartment in Schöneberg",
+      "subtitles": [
+        "Simple, charming Schöneberger Seitenstrassenwg",
+        "1 double bed",
+        "Nov 17 – 23"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 33,
+        "period": "night"
+      },
+      "rating": 4.57,
+      "link": "https://www.airbnb.com/rooms/26346833"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-53104445/original/0a66f78a-acea-4787-b864-0c9e6b3d10cd.jpeg?im_w=720",
+      "title": "Private room in Charlottenburg-Wilmersdorf",
+      "subtitles": [
+        "Single Room",
+        "1 bed",
+        "Apr 18 – 23"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 65,
+        "period": "night"
+      },
+      "rating": 4.44,
+      "link": "https://www.airbnb.com/rooms/53104445"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-53104664/original/64a243be-43d2-44c5-abe0-e82461621e67.jpeg?im_w=720",
+      "title": "Hotel room in Charlottenburg-Wilmersdorf",
+      "subtitles": [
+        "Superior single room",
+        "1 bed",
+        "Apr 18 – 23"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 72,
+        "period": "night"
+      },
+      "rating": 4.32,
+      "link": "https://www.airbnb.com/rooms/53104664"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-32149692/original/64b944d2-d555-4eb7-8b55-0987eebda934.jpeg?im_w=720",
+      "title": "Apartment in Friedrichshain",
+      "subtitles": [
+        "Stayery | Modern Studio near Boxhagener Platz",
+        "1 double bed",
+        "May 4 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 157,
+        "period": "night"
+      },
+      "rating": 4.75,
+      "link": "https://www.airbnb.com/rooms/32149692"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c825c1fb-a4f1-4632-8c43-10349c52317d.jpg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "Small and on time your 02/Z/AZ/012938-20",
+        "1 double bed",
+        "Oct 15 – 20"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 38,
+        "period": "night"
+      },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/9774272"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-611235827845447324/original/d825b10b-9ba2-40ed-9195-409211246f35.jpeg?im_w=720",
+      "title": "Apartment in Prenzlauer Berg",
+      "subtitles": [
+        "Great 2-room apartment in Prenzlauer Berg",
+        "1 double bed",
+        "Jun 4 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 126,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/611235827845447324"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/25999431-95c2-44fc-80c0-dfc8db4962c9.jpg?im_w=720",
+      "title": "Private room in Lichtenberg",
+      "subtitles": [
+        "cozy room with lots of space",
+        "1 sofa bed",
+        "Jun 20 – 25"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 81,
+        "period": "night"
+      },
+      "rating": 4.81,
+      "link": "https://www.airbnb.com/rooms/51558001"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/04d4d5ee-f5a6-428c-a168-2a8eed736dae.jpg?im_w=720",
+      "title": "Private room in Charlottenburg-Wilmersdorf",
+      "subtitles": [
+        "Beautiful room in buddhist center / Westend",
+        "4 single beds",
+        "Jun 11 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 57,
+        "period": "night"
+      },
+      "rating": 4.81,
+      "link": "https://www.airbnb.com/rooms/20647264"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7f83fbbe-e895-4846-bf87-7a4638f773f1.jpg?im_w=720",
+      "title": "Private room in Lichtenberg",
+      "subtitles": [
+        "Sapa, Mini- Private Room in  Apartment",
+        "1 bed",
+        "Aug 26 – 31"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 40,
+        "period": "night"
+      },
+      "rating": 4.75,
+      "link": "https://www.airbnb.com/rooms/26952394"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-40911656/original/17b5145c-99f0-4b38-b0e6-2e9d5cc30e9b.jpeg?im_w=720",
+      "title": "Private room in Prenzlauer Berg",
+      "subtitles": [
+        "Sunny room in a cool berlin appartment w/ balcony",
+        "1 double bed",
+        "May 20 – 25"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 64,
+        "period": "night"
+      },
+      "rating": 4.83,
+      "link": "https://www.airbnb.com/rooms/40911656"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/a759d271-80e8-4cd7-97a9-b80d2256545d.jpg?im_w=720",
+      "title": "Apartment in Neukölln",
+      "subtitles": [
+        "Sweet Home Karl Marx!",
+        "2 beds",
+        "Aug 22 – 28"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 114,
+        "period": "night"
+      },
+      "rating": 4.47,
+      "link": "https://www.airbnb.com/rooms/8622788"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-230411/original/e04471fd-69ff-4567-b05b-d316b359cf74.jpeg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "Wonderful Room in Hip Kreuzberg!!",
+        "1 double bed",
+        "May 11 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 77,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/230411"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/04620324-6207-4311-9778-df1eb4927f8b.jpg?im_w=720",
+      "title": "Apartment in Lichtenberg",
+      "subtitles": [
+        "Artfully designed separate home",
+        "1 bed",
+        "Jun 29 – Jul 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 65,
+        "period": "night"
+      },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/36214660"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7139f8d7-65f3-45ed-91aa-d0129a87954d.jpg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "cozy room in stylish apartment",
+        "1 double bed",
+        "Jun 9 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 92,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/44596704"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0372af9c-1fc9-479f-9231-912f0fb81723.jpg?im_w=720",
+      "title": "Apartment in Reinickendorf",
+      "subtitles": [
+        "Apartments in Hostel am Schäfersee _06",
+        "1 bed",
+        "Aug 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 63,
+        "period": "night"
+      },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/22483099"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e254d214-ffdd-4022-aad5-a8fcc3466f94.jpg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "quiet single room 2.3 to the courtyard (2nd floor)",
+        "1 bed",
+        "Jul 20 – 25"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 45,
+        "period": "night"
+      },
+      "rating": 4.25,
+      "link": "https://www.airbnb.com/rooms/14829530"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-627309608055717027/original/3eca8899-418c-450b-9fac-84a66aa88fc6.jpeg?im_w=720",
+      "title": "Apartment in Lichtenberg",
+      "subtitles": [
+        "1-room apartment, 33 minutes directly to Alexanderplatz",
+        "1 bed",
+        "Jun 26 – Jul 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 64,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/627309608055717027"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-777910036659949560/original/5c250b9b-06a4-45aa-aad8-687a3a0fead2.jpeg?im_w=720",
+      "title": "Shared room in Mitte",
+      "subtitles": [
+        "Bed 1 - Cosy room in Hauptbahnhof heart of Berlin",
+        "2 beds",
+        "May 12 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 49,
+        "period": "night"
+      },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/777910036659949560"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6784eb8d-b018-4141-b82f-b82f06da028f.jpg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "20 qm room, kids are welcome!",
+        "1 double bed",
+        "Mar 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 51,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/3920591"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-22676690/original/8feb034a-560c-4eaa-9c0e-86030b8f8684.jpeg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "Sunny room in Neukölln, on the river, solo woman",
+        "1 bed",
+        "Aug 25 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 57,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/22676690"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/922fbcef-baef-42ed-b651-287d5948a1a8.jpg?im_w=720",
+      "title": "Private room in Reinickendorf",
+      "subtitles": [
+        "minimalistic but beautiful room",
+        "1 bed",
+        "Oct 23 – 28"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 33,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/847799367651729277"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0fd3ff4d-9296-4701-b24f-d2c78d82a60a.jpg?im_w=720",
+      "title": "Private room in Pankow",
+      "subtitles": [
+        "Spacious and quiet room close to the city center!",
+        "1 double bed",
+        "May 1 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 74,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/49228349"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-49070135/original/c55320d9-046e-43d2-9663-66baa94b48bb.jpeg?im_w=720",
+      "title": "Apartment in Schöneberg",
+      "subtitles": [
+        "numa | Homely Room in wintery Schoeneberg",
+        "1 bed",
+        "May 14 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 135,
+        "period": "night"
+      },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/49070135"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/07cb4f67-775b-48ca-99c3-1933a1d036b9.jpg?im_w=720",
+      "title": "Hotel room in Charlottenburg",
+      "subtitles": [
+        "Serviced Apartment - Studio in City-West",
+        "1 double bed",
+        "May 26 – Jun 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 111,
+        "period": "night"
+      },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/30919726"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d1aa297d-9228-478d-86c5-d63498fb9ca3.jpg?im_w=720",
+      "title": "Apartment in Friedrichshain",
+      "subtitles": [
+        "Spacious & Light & Good Transport",
+        "2 beds",
+        "May 22 – 29"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 94,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/11847541"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-45711564/original/fb165304-2dcf-4ca0-a337-7e0d10822f18.jpeg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "Wonderful room in Neukölln",
+        "1 double bed",
+        "Oct 30 – Nov 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 74,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/45711564"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/198af25f-b20a-4b70-ac6c-a87eaf76f460.jpg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "Beautiful apartment in the trendy Kreuzberg neighbourhood",
+        "1 bed",
+        "Sep 26 – Oct 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 69,
+        "period": "night"
+      },
+      "rating": 4.61,
+      "link": "https://www.airbnb.com/rooms/51995152"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/72d83531-a5a2-453d-9537-3c9ef8d3bf50.jpg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Quite room to sleep in busy city",
+        "2 beds",
+        "Jul 16 – 21"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 38,
+        "period": "night"
+      },
+      "rating": 4.86,
+      "link": "https://www.airbnb.com/rooms/830575419710014519"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/75bb6bad-da4e-4d18-9b7d-f6b8b1b3d3ca.jpg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "Different ;-) sunny-  bright and big room !",
+        "1 small double bed",
+        "Jul 17 – 22"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 34,
+        "period": "night"
+      },
+      "rating": 4.65,
+      "link": "https://www.airbnb.com/rooms/16007104"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-799181725836295737/original/fd88afa9-5230-4254-ad1d-bd26332276d6.jpeg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "Beautiful Altbau in the center of Neukölln",
+        "1 double bed",
+        "Jul 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 100,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/799181725836295737"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/eedb9e5e-28a0-4873-9cd7-4b1bfe851fab.jpg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "Berlin Double Bed Single Family Room",
+        "1 king bed",
+        "Sep 13 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 40,
+        "period": "night"
+      },
+      "rating": 4.83,
+      "link": "https://www.airbnb.com/rooms/27574236"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6b8294aa-5b92-46f7-a5a1-4d1cfec4c6c0.jpg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "nice room in the center of berlin!",
+        "Jan 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 41,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/868206"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/314ef7ac-ebb8-45ae-a0d6-a4ddb55c2135.jpg?im_w=720",
+      "title": "Apartment in Mitte",
+      "subtitles": [
+        "Beautiful two room flat in BerlinMitte",
+        "1 bed",
+        "Oct 4 – 9"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 107,
+        "period": "night"
+      },
+      "rating": 4.81,
+      "link": "https://www.airbnb.com/rooms/695997251954254445"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e0dab87a-20d4-4958-a272-22aa61b1ec6c.jpg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Small Bedroom",
+        "1 bed",
+        "May 12 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 66,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/807131975159748467"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-816443111615693549/original/35b56c05-7713-435a-8e45-2b9076ebe3ac.jpeg?im_w=720",
+      "title": "Private room in Reinickendorf",
+      "subtitles": [
+        "Coming-Home",
+        "1 bed",
+        "Jul 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 63,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/816443111615693549"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/9ef741ac-fc73-4cd1-a797-1bf8f51d0462.jpg?im_w=720",
+      "title": "Private room in Lichtenberg",
+      "subtitles": [
+        "Lichtenhain 2  quiet apartment close to Ostkreutz",
+        "1 king bed",
+        "Aug 8 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 38,
+        "period": "night"
+      },
+      "rating": 4.69,
+      "link": "https://www.airbnb.com/rooms/35396599"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/cbfa7e4d-4ba0-4233-9f3b-75e1601377eb.jpg?im_w=720",
+      "title": "Loft in Kreuzberg",
+      "subtitles": [
+        "Outstanding selfmade rooftop Loft",
+        "1 king bed",
+        "Jul 30 – Aug 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 111,
+        "period": "night"
+      },
+      "rating": 4.53,
+      "link": "https://www.airbnb.com/rooms/9570445"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-859938925077378542/original/726bcc30-b510-4322-9ce6-ce2ceb8a3a8a.jpeg?im_w=720",
+      "title": "Apartment in Charlottenburg",
+      "subtitles": [
+        "Cosy Space West",
+        "1 bed",
+        "Jun 25 – Jul 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 100,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/859938925077378542"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/25a7298d-d134-4da3-9434-5071fb9969d4.jpg?im_w=720",
+      "title": "Apartment in Mitte",
+      "subtitles": [
+        "Apartments in Hostel am Schäfersee _03",
+        "1 queen bed",
+        "Aug 25 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 68,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/22802121"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7263166/5b6887e3_original.jpg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "Mitten in Berlin",
+        "1 bed",
+        "Jul 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 35,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/873627724566328659"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-2929033/original/f6016d64-e7d2-4dc9-a91d-b3223e444b92.jpeg?im_w=720",
+      "title": "Apartment in Friedrichshain",
+      "subtitles": [
+        "Bright, Central One-Bedroom",
+        "1 double bed",
+        "May 8 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 141,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/2929033"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-5610403/original/225687c3-5ea4-4c8a-883e-3666151f1421.jpeg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "Large Sunny Room with Balcony",
+        "1 sofa bed",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 99,
+        "period": "night"
+      },
+      "rating": 4.74,
+      "link": "https://www.airbnb.com/rooms/5610403"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-4362839/original/57fbeb29-7ec5-47d2-a3b8-6662750258e0.jpeg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Centrally located room, small but cozy",
+        "1 sofa bed",
+        "Jul 17 – 22"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 71,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/4362839"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e3df5ca4-9307-450d-b960-879af110aa59.jpg?im_w=720",
+      "title": "Vacation home in Treptow-Köpenick",
+      "subtitles": [
+        "\"Gerostübchen\" in the quiet outskirts of Berlin",
+        "2 beds",
+        "Jun 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 50,
+        "period": "night"
+      },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/541157805061295727"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-684491013825440916/original/0cd4a536-40e7-4cd8-af80-57a3b44c6349.jpeg?im_w=720",
+      "title": "Private room in Treptow-Köpenick",
+      "subtitles": [
+        "Cozy room near the airport BER",
+        "1 bed",
+        "May 5 – 10"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 45,
+        "period": "night"
+      },
+      "rating": 4.38,
+      "link": "https://www.airbnb.com/rooms/684491013825440916"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4875d957-9623-4e8b-9de3-e68c117ab8f5.jpg?im_w=720",
+      "title": "Private room in Pankow",
+      "subtitles": [
+        "Rooms with air conditioning, roof terrace and private bathroom",
+        "1 king bed",
+        "May 2 – 9"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 82,
+        "period": "night"
+      },
+      "rating": 4.84,
+      "link": "https://www.airbnb.com/rooms/15107151"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/aa3b3397-a3a2-4810-8860-330f12fe6fe8.jpg?im_w=720",
+      "title": "Condo in Mitte",
+      "subtitles": [
+        "Nice condo in a central location. Surrounded by greenery, the large balcony invites you to enjoy a sunny breakfast.\nFree parking on the premises; Excellent public transport connections.\nCaretaker service included.",
+        "1 queen bed",
+        "Aug 27 – Sep 3"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 96,
+        "period": "night"
+      },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/50884931"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-51466351/original/881b6784-7383-4d51-be28-1f6252b0ea3a.jpeg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "bright room in large family apartment",
+        "1 bed",
+        "Jun 29 – Jul 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 42,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/51466351"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7c93c4b0-603a-4c01-8386-93a259fbb985.jpg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "Roof terraces room 1-2 pers. in Kberg am Schlesi",
+        "1 double bed",
+        "Jul 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 94,
+        "period": "night"
+      },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/27622100"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/9801c22c-44cb-499f-ab35-8ff6f81ebb66.jpg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "In the middle of Berlin, just 3 mins to Alex!",
+        "1 single bed",
+        "Jul 17 – 22"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 58,
+        "period": "night"
+      },
+      "rating": 4.79,
+      "link": "https://www.airbnb.com/rooms/11403270"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-30846121/original/467c5947-0f2b-4144-a4ca-6da0fe90d383.jpeg?im_w=720",
+      "title": "Hotel room in Lichtenberg",
+      "subtitles": [
+        "Serviced Apartment - Studio in Karlshorst",
+        "1 double bed",
+        "May 20 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 86,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/30846121"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e8805345-55e7-45de-ab2b-6ca80a32141f.jpg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "Zimmer über den Dächern von Berlin",
+        "1 bed",
+        "May 29 – Jun 3"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 92,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/780773622086564528"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-5831587/original/77fda3a5-35bf-4329-96a2-327b99ef450c.jpeg?im_w=720",
+      "title": "Private room in Prenzlauer Berg",
+      "subtitles": [
+        "Penthouse room & own bathroom, high standard",
+        "1 queen bed",
+        "Jul 4 – 9"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 84,
+        "period": "night"
+      },
+      "rating": 4.95,
+      "link": "https://www.airbnb.com/rooms/5831587"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-13554198/original/d60d1cdf-2f2d-4240-9b22-1088b7f0f63d.jpeg?im_w=720",
+      "title": "Private room in Schöneberg",
+      "subtitles": [
+        "Bright room in the middle of Berlin",
+        "1 bed",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 98,
+        "period": "night"
+      },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/13554198"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/17635320/338723cb_original.jpg?im_w=720",
+      "title": "Apartment in Prenzlauer Berg",
+      "subtitles": [
+        "CUTE´N´COSY - HAPPYSTYLISH - CENTRE",
+        "1 bed",
+        "Oct 16 – 21"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 114,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/919931"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-646408655216371052/original/6082c987-617e-46e5-ae0b-079f492fb506.jpeg?im_w=720",
+      "title": "Private room in Friedrichshain",
+      "subtitles": [
+        "Psychedelic guest room for 2",
+        "2 single beds",
+        "Jul 27 – Aug 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 85,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/646408655216371052"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d625391f-32fb-49f6-a6f4-0b586baeee2c.jpg?im_w=720",
+      "title": "Apartment in Mitte",
+      "subtitles": [
+        "Nice, bright, quiet - perfect location",
+        "1 queen bed",
+        "Aug 18 – 23"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 80,
+        "period": "night"
+      },
+      "rating": 4.3,
+      "link": "https://www.airbnb.com/rooms/972033"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1e58f308-7690-42d9-8c35-5095b9a7c8e8.jpg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Off-the-beaten-path.\nCan unwind your soul",
+        "2 beds",
+        "May 26 – 31"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 82,
+        "period": "night"
+      },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/41747575"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/cb5f25c7-2beb-4712-b5d3-f2b50f7379fe.jpg?im_w=720",
+      "title": "Private room in Prenzlauer Berg",
+      "subtitles": [
+        "center of Berlin but quiet and elegant",
+        "1 bed",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 116,
+        "period": "night"
+      },
+      "rating": 4.89,
+      "link": "https://www.airbnb.com/rooms/13593823"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-673651609636609160/original/e4f1a34b-3aa2-44a0-83ac-43941842ad8b.jpeg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "Bernies Homeplace",
+        "1 bed",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 99,
+        "period": "night"
+      },
+      "rating": 4.79,
+      "link": "https://www.airbnb.com/rooms/673651609636609160"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e01fae72-fb55-4349-a80a-8552f168170a.jpg?im_w=720",
+      "title": "Private room in Lichtenrade",
+      "subtitles": [
+        "Comfortable room south of Berlin",
+        "1 bed",
+        "May 29 – Jun 3"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 38,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/31116923"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/a30d47bb-9304-4ded-bd38-760cd1d7bd93.jpg?im_w=720",
+      "title": "Private room in Steglitz",
+      "subtitles": [
+        "Quiet centrally located old building room",
+        "1 single bed",
+        "Jun 25 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 44,
+        "period": "night"
+      },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/5301447"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-53756646/original/04000645-73df-4910-b4de-7ce9b42c41ef.jpeg?im_w=720",
+      "title": "Private room in Friedrichshain",
+      "subtitles": [
+        "Bedroom in a shared apartment",
+        "1 bed",
+        "May 12 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 60,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/53756646"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/2371dea7-de92-46bb-bdb6-0a3b19ef9a1d.jpg?im_w=720",
+      "title": "Private room in Spandau",
+      "subtitles": [
+        "Big bright room in green area with tea & coffee",
+        "1 double bed",
+        "Jun 23 – 28"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 53,
+        "period": "night"
+      },
+      "rating": 4.85,
+      "link": "https://www.airbnb.com/rooms/20839690"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/5f3a0761-b014-4b2d-95bd-fd44bfcfec26.jpg?im_w=720",
+      "title": "Private room in Friedrichshain",
+      "subtitles": [
+        "East Side Gallery- Alexanderplatz- by feet",
+        "1 queen bed",
+        "Sep 30 – Oct 5"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 71,
+        "period": "night"
+      },
+      "rating": 4.89,
+      "link": "https://www.airbnb.com/rooms/27397593"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/f5fd8369-f298-46ce-ad2c-aa77d6f921ef.jpg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "quiet double room 3.1 to the courtyard (3rd floor)",
+        "1 double bed",
+        "Jul 24 – 29"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 45,
+        "period": "night"
+      },
+      "rating": 4.33,
+      "link": "https://www.airbnb.com/rooms/26195084"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-654136886115400413/original/5d076643-ff8d-4a87-a5c4-a024b3f99b1c.jpeg?im_w=720",
+      "title": "Apartment in Lichtenberg",
+      "subtitles": [
+        "Old fire station - Twin Room",
+        "2 single beds",
+        "May 1 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 81,
+        "period": "night"
+      },
+      "rating": 4,
+      "link": "https://www.airbnb.com/rooms/654136886115400413"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-771042510276863401/original/1449a2ab-93e6-45db-9c18-0c05c243fb5c.jpeg?im_w=720",
+      "title": "Private room in Schöneberg",
+      "subtitles": [
+        "Beautiful & central location in Berlin",
+        "1 bed",
+        "May 27 – Jun 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 67,
+        "period": "night"
+      },
+      "rating": 4.73,
+      "link": "https://www.airbnb.com/rooms/771042510276863401"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-1350644/original/129103a3-1743-49af-af13-b0a9976e7d07.jpeg?im_w=720",
+      "title": "Condo in Mitte",
+      "subtitles": [
+        "New, green-view 107sqm apartment in Berlin-Mitte",
+        "1 queen bed",
+        "May 5 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 151,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/1350644"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/a0e41f56-d6d7-4f40-9535-65a52e733bb4.jpg?im_w=720",
+      "title": "Apartment in Mitte",
+      "subtitles": [
+        "Cozy apartment for 3  in the heart of Berlin",
+        "2 beds",
+        "May 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 165,
+        "period": "night"
+      },
+      "rating": 4.54,
+      "link": "https://www.airbnb.com/rooms/36401268"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d7411fc9-70bc-48a2-9f7d-e8b20a06e335.jpg?im_w=720",
+      "title": "Private room in Prenzlauer Berg",
+      "subtitles": [
+        "Berlin Room close to Alexanderplatz",
+        "1 double bed",
+        "Jul 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 76,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/27087980"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d853c967-c87c-4c39-a306-0e914c6fb396.jpg?im_w=720",
+      "title": "Apartment in Kreuzberg",
+      "subtitles": [
+        "Cozy and quiet apartment in Kreuzberg",
+        "1 queen bed",
+        "Dec 3 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 151,
+        "period": "night"
+      },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/552151799222439302"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/2bccbc47-3b9e-4cd0-bfed-c4fac8d13848.jpg?im_w=720",
+      "title": "Private room in Schöneberg",
+      "subtitles": [
+        "central & quiet - comfy room in Berlin Schöneberg",
+        "2 single beds",
+        "Aug 26 – Sep 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 37,
+        "period": "night"
+      },
+      "rating": 4.73,
+      "link": "https://www.airbnb.com/rooms/21144414"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1156e5fb-1bda-49a2-b72e-085d0462c4e0.jpg?im_w=720",
+      "title": "Private room in Friedrichshain",
+      "subtitles": [
+        "Bright room with private bathroom & very fast WiFi",
+        "1 double bed",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 133,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/48916310"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-21808006/original/1c5ddf5d-c9f4-4a56-84ac-0dbf7b3cb03b.jpeg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Top location\nStudio @ „Kunsthaus Mitte“\n(f. 1-2 Pers.+)",
+        "3 beds",
+        "May 22 – 28"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 99,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/21808006"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/61187969/28d0d96c_original.jpg?im_w=720",
+      "title": "Apartment in Lichterfelde",
+      "subtitles": [
+        "Spacious Apartment for Two",
+        "1 bed",
+        "Oct 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 70,
+        "period": "night"
+      },
+      "rating": 4.57,
+      "link": "https://www.airbnb.com/rooms/4744063"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-702289668146407841/original/96621a56-a65b-4a1d-8263-998c91b40e35.jpeg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Comfy private room 10min by metro to Berlin center",
+        "1 bed",
+        "May 7 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 88,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/702289668146407841"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/58a30d3a-dee6-4b0d-96c6-3b1ce6701bce.jpg?im_w=720",
+      "title": "Private room in Prenzlauer Berg",
+      "subtitles": [
+        "Central, Clean, & Friendly at ALEX",
+        "3 beds",
+        "Jul 24 – 29"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 60,
+        "period": "night"
+      },
+      "rating": 4.5,
+      "link": "https://www.airbnb.com/rooms/47897467"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-32333841/original/c4ea4b03-a7e8-46bb-96af-e6dac234d80a.png?im_w=720",
+      "title": "Apartment in Mitte",
+      "subtitles": [
+        "Apartment Berlin Mitte with workplace & hygiene",
+        "1 double bed",
+        "Oct 4 – 9"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 109,
+        "period": "night"
+      },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/32333841"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ce4743d1-cab3-43df-854b-ea38a22e8dc5.jpg?im_w=720",
+      "title": "Apartment in Neukölln",
+      "subtitles": [
+        "Beautiful Altbau Studio",
+        "1 double bed",
+        "Jul 13 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 116,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/11901953"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-52084164/original/10923ee5-b7fe-40f1-b81d-832f5124518f.jpeg?im_w=720",
+      "title": "Private room in Steglitz-Zehlendorf",
+      "subtitles": [
+        "Room # 2 in the south of Berlin (Marienfelde)",
+        "1 single bed",
+        "May 30 – Jun 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 57,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/52084164"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/664f5183-48b4-4a97-967f-7c31a53d9a34.jpg?im_w=720",
+      "title": "Apartment in Kreuzberg",
+      "subtitles": [
+        "Central vintage style studio apartment",
+        "1 sofa bed",
+        "Jul 16 – 21"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 111,
+        "period": "night"
+      },
+      "rating": 4.89,
+      "link": "https://www.airbnb.com/rooms/34172297"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7091113c-97b0-4ffe-87e3-eda602ac13f4.jpg?im_w=720",
+      "title": "Apartment in Friedrichshain",
+      "subtitles": [
+        "Too nice to be true - Berlin Friedrichshain!",
+        "1 double bed",
+        "Jul 9 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 95,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/344856"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4c25d36e-226f-4b13-9c38-731871a8577a.jpg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "Nice large room with balcony",
+        "1 bed",
+        "Jun 19 – 24"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 70,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/9816472"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-1999738/original/d9b451ba-fdd6-4d9e-81d1-47706929f7e8.jpeg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Small, beautiful, quiet!",
+        "1 bed",
+        "Jan 1 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 40,
+        "period": "night"
+      },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/1999738"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-51549694/original/d465227c-95c7-4ae8-9a8a-f2629be702e6.jpeg?im_w=720",
+      "title": "Private room in Prenzlauer Berg",
+      "subtitles": [
+        "Single bedroom with shared bathroom",
+        "1 single bed",
+        "May 13 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 91,
+        "period": "night"
+      },
+      "rating": 4.34,
+      "link": "https://www.airbnb.com/rooms/51549694"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/903768d5-2707-40d3-b362-6ed0692f348e.jpg?im_w=720",
+      "title": "Private room in Marzahn-Hellersdorf",
+      "subtitles": [
+        "Room with a view, 30 min from the center",
+        "1 bed",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 49,
+        "period": "night"
+      },
+      "rating": 4.83,
+      "link": "https://www.airbnb.com/rooms/39345904"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-30919819/original/b697d742-a774-4d6f-a903-f3b9bf83c459.jpeg?im_w=720",
+      "title": "Hotel room in Charlottenburg",
+      "subtitles": [
+        "Serviced Apartment - Studio XL in City-West",
+        "1 queen bed",
+        "Aug 25 – Sep 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 127,
+        "period": "night"
+      },
+      "rating": 4.84,
+      "link": "https://www.airbnb.com/rooms/30919819"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1744191/a90d332d_original.jpg?im_w=720",
+      "title": "Home in Kreuzberg",
+      "subtitles": [
+        "Riverside View Apartment",
+        "1 sofa bed",
+        "Oct 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 101,
+        "period": "night"
+      },
+      "rating": 4.32,
+      "link": "https://www.airbnb.com/rooms/44083"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-41306967/original/519531fa-ec54-42fb-8cab-e3eb687f88ac.jpeg?im_w=720",
+      "title": "Private room in Charlottenburg",
+      "subtitles": [
+        ".Comfortable Private Room Nr. 6",
+        "2 beds",
+        "May 1 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 73,
+        "period": "night"
+      },
+      "rating": 4.53,
+      "link": "https://www.airbnb.com/rooms/41306967"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/8fc2ab57-1073-483e-9639-306d3224f3ae.jpg?im_w=720",
+      "title": "Apartment in Mitte",
+      "subtitles": [
+        "cute little apartment in Mitte/Tiergarten",
+        "1 double bed",
+        "Aug 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 72,
+        "period": "night"
+      },
+      "rating": 4.64,
+      "link": "https://www.airbnb.com/rooms/24505475"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-875215390223424362/original/886fd0b5-55ec-43a3-b386-5d39830fabc2.jpeg?im_w=720",
+      "title": "Private room in Charlottenburg",
+      "subtitles": [
+        "Altbau-Charme am Lietzensee",
+        "1 bed",
+        "May 12 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 59,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/875215390223424362"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-3496671/original/bc7caf1f-f4b5-4380-977d-32e6c2e8653c.jpeg?im_w=720",
+      "title": "Private room in Prenzlauer Berg",
+      "subtitles": [
+        "Gemütliche Wohnung im schönen Prenzlauer Berg",
+        "1 double bed",
+        "May 1 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 99,
+        "period": "night"
+      },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/3496671"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-9830301/original/69d4a26d-efb8-453a-bd86-521c7508a876.jpeg?im_w=720",
+      "title": "Apartment in Neukölln",
+      "subtitles": [
+        "3 room apartment in Neukölln",
+        "2 beds",
+        "Jul 28 – Aug 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 103,
+        "period": "night"
+      },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/9830301"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/63146175/0abfdacb_original.jpg?im_w=720",
+      "title": "Apartment in Mitte",
+      "subtitles": [
+        "Sunlit 2BR Top Floor Apt in Mitte",
+        "2 beds",
+        "May 6 – 11"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 182,
+        "period": "night"
+      },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/4933665"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4b006fa8-820b-4f25-b97d-c71c43a78b36.jpg?im_w=720",
+      "title": "Apartment in Kreuzberg",
+      "subtitles": [
+        "Fontane Studio | Kreuzberg Südstern",
+        "1 sofa bed",
+        "Oct 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 69,
+        "period": "night"
+      },
+      "rating": 4.84,
+      "link": "https://www.airbnb.com/rooms/9689519"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e38eb571-3f99-4fbc-a896-5c19a69ca814.jpg?im_w=720",
+      "title": "Private room in Friedrichshain",
+      "subtitles": [
+        "Central, own fridge & breakfast in Friedrichshain",
+        "1 double bed",
+        "Sep 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 62,
+        "period": "night"
+      },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/31394785"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/dee11c93-27c0-48d4-9a78-9c1ae7a762f0.jpg?im_w=720",
+      "title": "Condo in Neukölln",
+      "subtitles": [
+        "Bright 3 bedroom apartment in Neukölln",
+        "2 beds",
+        "May 13 – 20"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 164,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/51939490"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/a3d6549f-2cba-4073-a144-dd19ee9b485d.jpg?im_w=720",
+      "title": "Condo in Tempelhof",
+      "subtitles": [
+        "Berlin Old Building Charm Studio with Modern Bathroom",
+        "2 beds",
+        "Oct 16 – 21"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 96,
+        "period": "night"
+      },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/45298444"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/11722540/aa2b8aab_original.jpg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "Bright and big room at Kreuzberg",
+        "1 bed",
+        "Jul 4 – 9"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 70,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/703900"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ac2258d2-5024-4a5b-b0d5-3765add333e3.jpg?im_w=720",
+      "title": "Private room in Friedrichshain",
+      "subtitles": [
+        "Cozy city Apartment in the Center of Berlin",
+        "2 sofa beds",
+        "May 15 – 21"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 101,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/48321715"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-763695986682521907/original/f02d2303-a458-4ed0-a011-667b171b4c96.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Experience the vibrant life of Wilmersdorfer Str.",
+        "1 bed",
+        "Jun 24 – 29"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 63,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/763695986682521907"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0acb5de4-dec3-42c2-aaf0-10cd6a6379e6.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Angels' Room + Bikes in Berlin 👼 🌱🚲🚲",
+        "1 double bed",
+        "Jul 25 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 49,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/51241057"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-643167887951772735/original/d0394142-8e24-4e58-8d4d-ca0f21e08dff.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Large private room | Private bathroom & kitchen | Netflix",
+        "2 beds",
+        "May 20 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 97,
+        "period": "night"
+      },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/643167887951772735"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c662374f-60f1-436e-a91d-8cdd820b5e36.jpg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Cozy apartment in old Berlin factory",
+        "1 queen bed",
+        "Sep 25 – Oct 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 108,
+        "period": "night"
+      },
+      "rating": 4.74,
+      "link": "https://www.airbnb.com/rooms/16050858"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d85faca3-25c8-43da-a7bb-00a3c9722811.jpg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Artist Atelier - Friedrishain/Ostkreuz district",
+        "2 beds",
+        "May 19 – 24"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 135,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/27411832"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/415b4230-f6a2-44a9-9b80-81f96e64e82f.jpg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Berlin Friedrichshain Central Studio",
+        "2 beds",
+        "Feb 15 – 20"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 84,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/47211361"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/53892041/463633ae_original.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "small but fine",
+        "1 single bed",
+        "Aug 5 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 47,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/4280343"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-12013507/original/7179d305-f861-4c18-97ed-3dcb025e079e.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "View to the garden and connection to the BER and underground",
+        "1 double bed",
+        "May 10 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 44,
+        "period": "night"
+      },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/12013507"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-827562442187086929/original/4f475cdf-3536-4eef-83dd-49ffbb2d0806.png?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Berlin beautiful & central",
+        "1 bed",
+        "May 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 116,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/827562442187086929"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/417827c4-ba89-44f9-be69-514a9c5e2852.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Beautiful nature in the center of Berlin",
+        "2 beds",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 126,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/678019095993836004"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/cdd2a435-4257-4484-a6e0-349d27a8ade2.jpg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Quiet attic apartment with terrace in Schöneberg",
+        "2 beds",
+        "Sep 1 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 151,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/19501540"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e7cd2c3b-e7af-4cc0-867d-074d648f44f3.jpg?im_w=720",
+      "title": "Private room in Neuenhagen",
+      "subtitles": [
+        "Quiet room on the outskirts of town",
+        "1 single bed",
+        "May 1 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 38,
+        "period": "night"
+      },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/37871552"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-731816714179145445/original/1a21157b-5d17-4577-9573-118a8b36430b.jpeg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "limehome Berlin Luise-H.| Economy Single Suite",
+        "1 double bed",
+        "May 14 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 118,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/731816714179145445"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/a1718241-9e0d-4a68-b326-a7e0547ff529.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Room in terraced house and quiet location",
+        "1 sofa bed",
+        "Sep 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 59,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/45347161"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-52084164/original/10923ee5-b7fe-40f1-b81d-832f5124518f.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Room # 1 in the south of Berlin (Marienfelde)",
+        "1 bed",
+        "Jul 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 63,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/760108563556107857"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/92aaa692-9105-4331-aaf0-6cb2951b716f.jpg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Top apartment in the heart of Prenzlauer Berg",
+        "1 bed",
+        "May 28 – Jun 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 95,
+        "period": "night"
+      },
+      "rating": 4.5,
+      "link": "https://www.airbnb.com/rooms/52401704"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d9299112-594b-43af-bb1b-0265cc3aba4e.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "just wonderful and absolutely quiet",
+        "1 queen bed",
+        "Jun 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 120,
+        "period": "night"
+      },
+      "rating": 4.98,
+      "link": "https://www.airbnb.com/rooms/14736577"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/5a82f5eb-5005-40dc-93fb-b94cece5f009.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Sunny room centrally located",
+        "1 bed",
+        "Sep 25 – Oct 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 57,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/33996221"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/43b73c85-81d1-40db-ab49-686874260413.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "buena comunicación con el centro",
+        "1 bed",
+        "May 4 – 9"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 38,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/849732709353643211"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/db5fccee-6163-45de-ae27-ad611f81b283.jpg?im_w=720",
+      "title": "Private room in Hoppegarten",
+      "subtitles": [
+        "Cosy Apartment in the outskirts of Berlin",
+        "2 beds",
+        "Jun 25 – Jul 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 46,
+        "period": "night"
+      },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/27284889"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-53638269/original/a7b72a3c-3093-42bd-a145-b0e0657a06bc.jpeg?im_w=720",
+      "title": "Condo in Berlin",
+      "subtitles": [
+        "Residential home on Prenzlauer Berg/ Mauerpark",
+        "2 beds",
+        "May 27 – Jun 3"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 99,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/53638269"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-763497821477327402/original/b3d5d8fb-8185-4ec6-9e2f-284fd781061f.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Helmholtzplatz Cocon",
+        "1 bed",
+        "May 8 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 76,
+        "period": "night"
+      },
+      "rating": 4.25,
+      "link": "https://www.airbnb.com/rooms/763497821477327402"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-821485373910244820/original/5f344201-85d2-4cdc-95da-59263cd87f28.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Modern, bright, well connected",
+        "1 bed",
+        "Jun 14 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 81,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/837594868090351062"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-6393081/original/e7ce139f-493a-42ea-b40c-e1be145c5f6a.jpeg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Gemütliche Wohnung mit 2 Katzen",
+        "2 beds",
+        "Apr 1 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 64,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/859907877529642657"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-475193/original/847eb870-fab7-4b9e-8c1c-2a3ab7163173.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Emerald Room | Museum Island",
+        "1 king bed",
+        "Jun 23 – 28"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 109,
+        "period": "night"
+      },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/475193"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-51517025/original/478988f9-d97b-4ee6-8cac-b193da1d49fe.jpeg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Alexanderplatz quiet 2-room flat with balcony",
+        "2 beds",
+        "May 1 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 139,
+        "period": "night"
+      },
+      "rating": 4.45,
+      "link": "https://www.airbnb.com/rooms/51517025"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/deecd7bf-a440-492e-8258-c6cc3f2440a9.jpg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Beautiful Loft 1 unique in Charlottenburgs Center",
+        "2 beds",
+        "May 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 139,
+        "period": "night"
+      },
+      "rating": 4.56,
+      "link": "https://www.airbnb.com/rooms/49125476"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/9fd1ce8b-6f27-44d3-afcb-8a347c0bd8ed.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Quiet and green, but BER, subway and highway nearby",
+        "2 single beds",
+        "Jul 14 – 21"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 44,
+        "period": "night"
+      },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/14839691"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/58489126/e82aec48_original.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "UNIQUE GARDENROOM | BERLIN MITTE | with garden",
+        "1 queen bed",
+        "Sep 17 – 22"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 88,
+        "period": "night"
+      },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/3717751"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/9f6f3cb4-4a4d-4b20-8c22-d3f0ae4c876e.jpg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "City-Apartment Wilhelmstraße",
+        "1 double bed",
+        "Aug 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 126,
+        "period": "night"
+      },
+      "rating": 4.65,
+      "link": "https://www.airbnb.com/rooms/46462154"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-607836165565073961/original/46586c31-6491-422d-992a-b90622ade366.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Modernes Zimmer zentral Berlin",
+        "1 bed",
+        "May 20 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 77,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/607836165565073961"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-14648612/original/83c656be-6b14-46f8-8ceb-b371a59d5659.jpeg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "The Berlin Piano Shed",
+        "1 bed",
+        "Jul 24 – 29"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 121,
+        "period": "night"
+      },
+      "rating": 4.72,
+      "link": "https://www.airbnb.com/rooms/14648612"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6b4950c2-62d4-47ec-9a53-e832a37eee67.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Room with private balcony!",
+        "1 bed",
+        "May 28 – Jun 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 59,
+        "period": "night"
+      },
+      "rating": 4.05,
+      "link": "https://www.airbnb.com/rooms/786910043541761575"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/eda69e36-bc73-4653-88be-2d1d5ebe2e19.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Big sunshiny room in a new house near Tier Park",
+        "1 double bed",
+        "Jun 27 – Jul 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 41,
+        "period": "night"
+      },
+      "rating": 4.77,
+      "link": "https://www.airbnb.com/rooms/23105508"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-782551202735424582/original/f8b33fcf-f483-4a1f-82ff-fbdf4b4907d8.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Private room in beautiful Weissensee",
+        "1 double bed",
+        "May 8 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 88,
+        "period": "night"
+      },
+      "rating": 4.83,
+      "link": "https://www.airbnb.com/rooms/782551202735424582"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-599179283845190938/original/93b97e4b-8ead-4e10-910b-b7a4cd22724d.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Cosy Kreuzberg Room w Oat Milk and Great Wifi",
+        "1 bed",
+        "Jun 7 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 139,
+        "period": "night"
+      },
+      "rating": 4.95,
+      "link": "https://www.airbnb.com/rooms/599179283845190938"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-759982185791248235/original/0fad6363-6e35-43be-821e-39d053daae9f.jpeg?im_w=720",
+      "title": "Private room in Friedrichshain",
+      "subtitles": [
+        "Beautiful, big and quite room in Berlin",
+        "1 bed",
+        "Jun 12 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 82,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/759982185791248235"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/05331ee6-a610-44d2-a811-93e20d78825a.jpg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Berlin-Mitte very close to Potsdam Square",
+        "1 double bed",
+        "May 13 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 101,
+        "period": "night"
+      },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/28194113"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/fe05b0df-9f7c-424f-b1bb-5e6947a4d9d5.jpg?im_w=720",
+      "title": "Apartment in Schöneberg",
+      "subtitles": [
+        "89m2 apt in Crellekiez Schöneberg",
+        "2 beds",
+        "May 1 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 151,
+        "period": "night"
+      },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/583685084785657909"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/3a847d54-0b7d-4fd6-ab6e-8bca3c62dc9c.jpg?im_w=720",
+      "title": "Private room in Charlottenburg",
+      "subtitles": [
+        "Private Room in Central City West / 2",
+        "1 double bed",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 87,
+        "period": "night"
+      },
+      "rating": 4.42,
+      "link": "https://www.airbnb.com/rooms/17237876"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-41363989/original/ab41ccf6-39e4-4af7-a881-7ca9994f9c9d.jpeg?im_w=720",
+      "title": "Apartment in Mitte",
+      "subtitles": [
+        "Designer Studio in the heart of Berlin",
+        "1 bed",
+        "May 22 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 152,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/41363989"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-38796505/original/91fde037-4a97-42c5-a72d-15022a1a8fa6.jpeg?im_w=720",
+      "title": "Apartment in Charlottenburg",
+      "subtitles": [
+        "Business apartment in a prime location",
+        "1 double bed",
+        "Sep 3 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 88,
+        "period": "night"
+      },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/38796505"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-716448591365879416/original/6cf025e8-3bf5-4f7c-9d67-6cd6c37d597f.jpeg?im_w=720",
+      "title": "Private room in Lichtenberg",
+      "subtitles": [
+        "Big, comfy sofa-bed in beautiful, quiet Altbau",
+        "1 bed",
+        "Aug 26 – 31"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 66,
+        "period": "night"
+      },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/716448591365879416"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-874614351749733878/original/43bb10b7-1437-41b5-a018-f9530491c1f4.jpeg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Ruhiges Zimmer mit West-Balkon",
+        "1 bed",
+        "May 7 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 89,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/874614351749733878"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-53425927/original/e296f410-f07d-46ae-ae59-3727b8141681.jpeg?im_w=720",
+      "title": "Cottage in Wannsee",
+      "subtitles": [
+        "Berlin Wannsee Summer House",
+        "1 bed",
+        "May 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 117,
+        "period": "night"
+      },
+      "rating": 4.85,
+      "link": "https://www.airbnb.com/rooms/53425927"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4bd2cf22-07cc-4c98-b7c0-54277e974d26.jpg?im_w=720",
+      "title": "Apartment in Kreuzberg",
+      "subtitles": [
+        "Studio Apartment at Görlitzer Park",
+        "1 double bed",
+        "May 28 – Jun 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 124,
+        "period": "night"
+      },
+      "rating": 4.66,
+      "link": "https://www.airbnb.com/rooms/45809645"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ec39b339-b59e-42ee-8beb-0426185e7c5f.jpg?im_w=720",
+      "title": "Private room in Lichtenberg",
+      "subtitles": [
+        "Ha Noi - Private Room in Apartment",
+        "1 king bed",
+        "Sep 25 – 30"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 56,
+        "period": "night"
+      },
+      "rating": 4.7,
+      "link": "https://www.airbnb.com/rooms/26975349"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/5eb8ddb7-a970-4cc5-a4b7-a71640717240.jpg?im_w=720",
+      "title": "Private room in Prenzlauer Berg",
+      "subtitles": [
+        "Comfortable central quiet in the middle of Berlin",
+        "1 single bed",
+        "May 12 – 17"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 99,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/42040985"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/93f9d9b4-7be9-4819-9c5a-fed8a1f66223.jpg?im_w=720",
+      "title": "Private room in Prenzlauer Berg",
+      "subtitles": [
+        "Zimmer an S-Bahn mit Hauskatze",
+        "1 single bed",
+        "Jun 2 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 50,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/872280106289746134"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6daa68fc-2b9b-4915-acfe-48b8ab33e950.jpg?im_w=720",
+      "title": "Private room in Friedenau",
+      "subtitles": [
+        "cozy room in a friendly family 🏠",
+        "1 small double bed",
+        "May 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 63,
+        "period": "night"
+      },
+      "rating": 4.68,
+      "link": "https://www.airbnb.com/rooms/31978228"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/8d449679-eeb6-4f13-9efd-4e28f816eb3f.jpg?im_w=720",
+      "title": "Private room in Prenzlauer Berg",
+      "subtitles": [
+        "Magical Zen Room in Central Cozy Great Location",
+        "1 double bed",
+        "May 20 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 70,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/36479360"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-849020728199245815/original/7e7833a1-b767-4255-b15a-0918c9344f23.jpeg?im_w=720",
+      "title": "Apartment in Prenzlauer Berg",
+      "subtitles": [
+        "City Apartment \"Ben Laurel\"",
+        "1 bed",
+        "Aug 30 – Sep 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 56,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/849020728199245815"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-546294738066247812/original/004d0da3-5cf1-4719-9292-3666f189984f.jpeg?im_w=720",
+      "title": "Condo in Schöneberg",
+      "subtitles": [
+        "Über den Dächern von Berlin",
+        "1 bed",
+        "Jul 26 – 31"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 75,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/546294738066247812"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/978d448a-585d-4e74-bd5c-9639210d2345.jpg?im_w=720",
+      "title": "Condo in Treptow-Köpenick",
+      "subtitles": [
+        "Grandma's Living",
+        "1 small double bed",
+        "Jun 12 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 57,
+        "period": "night"
+      },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/39223612"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-28068656/original/321c5696-252f-4de0-9ecb-e4ff908a38d7.png?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Guest room at Rosina’s family",
+        "1 double bed",
+        "May 20 – 25"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 90,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/28068656"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-846358163879845009/original/ca72addb-61ee-4a10-ab8e-02bb3f62fef3.jpeg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Authentic Berlin Experience",
+        "1 bed",
+        "May 28 – Jun 2"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 57,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/846358163879845009"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-798309619297165174/original/755d349d-2be0-41f1-87ee-0f4bb47c748b.jpeg?im_w=720",
+      "title": "Apartment in Spandau",
+      "subtitles": [
+        "Modern apartment -Berlin Spandau",
+        "1 bed",
+        "May 13 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 73,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/798309619297165174"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/8c840511-68a7-4844-a376-7cc22aa2026f.jpg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "Cozy BR w/balcony, free WIFI, bus to BER close by",
+        "1 bed",
+        "May 20 – 25"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 61,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/783133338259863680"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-872432856424783408/original/929042c7-cd89-44f6-8dd5-e1689be39ddd.png?im_w=720",
+      "title": "Apartment in Prenzlauer Berg",
+      "subtitles": [
+        "Wunderschöne Oase im Prenzlberg",
+        "2 beds",
+        "Feb 1 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 100,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/872432856424783408"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-833209039583582571/original/e60358b4-40b7-4578-9733-bfc33d3d1340.jpeg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "Live on top floor in Berlin",
+        "1 bed",
+        "May 7 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 80,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/833209039583582571"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/b0a14386-2b7c-4eb0-8357-c17288e4bcf3.jpg?im_w=720",
+      "title": "Private room in Charlottenburg",
+      "subtitles": [
+        "Private Room in Central City West / 6",
+        "1 double bed",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 87,
+        "period": "night"
+      },
+      "rating": 4.39,
+      "link": "https://www.airbnb.com/rooms/18066481"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4c98c455-b621-4529-92ad-7743b9d6551b.jpg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "Berlin flair",
+        "1 queen bed",
+        "May 3 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 75,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/192499"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/901fe8ee-66dc-4fe1-b456-cda3ab9e272a.jpg?im_w=720",
+      "title": "Private room in Charlottenburg",
+      "subtitles": [
+        "Cosy room with Loftbed, well located, Lietzensee",
+        "1 single bed",
+        "Jun 8 – 13"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 57,
+        "period": "night"
+      },
+      "rating": 4.98,
+      "link": "https://www.airbnb.com/rooms/49897931"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/2507b9b3-b7dc-4484-9d1f-74128f0813a8.jpg?im_w=720",
+      "title": "Private room in Charlottenburg",
+      "subtitles": [
+        ".Comfortable Private Room Nr. 1",
+        "2 beds",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 83,
+        "period": "night"
+      },
+      "rating": 4.62,
+      "link": "https://www.airbnb.com/rooms/7824562"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-25252686/original/7be1cc11-22b7-4ff0-8598-0607c44e5395.jpeg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Super central & cozy room at Zionskirchplatz!",
+        "1 double bed",
+        "Jul 17 – 22"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 81,
+        "period": "night"
+      },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/25252686"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-578236928583726571/original/520000f4-da3f-4577-ac99-cd5dfb1b57b6.jpeg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Carré Voltaire, TOP private room with balcony!",
+        "1 double bed",
+        "May 13 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 83,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/578236928583726571"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-11603400/original/2c31e19d-f30c-424b-946b-75face820893.jpeg?im_w=720",
+      "title": "Private room in Tempelhof",
+      "subtitles": [
+        "Green ART Palace.",
+        "1 single bed",
+        "May 16 – 21"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 77,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/11603400"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7b7c03da-1cdb-4185-87a2-e0c9c6a156cf.jpg?im_w=720",
+      "title": "Apartment in Mitte",
+      "subtitles": [
+        "Apartment in Central",
+        "1 double bed",
+        "May 13 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 101,
+        "period": "night"
+      },
+      "rating": 4.41,
+      "link": "https://www.airbnb.com/rooms/36268916"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e59773e5-01f4-4cad-8017-41b28c931f79.jpg?im_w=720",
+      "title": "Apartment in Prenzlauer Berg",
+      "subtitles": [
+        "Central, cozy and quiet flat in Pankow",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 125,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/710977502962241092"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/de1a9b1f-ee8f-43af-887c-5a7206320103.jpg?im_w=720",
+      "title": "Apartment in Mitte",
+      "subtitles": [
+        "Design Apartment Auguststraße",
+        "1 king bed",
+        "Jul 17 – 22"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 120,
+        "period": "night"
+      },
+      "rating": 4.77,
+      "link": "https://www.airbnb.com/rooms/42226324"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6a8e113f-b0a8-48f2-9915-0b1e46f312e3.jpg?im_w=720",
+      "title": "Private room in Charlottenburg-Wilmersdorf",
+      "subtitles": [
+        "Cozy WG room (20sqm)Berlin Wilmersdorf",
+        "May 27 – Jun 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 35,
+        "period": "night"
+      },
+      "rating": 4.61,
+      "link": "https://www.airbnb.com/rooms/43504374"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/428619b8-56b0-4452-af71-c4080386f543.jpg?im_w=720",
+      "title": "Apartment in Mitte",
+      "subtitles": [
+        "15th floor 500 meter from Alexanderplatz",
+        "2 beds",
+        "Oct 3 – 8"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 89,
+        "period": "night"
+      },
+      "rating": 4.83,
+      "link": "https://www.airbnb.com/rooms/27120381"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/3bef8160-43e3-4f36-8287-0b695d035f19.jpg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "City Studio / 2 guests / near Estrel Hotel",
+        "Jun 26 – Jul 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 98,
+        "period": "night"
+      },
+      "rating": 4.42,
+      "link": "https://www.airbnb.com/rooms/53792154"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-847824300723516174/original/c7f02d9c-cde3-4fd6-87d9-5efb03386bfb.jpeg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Studio Apartment near Körner Park",
+        "1 bed",
+        "Jan 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 94,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/847824300723516174"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0376f45b-d182-495d-8018-e82f096a3037.jpg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Charming apartment in the house",
+        "1 queen bed",
+        "Jul 22 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 128,
+        "period": "night"
+      },
+      "rating": 4.63,
+      "link": "https://www.airbnb.com/rooms/43466060"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/03892ceb-4fba-46cd-b530-2ad40456f1eb.jpg?im_w=720",
+      "title": "Hotel room in Berlin",
+      "subtitles": [
+        "Single room, Apple City Hotel",
+        "1 bed",
+        "May 4 – 9"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 87,
+        "period": "night"
+      },
+      "rating": 4.27,
+      "link": "https://www.airbnb.com/rooms/45375004"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-35046677/original/6c44b5b5-c849-441b-878b-9b3e29774ebc.jpeg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "West Side Story",
+        "2 beds",
+        "May 13 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 87,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/813002978912166225"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/9a57fd98-2fc4-4946-8139-f5e436332ff2.jpg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Apartment with a gorgeous view",
+        "2 beds",
+        "Oct 15 – 20"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 93,
+        "period": "night"
+      },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/22662699"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/dd603228-ffcf-49cf-9c77-4f70c8ad1734.jpg?im_w=720",
+      "title": "Guest suite in Berlin",
+      "subtitles": [
+        "Stay in the City",
+        "1 sofa bed",
+        "Jul 17 – 22"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 69,
+        "period": "night"
+      },
+      "rating": 4.89,
+      "link": "https://www.airbnb.com/rooms/22768220"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-686781460938529525/original/02a12e15-666e-4340-8569-e57153bfcdfd.jpeg?im_w=720",
+      "title": "Condo in Berlin",
+      "subtitles": [
+        "Unit, LeCorbusier: Stylish Apartment",
+        "2 beds",
+        "May 6 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 88,
+        "period": "night"
+      },
+      "rating": 4.56,
+      "link": "https://www.airbnb.com/rooms/686781460938529525"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-853029943171856605/original/83c747bf-3435-4b8d-a9f2-5a5897d5c596.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "\"Berlin Balcony Charm\"",
+        "1 bed",
+        "May 7 – 12"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 54,
+        "period": "night"
+      },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/853029943171856605"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/11f36383-fe58-465f-9bb6-d698d6530c19.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Room with own bath at Lake Tegel",
+        "2 beds",
+        "Aug 21 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 47,
+        "period": "night"
+      },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/9165505"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-42935037/original/3b57971a-96cd-4601-8e52-9bebab8913db.jpeg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "Central Apartment with Waterbed",
+        "2 beds",
+        "Aug 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 188,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/42935037"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c1c2d0cd-cc88-499c-b018-cac7eea1c83b.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Cozy room in Berlin",
+        "1 bed",
+        "Aug 31 – Sep 5"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 46,
+        "period": "night"
+      },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/782899540870701066"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-856224834722446201/original/93748346-e399-4bdf-8129-3911a86e9119.jpeg?im_w=720",
+      "title": "Apartment in Berlin",
+      "subtitles": [
+        "I live Tempelhof",
+        "1 bed",
+        "May 8 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 100,
+        "period": "night"
+      },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/856224834722446201"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-23298585/original/17ec0701-96d7-4342-8bb4-46a1a9bdbbd8.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Large Room with Semi-Balcony",
+        "1 bed",
+        "May 20 – 25"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 91,
+        "period": "night"
+      },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/23298585"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-9572022/original/d09c5eb1-4d7b-4162-b381-2d66ceaa7159.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        ".Comfortable Private Room Nr. 7. Ehemaliger Laden",
+        "1 double bed",
+        "May 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 79,
+        "period": "night"
+      },
+      "rating": 4.35,
+      "link": "https://www.airbnb.com/rooms/9572022"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-13215295/original/fbb4d858-a20c-4c74-a7ee-3b039e314cd9.jpeg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "Cosy room in house with garden centrally quiet",
+        "2 single beds",
+        "Aug 13 – 18"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 51,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/13215295"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/11228913-6481-4656-8fa0-b2d7b033b17f.jpg?im_w=720",
+      "title": "Private room in Potsdam",
+      "subtitles": [
+        "Small nice room in Babelsberg",
+        "1 double bed",
+        "May 27 – Jun 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 50,
+        "period": "night"
+      },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/18871619"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/156b5438-71d8-4d64-a61b-38c9d7f8dd83.jpg?im_w=720",
+      "title": "Private room in Berlin",
+      "subtitles": [
+        "art 'appart suites - Studio",
+        "1 queen bed",
+        "Jun 29 – Jul 4"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 123,
+        "period": "night"
+      },
+      "rating": 4.75,
+      "link": "https://www.airbnb.com/rooms/42507686"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-700674583990746192/original/1d14905c-08dc-431e-84c2-cdf1b38c9653.jpeg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "Cozy room in Neukölln, Britz Süd U-Bahn Station",
+        "2 beds",
+        "Jul 9 – 14"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 55,
+        "period": "night"
+      },
+      "rating": 4.63,
+      "link": "https://www.airbnb.com/rooms/700674583990746192"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/21668625-b7ca-44e9-825b-6d2316916a6c.jpg?im_w=720",
+      "title": "Private room in Kreuzberg",
+      "subtitles": [
+        "Berlin Kreuzberg \"Am Görlitzer Park\"",
+        "1 queen bed",
+        "Sep 11 – 16"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 57,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/27122904"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/13e13e29-c728-49b2-b637-7d5bc5ee879f.jpg?im_w=720",
+      "title": "Private room in Prenzlauer Berg",
+      "subtitles": [
+        "Private cozy room with balcony",
+        "1 bed",
+        "May 27 – Jun 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 51,
+        "period": "night"
+      },
+      "rating": 4.25,
+      "link": "https://www.airbnb.com/rooms/780141184520327706"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-645544533608843534/original/d22c374f-8d24-4570-8566-3da2e4487c5d.jpeg?im_w=720",
+      "title": "Private room in Charlottenburg-Wilmersdorf",
+      "subtitles": [
+        "Large bright room in Wilmersdorf, top connection",
+        "1 bed",
+        "Jun 26 – Jul 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 63,
+        "period": "night"
+      },
+      "rating": 4.81,
+      "link": "https://www.airbnb.com/rooms/645544533608843534"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0781ea2f-0919-4f67-bf11-973984289614.jpg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Central apt. in Mitte:Moabit,  Berlin",
+        "1 bed",
+        "May 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 95,
+        "period": "night"
+      },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/16684717"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/8ecf4bff-c584-4fd7-b265-051c47ca68fa.jpg?im_w=720",
+      "title": "Apartment in Tempelhof",
+      "subtitles": [
+        "Renovated old building quiet yet central",
+        "1 bed",
+        "Jun 21 – 27"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 126,
+        "period": "night"
+      },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/18698064"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/33f4fba8-ceae-4b47-8627-0e3b085b89e1.jpg?im_w=720",
+      "title": "Private room in Köpenick",
+      "subtitles": [
+        "Hübsches Doppelzimmer zum Wohlfühlen",
+        "2 single beds",
+        "Jun 23 – 28"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 43,
+        "period": "night"
+      },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/16632030"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/62761173-167e-49be-8a6d-364e6ffec0cd.jpg?im_w=720",
+      "title": "Private room in Prenzlauer Berg",
+      "subtitles": [
+        "Weekly room/ monthly room next to Mauerpark",
+        "1 bed",
+        "May 20 – 25"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 57,
+        "period": "night"
+      },
+      "rating": 4.21,
+      "link": "https://www.airbnb.com/rooms/688854502281079763"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-21718505/original/2df2112d-c26a-4895-9985-60f6f6ae7d54.jpeg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Princess Bedroom",
+        "1 double bed",
+        "Jul 2 – 7"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 76,
+        "period": "night"
+      },
+      "rating": 4.51,
+      "link": "https://www.airbnb.com/rooms/21718505"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/3510624/b39bccf1_original.jpg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "nice single room 1.3 (1st floor)",
+        "1 bed",
+        "Jul 10 – 15"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 41,
+        "period": "night"
+      },
+      "rating": 4.4,
+      "link": "https://www.airbnb.com/rooms/323243"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/f2df48c2-c0ac-4f3f-9ca5-d3d5c7fea05c.jpg?im_w=720",
+      "title": "Loft in Prenzlauer Berg",
+      "subtitles": [
+        "Design Studio Apartment \"Bei Otto\"",
+        "2 beds",
+        "Jul 16 – 21"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 133,
+        "period": "night"
+      },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/11833825"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/535edc05-902d-40ef-87b4-9c80f25ba0af.jpg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "Comfortable room in Neukölln´s best area",
+        "1 queen bed",
+        "May 21 – 26"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 59,
+        "period": "night"
+      },
+      "rating": 4.44,
+      "link": "https://www.airbnb.com/rooms/22736888"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-707888950817493105/original/7a126ff0-f37e-4e0e-90a0-eda125824c69.jpeg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "Private Spacious Room, 10min Main Station Berlin",
+        "1 bed",
+        "May 4 – 9"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 89,
+        "period": "night"
+      },
+      "rating": 4.75,
+      "link": "https://www.airbnb.com/rooms/707888950817493105"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/417408c6-4ba0-44e6-91df-afd7c6df97e6.jpg?im_w=720",
+      "title": "Private room in Reinickendorf",
+      "subtitles": [
+        "Room in luxury house with breakfast",
+        "3 beds",
+        "May 1 – 6"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 53,
+        "period": "night"
+      },
+      "rating": 4.77,
+      "link": "https://www.airbnb.com/rooms/17418993"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-24145048/original/d2f156f8-d221-4c77-8058-ee91ce6005f3.jpeg?im_w=720",
+      "title": "Private room in Mitte",
+      "subtitles": [
+        "a cosy, super quiet room in wedding",
+        "2 beds",
+        "May 14 – 19"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 64,
+        "period": "night"
+      },
+      "rating": 4.7,
+      "link": "https://www.airbnb.com/rooms/24145048"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/5d65188b-31c5-40d3-a157-2789c2e2ea5e.jpg?im_w=720",
+      "title": "Private room in Neukölln",
+      "subtitles": [
+        "quiet twin room 3.2 to the courtyard (3rd floor)",
+        "2 beds",
+        "Sep 26 – Oct 1"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 45,
+        "period": "night"
+      },
+      "rating": 4.13,
+      "link": "https://www.airbnb.com/rooms/26197580"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d81ea04d-b182-4d65-8f60-98c61f47587d.jpg?im_w=720",
+      "title": "Apartment in Mitte",
+      "subtitles": [
+        "Cosy apartment , Berlin city center",
+        "2 beds",
+        "Aug 5 – 10"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 126,
+        "period": "night"
+      },
+      "rating": 4.69,
+      "link": "https://www.airbnb.com/rooms/12843786"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-39277531/original/957c8592-0044-4abd-89f5-7600134d09f2.jpeg?im_w=720",
+      "title": "Apartment in Kreuzberg",
+      "subtitles": [
+        "Very Nice Berliner Studio Flat",
+        "1 double bed",
+        "Jul 3 – 10"
+      ],
+      "price": {
+        "currency": "$",
+        "value": 96,
+        "period": "night"
+      },
+      "rating": 4.46,
+      "link": "https://www.airbnb.com/rooms/39277531"
+    }
+  ]
+}

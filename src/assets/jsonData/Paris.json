@@ -1,0 +1,2168 @@
+{
+  "hotels": [
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/b9bc653d-df43-4f91-8162-0be5c912a3b4.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["A nice little space and cute", "1 single bed", "May 8 – 13"],
+      "price": { "currency": "$", "value": 57, "period": "night" },
+      "rating": 4.46,
+      "link": "https://www.airbnb.com/rooms/7337703"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/261b3fb2-fec9-4009-b8b9-90d9976597fd.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Small cozy cocoon in Paris! 1 person studio", "1 double bed", "Jul 30 – Aug 5"],
+      "price": { "currency": "$", "value": 107, "period": "night" },
+      "rating": 4.98,
+      "link": "https://www.airbnb.com/rooms/25820315"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/26692847-b84f-41aa-8618-f6154a287397.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Lovely rooftop studio", "1 double bed", "May 3 – 8"],
+      "price": { "currency": "$", "value": 87, "period": "night" },
+      "rating": 4.75,
+      "link": "https://www.airbnb.com/rooms/9310570"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/107836c7-922e-4d5e-a907-b83f2d08cc3c.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Charming Studio in La Madeleine", "2 beds", "May 11 – 18"],
+      "price": { "currency": "$", "value": 98, "period": "night" },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/32986746"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-687577498136450531/original/51898faf-23c9-40c6-b980-3d4d791e7a05.png?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Private room in the 18th", "1 bed", "Oct 31 – Nov 5"],
+      "price": { "currency": "$", "value": 56, "period": "night" },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/687577498136450531"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/5c7d92c0-2c77-4238-b5bd-7eb7f75365f6.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Quiet Studio", "1 double bed", "Jul 13 – 18"],
+      "price": { "currency": "$", "value": 110, "period": "night" },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/12552420"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-834709731357112117/original/084942cf-95ed-4f58-86fa-5247c81d655e.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studio between the Louvre and Opéra.", "1 bed", "Sep 14 – 19"],
+      "price": { "currency": "$", "value": 109, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/834709731357112117"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/2384993/52f5ce3f_original.jpg?im_w=720",
+      "title": "Condo in Paris",
+      "subtitles": ["Peaceful Oasis in the Montmartre", "1 queen bed", "Aug 15 – 21"],
+      "price": { "currency": "$", "value": 110, "period": "night" },
+      "rating": 4.72,
+      "link": "https://www.airbnb.com/rooms/185575"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4fda41b5-3edc-4c8b-bce9-d6b2d05df90b.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Cozy Rooftop Nest", "1 double bed", "May 7 – 12"],
+      "price": { "currency": "$", "value": 119, "period": "night" },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/41236594"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-870061876045982502/original/da19f0d1-7d94-4b1a-97c5-62b091168244.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Appartement calme Paris / 2min Tour Eiffel", "1 bed", "Jan 9 – 15"],
+      "price": { "currency": "$", "value": 119, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/870061876045982502"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/22564e48-ad71-4a75-a68e-d6fb9817060d.jpg?im_w=720",
+      "title": "Tiny home in Paris",
+      "subtitles": ["Cosy tiny house near Red Mill", "1 double bed", "Jul 27 – Aug 1"],
+      "price": { "currency": "$", "value": 121, "period": "night" },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/41833954"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e39011ff-ebf0-4386-a25c-f07e6f2c54c3.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["NO Strike Zone / Parisian style studio", "2 beds", "May 1 – 8"],
+      "price": { "currency": "$", "value": 78, "period": "night" },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/25402903"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/3a50c91a-eef6-4972-813c-3dfb7687ade9.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Large comfy and quiet bedroom", "1 king bed", "Oct 15 – 20"],
+      "price": { "currency": "$", "value": 79, "period": "night" },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/665843"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/97e067cb-d936-4203-a6ba-0b78d501d1c9.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Haut Marais/Daughters of Calvary", "1 sofa bed", "Jan 1 – 6"],
+      "price": { "currency": "$", "value": 95, "period": "night" },
+      "rating": 4.86,
+      "link": "https://www.airbnb.com/rooms/9244179"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/b85f15c2-aa25-41c5-9a97-d4afabfe4a95.jpg?im_w=720",
+      "title": "Private room in Courbevoie",
+      "subtitles": ["Small room at home", "1 single bed", "Sep 7 – 12"],
+      "price": { "currency": "$", "value": 38, "period": "night" },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/28295981"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/3fc4cbd6-5f23-4b72-99ae-e44a802c0ebc.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Sweet & Calm Home In PARIS Gambetta Père Lachaise", "1 queen bed", "May 1 – 8"],
+      "price": { "currency": "$", "value": 127, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/49624511"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/34387145/fab6ea4f_original.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Nice little loft in Paris downtown", "2 beds", "May 6 – 13"],
+      "price": { "currency": "$", "value": 102, "period": "night" },
+      "rating": 4.74,
+      "link": "https://www.airbnb.com/rooms/2616983"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-701088894584924497/original/9d00e38b-9e22-446c-bd86-e715ac11a7ed.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Paris 16-Arc -De- Triomphe", "1 double bed", "Aug 24 – 29"],
+      "price": { "currency": "$", "value": 69, "period": "night" },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/701088894584924497"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/90992165/a0a515b2_original.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Flat 30m2 near Champs Elysées .", "1 double bed", "May 10 – 15"],
+      "price": { "currency": "$", "value": 123, "period": "night" },
+      "rating": 4.77,
+      "link": "https://www.airbnb.com/rooms/7141676"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/727d4620-4c58-4d77-a1ae-079d6e6d3f6b.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Bright + Quiet Room w/ your own bathtub and WC", "1 single bed", "Nov 12 – 18"],
+      "price": { "currency": "$", "value": 66, "period": "night" },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/49897946"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-42220110/original/efb96c93-b557-472f-acd7-b458d7d283f2.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Private room in a private apartment", "1 single bed", "Dec 25 – 30"],
+      "price": { "currency": "$", "value": 39, "period": "night" },
+      "rating": 4.28,
+      "link": "https://www.airbnb.com/rooms/42220110"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-596094203335263543/original/bf6efc7f-bdd3-4cf6-8734-0ea0cadc0d2d.jpeg?im_w=720",
+      "title": "Private room in Montreuil",
+      "subtitles": ["Room with balcony in Mairie de Montreuil", "2 queen beds", "Aug 7 – 14"],
+      "price": { "currency": "$", "value": 54, "period": "night" },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/596094203335263543"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/3fe9c665-8b07-4cd8-9aa2-d97c1ec00265.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studio in Paris center,  very simple, for 2 people", "1 bed", "Apr 17 – 22"],
+      "price": { "currency": "$", "value": 85, "period": "night" },
+      "rating": 4.81,
+      "link": "https://www.airbnb.com/rooms/654387050692017663"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/565a510d-4d35-4fbc-92ed-39324698eeb0.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["COSY STUDIO ONLY FOR 1 PERSON CLOSE TO THE MARAIS", "1 single bed", "Nov 23 – 28"],
+      "price": { "currency": "$", "value": 75, "period": "night" },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/33553409"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-642645751490291226/original/16ea0c5a-84bb-4b7e-a54e-dfaf6adcf680.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["charmant studio", "1 bed", "Jul 16 – 21"],
+      "price": { "currency": "$", "value": 49, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/642645751490291226"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-13457917/original/c35d4a45-86be-4d33-affe-e24d4171dd82.jpeg?im_w=720",
+      "title": "Place to stay in Paris",
+      "subtitles": ["Small Luxurious Room in the heart of Saint Germain", "1 single bed", "Aug 7 – 12"],
+      "price": { "currency": "$", "value": 93, "period": "night" },
+      "rating": 4.27,
+      "link": "https://www.airbnb.com/rooms/13457917"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0f362e79-dded-4d48-95b7-479a89cd0ec0.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Cosy Nest", "1 double bed", "Jul 17 – 22"],
+      "price": { "currency": "$", "value": 87, "period": "night" },
+      "rating": 4.73,
+      "link": "https://www.airbnb.com/rooms/42736872"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/25221944/875921de_original.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Small Cosy Room Mini Studio Central Opéra 75009", "1 single bed", "May 11 – 18"],
+      "price": { "currency": "$", "value": 70, "period": "night" },
+      "rating": 4.7,
+      "link": "https://www.airbnb.com/rooms/1692305"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/5a94b873-87b2-4101-92bc-abd6cd025e76.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Bedroom, Arts et Métiers  in the Marais", "1 queen bed", "Nov 2 – 7"],
+      "price": { "currency": "$", "value": 83, "period": "night" },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/16419973"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-664883219612344217/original/8e19000b-592a-41ad-a871-55abd40bd414.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Lovely little apartment in Parc de Belleville", "1 bed", "Jan 22 – 27"],
+      "price": { "currency": "$", "value": 108, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/664883219612344217"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c57fdffc-fae4-404c-9e5b-77e296c17983.jpg?im_w=720",
+      "title": "Loft in Paris",
+      "subtitles": ["Bright Loft in Charonne", "2 beds", "Apr 8 – 15"],
+      "price": { "currency": "$", "value": 83, "period": "night" },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/26295860"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-44995456/original/dffa408c-ddef-4a7b-97a3-79f9bca4a2f4.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["♪ Cosy studio arty neighboorhoud 11th - Paris ♪", "1 bed", "Dec 20 – 25"],
+      "price": { "currency": "$", "value": 77, "period": "night" },
+      "rating": 4.45,
+      "link": "https://www.airbnb.com/rooms/44995456"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/82d04f89-5f86-417e-a6b7-e92b65f7ad57.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Large studio - Bastille/Gare de Lyon - Bright", "1 bed", "Mar 25 – 30"],
+      "price": { "currency": "$", "value": 81, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/826062773187447738"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/42da77d0-8617-429d-82e4-39c716018101.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Cosy studio near the Marais.", "1 sofa bed", "May 6 – 13"],
+      "price": { "currency": "$", "value": 90, "period": "night" },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/38204931"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-872311455691311018/original/c57960cf-785c-4fa9-bef8-eed1f8c31fe8.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Location centre de Paris", "1 bed", "Jun 4 – 10"],
+      "price": { "currency": "$", "value": 92, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/872311455691311018"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e9695302-d922-4911-ab9d-03564636e2cc.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Bright 2 room apartment with balcony", "1 bed", "Jul 29 – Aug 4"],
+      "price": { "currency": "$", "value": 116, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/675793306143962318"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-52187330/original/b7d35fe1-b3ff-4c2d-9b76-652a5c827649.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Room near the SACRE COEUR - MONTMARTRE", "1 single bed", "Oct 5 – 12"],
+      "price": { "currency": "$", "value": 52, "period": "night" },
+      "rating": 4.6,
+      "link": "https://www.airbnb.com/rooms/52187330"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6390a32b-5b0d-413d-a98f-c3cd8eb9d7b3.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Apartment - Champs Elysées", "1 double bed", "May 3 – 8"],
+      "price": { "currency": "$", "value": 176, "period": "night" },
+      "rating": 4.56,
+      "link": "https://www.airbnb.com/rooms/8854305"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-625970758716180595/original/a3fc264b-dbde-4f77-994f-b365235f29ee.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Quiet room for rent near La Villette", "1 bed", "May 4 – 11"],
+      "price": { "currency": "$", "value": 40, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/625970758716180595"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/9552ee8a-1f59-4929-a565-67469f3a2b6e.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Double room 6 room 2", "1 double bed", "Nov 4 – 9"],
+      "price": { "currency": "$", "value": 63, "period": "night" },
+      "rating": 4.14,
+      "link": "https://www.airbnb.com/rooms/8495295"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/2bc7448f-2c4d-4e4e-a6e7-0479f4967d19.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Independent room with private bathroom and toilet", "1 single bed", "Jul 2 – 7"],
+      "price": { "currency": "$", "value": 80, "period": "night" },
+      "rating": 4.89,
+      "link": "https://www.airbnb.com/rooms/13060837"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ab947823-a193-4e81-8303-cf970f8abd4a.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Rooftop room in Paris", "1 single bed", "Nov 4 – 9"],
+      "price": { "currency": "$", "value": 63, "period": "night" },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/38450300"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/5d09947e-1056-4654-9ccb-bc9f6f67df74.jpg?im_w=720",
+      "title": "Shared room in Paris",
+      "subtitles": ["SOFA bed in the heart of paris", "2 single beds", "Oct 2 – 7"],
+      "price": { "currency": "$", "value": 58, "period": "night" },
+      "rating": 4.76,
+      "link": "https://www.airbnb.com/rooms/566511"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-50135572/original/9e06a9af-f350-4f52-921d-d24b4a77452d.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Central, sunny and charming duplex.", "3 beds", "Jan 4 – 9"],
+      "price": { "currency": "$", "value": 114, "period": "night" },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/50135572"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c5230496-383f-44e4-8cc0-8b5b00c908b9.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["💞 Fresh and Cosy Studio in Paris, Pere Lachaise", "1 bed", "Jun 7 – 14"],
+      "price": { "currency": "$", "value": 95, "period": "night" },
+      "rating": 4.86,
+      "link": "https://www.airbnb.com/rooms/628089940688136870"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-24906822/original/58357504-3361-4ade-a18c-747f74fbc18d.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Lovely apartment with nice view at Panthéon", "1 single bed", "May 12 – 19"],
+      "price": { "currency": "$", "value": 139, "period": "night" },
+      "rating": 4.81,
+      "link": "https://www.airbnb.com/rooms/24906822"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-830580468465053693/original/49f63fc1-275a-4bf6-8d53-d4688f2b0c0d.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Charming studio near Bastille", "1 single bed", "May 5 – 10"],
+      "price": { "currency": "$", "value": 99, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/830580468465053693"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-870707821904309686/original/4eb5665b-2910-49ab-a512-8d69eae0a906.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Chambre 5 min de Tour Eiffel", "1 bed", "Sep 1 – 6"],
+      "price": { "currency": "$", "value": 63, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/870707821904309686"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-849898726063917313/original/da9fbee2-c3f7-4afd-b0f6-f102821c61af.jpeg?im_w=720",
+      "title": "Private room in Le Mesnil-Amelot",
+      "subtitles": ["Comfortable private room", "1 bed", "May 29 – Jun 5"],
+      "price": { "currency": "$", "value": 63, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/849898726063917313"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-866473650355782207/original/9bc663fa-6b04-4c27-877a-c145966ad7df.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Chez Flo et Chloé - 2 pièces à Paris", "1 bed", "May 13 – 20"],
+      "price": { "currency": "$", "value": 100, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/866473650355782207"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-659448720460440061/original/4a8a2b96-f414-4abb-b245-43abbf9b8b2b.jpeg?im_w=720",
+      "title": "Private room in Choisy-le-Roi",
+      "subtitles": ["Room in apartment between Paris & Orly.", "1 bed", "Jun 12 – 19"],
+      "price": { "currency": "$", "value": 31, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/659448720460440061"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-867249289676103210/original/73c8bbed-c3ac-48b8-8c5c-3d180d89505f.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Chambre / Saint-Germain-des-près", "1 bed", "Jul 10 – 15"],
+      "price": { "currency": "$", "value": 88, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/867249289676103210"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/cc3a5cd2-94c7-4240-8a2a-229af6c7c1d5.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Chambre 1 in charming house Paris", "1 single bed", "Sep 2 – 7"],
+      "price": { "currency": "$", "value": 50, "period": "night" },
+      "rating": 4.68,
+      "link": "https://www.airbnb.com/rooms/10625291"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-803385243819931710/original/5cca4aee-38e9-4966-92ed-3ce2465dae73.png?im_w=720",
+      "title": "Apartment in Ivry-sur-Seine",
+      "subtitles": ["Joli studio proche Paris", "2 beds", "May 1 – 6"],
+      "price": { "currency": "$", "value": 41, "period": "night" },
+      "rating": 4.5,
+      "link": "https://www.airbnb.com/rooms/803385243819931710"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d859be22-cbcb-4630-81e9-119fa6173528.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Charming sunny studio in Montmartre", "1 bed", "Jul 8 – 13"],
+      "price": { "currency": "$", "value": 85, "period": "night" },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/5694356"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-801508318003296432/original/2eb294db-114b-402e-b4c9-86bf971095bf.jpeg?im_w=720",
+      "title": "Private room in Saint-Cloud",
+      "subtitles": ["Short stay room for rent", "1 bed", "Jul 2 – 7"],
+      "price": { "currency": "$", "value": 62, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/801508318003296432"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/22930083/dec993c8_original.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studio at the Quartier Latin Paris", "1 double bed", "Oct 30 – Nov 6"],
+      "price": { "currency": "$", "value": 79, "period": "night" },
+      "rating": 4.63,
+      "link": "https://www.airbnb.com/rooms/1575912"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-21557693/original/531f6fdd-c7b3-46a1-95e8-a92de1da45be.jpeg?im_w=720",
+      "title": "Guesthouse in Paris",
+      "subtitles": ["Vue sur \"Notre Dame\" Ile de la Cité", "2 beds", "Jan 1 – 6"],
+      "price": { "currency": "$", "value": 150, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/21557693"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-801911516432104160/original/55c3de8e-1c69-4928-8a01-a2c2f4f79494.jpeg?im_w=720",
+      "title": "Private room in Saint-Denis",
+      "subtitles": ["Bedroom - Close to Paris Metro 13", "1 single bed", "May 1 – 6"],
+      "price": { "currency": "$", "value": 44, "period": "night" },
+      "rating": 4.57,
+      "link": "https://www.airbnb.com/rooms/801911516432104160"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-830472686986268629/original/926d1894-c5ff-44cc-92c1-e9ef5727fbba.jpeg?im_w=720",
+      "title": "Apartment in Clichy",
+      "subtitles": ["Little studio Sacre Coeur view", "1 bed", "May 4 – 9"],
+      "price": { "currency": "$", "value": 70, "period": "night" },
+      "rating": 4.75,
+      "link": "https://www.airbnb.com/rooms/830472686986268629"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4229830e-f81a-4d74-9c1f-cc69eb6511f4.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Large loft with balcony - Marais/Canal St Martin", "1 queen bed", "Jul 10 – 15"],
+      "price": { "currency": "$", "value": 177, "period": "night" },
+      "rating": 4.95,
+      "link": "https://www.airbnb.com/rooms/40718627"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/661dcb50-81dc-4cba-af40-ad2c57de2bfc.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["New & quiet 1BR apartment @ Louvre Palais Royal", "1 bed", "May 22 – 29"],
+      "price": { "currency": "$", "value": 170, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/739239312513727239"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/fefdb46f-0258-49e3-8a00-e127680ec273.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Two rooms on garden, close to the Batignolles.", "1 queen bed", "Oct 23 – 30"],
+      "price": { "currency": "$", "value": 56, "period": "night" },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/17604084"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/087b3587-1599-440c-8378-2775f5caa940.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Room in cozy apartment near Montmartre", "1 double bed", "Jun 30 – Jul 6"],
+      "price": { "currency": "$", "value": 74, "period": "night" },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/51985339"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-53469141/original/9db310d3-17cc-4543-8e4e-573d92dc2ed4.png?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Room Paris East and North Station", "1 double bed", "May 8 – 13"],
+      "price": { "currency": "$", "value": 85, "period": "night" },
+      "rating": 4.77,
+      "link": "https://www.airbnb.com/rooms/53469141"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/59bd0158-10f2-43db-a47a-9fc1d6c807c1.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Latin Quarter private bedroom", "1 double bed", "Sep 12 – 17"],
+      "price": { "currency": "$", "value": 63, "period": "night" },
+      "rating": 4.61,
+      "link": "https://www.airbnb.com/rooms/17147104"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-801379336683943006/original/5968e672-94c9-45de-b197-30a024a3e982.jpeg?im_w=720",
+      "title": "Private room in Saint-Denis",
+      "subtitles": ["Bedroom - Close to Paris Metro 13", "1 single bed", "Jun 9 – 14"],
+      "price": { "currency": "$", "value": 42, "period": "night" },
+      "rating": 4.86,
+      "link": "https://www.airbnb.com/rooms/801379336683943006"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-53748534/original/d564442b-1799-4f5e-9060-ca963e58f56e.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Bucolic apartment in the heart of the 5th arrondissement", "1 bed", "May 7 – 12"],
+      "price": { "currency": "$", "value": 132, "period": "night" },
+      "rating": 4.38,
+      "link": "https://www.airbnb.com/rooms/53748534"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-50807503/original/0b20d72e-3911-4524-b73a-042e207e4486.jpeg?im_w=720",
+      "title": "Apartment in Le Pré-Saint-Gervais",
+      "subtitles": ["Studio, \"Des airs de petite maison\", 5 min Paris", "1 double bed", "May 15 – 22"],
+      "price": { "currency": "$", "value": 67, "period": "night" },
+      "rating": 4.79,
+      "link": "https://www.airbnb.com/rooms/50807503"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ca8f1488-4710-41ed-b7a8-a419fd08f3b8.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Chambre longue durée, face Seine", "1 bed", "Jun 30 – Jul 5"],
+      "price": { "currency": "$", "value": 49, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/871389968328500886"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e637cd14-cc67-44b1-99d0-dd74aac5c78e.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Quiet apartment at the foot of Sacré-Coeur", "1 bed", "Jul 29 – Aug 5"],
+      "price": { "currency": "$", "value": 113, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/778860196197109382"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0caeab67-830a-4bf9-9b1b-fc265af98281.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["SMALL Studio next to Parc Butte-Chaument.", "1 sofa bed", "Oct 30 – Nov 4"],
+      "price": { "currency": "$", "value": 42, "period": "night" },
+      "rating": 4.7,
+      "link": "https://www.airbnb.com/rooms/28856921"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-1313194/original/c9f2a4b3-1510-4b36-9083-fa71043e3c18.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Joli Appart Canal St Martin", "1 single bed", "May 3 – 10"],
+      "price": { "currency": "$", "value": 91, "period": "night" },
+      "rating": 4.4,
+      "link": "https://www.airbnb.com/rooms/1313194"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-873683617928578524/original/7b0ae564-1cf8-4a31-9618-2ba93e64500a.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Cosy and newly renovated apt", "1 bed", "May 5 – 10"],
+      "price": { "currency": "$", "value": 86, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/873683617928578524"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/8d0f6d62-ccb3-4cb9-a7f5-da1a949bf7d0.jpg?im_w=720",
+      "title": "Private room in Croissy",
+      "subtitles": ["Ch comfort of 25 m2 in s/slope loc medium duration", "2 beds", "May 2 – 8"],
+      "price": { "currency": "$", "value": 35, "period": "night" },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/15188134"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-702310342009151648/original/24fbad77-f14e-4a89-91f8-a17b3738525d.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Nice Little Flat - Paris View Eiffel Tower", "1 bed", "Nov 1 – 6"],
+      "price": { "currency": "$", "value": 91, "period": "night" },
+      "rating": 4.34,
+      "link": "https://www.airbnb.com/rooms/702310342009151648"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/afdc2f22-a1ae-4bc3-855d-2b0b1e7afc2c.jpg?im_w=720",
+      "title": "Private room in Vanves",
+      "subtitles": ["A very bright bedroom/balcony", "1 single bed", "Sep 15 – 20"],
+      "price": { "currency": "$", "value": 48, "period": "night" },
+      "rating": 4.76,
+      "link": "https://www.airbnb.com/rooms/8436272"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-849943744086214436/original/581c09eb-9b81-493b-9ffb-928c29ca01b5.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Beautiful architect apartment in the heart of Paris", "1 bed", "May 1 – 6"],
+      "price": { "currency": "$", "value": 156, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/849943744086214436"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7aa5199f-8490-4319-9fbe-b652094314f5.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["In the heart of the city of lights", "1 single bed", "Jul 17 – 22"],
+      "price": { "currency": "$", "value": 94, "period": "night" },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/28562915"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/18cc0bc6-fbd4-49b8-bafd-4be0fb996d63.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Dedicated room in the center-East of Paris", "1 sofa bed", "Jul 15 – 20"],
+      "price": { "currency": "$", "value": 49, "period": "night" },
+      "rating": 4.59,
+      "link": "https://www.airbnb.com/rooms/11682095"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-48417482/original/9841a4d3-7da5-4231-8e5a-b2a321a1906e.jpeg?im_w=720",
+      "title": "Private room in Vanves",
+      "subtitles": ["Small room 5 min to Paris", "1 single bed", "Jul 24 – 29"],
+      "price": { "currency": "$", "value": 45, "period": "night" },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/48417482"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c5495ad7-f2fd-40ff-a644-b5bbcfc15452.jpg?im_w=720",
+      "title": "Shared room in Paris",
+      "subtitles": ["Shared room Paris centre 6", "1 bed", "May 11 – 16"],
+      "price": { "currency": "$", "value": 33, "period": "night" },
+      "rating": 4.35,
+      "link": "https://www.airbnb.com/rooms/9842022"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/36c713e2-3868-42f2-8eea-5a415421c641.jpg?im_w=720",
+      "title": "Private room in Asnières-sur-Seine",
+      "subtitles": ["Room in a house Asnières,closeParis", "1 bed", "May 21 – 26"],
+      "price": { "currency": "$", "value": 51, "period": "night" },
+      "rating": 4.65,
+      "link": "https://www.airbnb.com/rooms/1990484"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/927c7e48-76b1-447c-9ab6-134761e928c5.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Red room overlooking the Eiffel Tower", "1 single bed", "Jan 1 – 7"],
+      "price": { "currency": "$", "value": 52, "period": "night" },
+      "rating": 4.73,
+      "link": "https://www.airbnb.com/rooms/4258454"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/420931a1-397c-4db0-98a7-c0c6412458ef.jpg?im_w=720",
+      "title": "Private room in Aubervilliers",
+      "subtitles": ["Cosy room in a house, 20 min from the center", "1 king bed", "Jun 4 – 9"],
+      "price": { "currency": "$", "value": 40, "period": "night" },
+      "rating": 4.65,
+      "link": "https://www.airbnb.com/rooms/44083398"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/18847464/6fb2cd78_original.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Beautiful Room in Quartier Latin", "1 single bed", "Jun 2 – 7"],
+      "price": { "currency": "$", "value": 68, "period": "night" },
+      "rating": 4.66,
+      "link": "https://www.airbnb.com/rooms/1250856"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/21246826/e6d746cd_original.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["A NICE LOVELY TYPICALLY FRENCH ROOM", "1 bed", "Dec 16 – 22"],
+      "price": { "currency": "$", "value": 51, "period": "night" },
+      "rating": 4.55,
+      "link": "https://www.airbnb.com/rooms/753143"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/2d1b6cd3-3bc1-4405-af3f-0aa5bcbe4357.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Home sweet home completely refurbished", "3 beds", "Oct 23 – 28"],
+      "price": { "currency": "$", "value": 203, "period": "night" },
+      "rating": 4.85,
+      "link": "https://www.airbnb.com/rooms/9420302"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/110701412/a667039b_original.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Design Loft In Central Paris", "1 double bed", "Dec 10 – 15"],
+      "price": { "currency": "$", "value": 126, "period": "night" },
+      "rating": 4.73,
+      "link": "https://www.airbnb.com/rooms/8569158"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/da2aea87-0172-4660-887e-7039ea781d10.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studio 9m2 Paris 15ème", "1 single bed", "Oct 10 – 15"],
+      "price": { "currency": "$", "value": 47, "period": "night" },
+      "rating": 4.48,
+      "link": "https://www.airbnb.com/rooms/12757975"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/927c7e48-76b1-447c-9ab6-134761e928c5.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Red room overlooking the Eiffel Tower", "1 single bed", "Jan 1 – 7"],
+      "price": { "currency": "$", "value": 52, "period": "night" },
+      "rating": 4.73,
+      "link": "https://www.airbnb.com/rooms/4258454"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-832478459869881751/original/ceb22027-ae3d-4ffd-b8b4-88191d00f58b.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Beautiful Loft in the Marais", "1 queen bed", "Aug 26 – 31"],
+      "price": { "currency": "$", "value": 217, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/832478459869881751"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/420931a1-397c-4db0-98a7-c0c6412458ef.jpg?im_w=720",
+      "title": "Private room in Aubervilliers",
+      "subtitles": ["Cosy room in a house, 20 min from the center", "1 king bed", "Jun 4 – 9"],
+      "price": { "currency": "$", "value": 40, "period": "night" },
+      "rating": 4.65,
+      "link": "https://www.airbnb.com/rooms/44083398"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/18847464/6fb2cd78_original.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Beautiful Room in Quartier Latin", "1 single bed", "Jun 2 – 7"],
+      "price": { "currency": "$", "value": 68, "period": "night" },
+      "rating": 4.66,
+      "link": "https://www.airbnb.com/rooms/1250856"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/4db415c7-eea5-499d-8e43-3b77bb428349.jpg?im_w=720",
+      "title": "Private room in Évry-Courcouronnes",
+      "subtitles": ["Private room, close to Grand Bourg train station! (3)", "1 single bed", "May 1 – 6"],
+      "price": { "currency": "$", "value": 21, "period": "night" },
+      "rating": 4.21,
+      "link": "https://www.airbnb.com/rooms/48265952"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/21246826/e6d746cd_original.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["A NICE LOVELY TYPICALLY FRENCH ROOM", "1 bed", "Dec 16 – 22"],
+      "price": { "currency": "$", "value": 51, "period": "night" },
+      "rating": 4.55,
+      "link": "https://www.airbnb.com/rooms/753143"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/2d1b6cd3-3bc1-4405-af3f-0aa5bcbe4357.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Home sweet home completely refurbished", "3 beds", "Oct 23 – 28"],
+      "price": { "currency": "$", "value": 203, "period": "night" },
+      "rating": 4.85,
+      "link": "https://www.airbnb.com/rooms/9420302"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/933e9555-76ba-4276-89b7-cc80a51ccada.jpg?im_w=720",
+      "title": "Private room in Châtillon",
+      "subtitles": ["Room 2 minutes from the subway with breakfast", "1 double bed", "May 1 – 6"],
+      "price": { "currency": "$", "value": 89, "period": "night" },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/1418171"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/110701412/a667039b_original.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Design Loft In Central Paris", "1 double bed", "Dec 10 – 15"],
+      "price": { "currency": "$", "value": 126, "period": "night" },
+      "rating": 4.73,
+      "link": "https://www.airbnb.com/rooms/8569158"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/da2aea87-0172-4660-887e-7039ea781d10.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studio 9m2 Paris 15ème", "1 single bed", "Oct 10 – 15"],
+      "price": { "currency": "$", "value": 47, "period": "night" },
+      "rating": 4.48,
+      "link": "https://www.airbnb.com/rooms/12757975"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/85602339/12f9aae6_original.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["large 2-room apartment 2 steps from Notre Dame", "1 queen bed", "Mar 18 – 23"],
+      "price": { "currency": "$", "value": 145, "period": "night" },
+      "rating": 4.77,
+      "link": "https://www.airbnb.com/rooms/4734193"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-53803770/original/2e4f388a-c5f8-4bc0-80dd-b89d29627fcb.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Charming apartment in Paris", "1 double bed", "May 17 – 22"],
+      "price": { "currency": "$", "value": 83, "period": "night" },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/53803770"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/dc0a97fb-57e8-4a26-aa42-6b6d9d5bd14f.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Bright and spacious studio.", "4 beds", "May 12 – 17"],
+      "price": { "currency": "$", "value": 113, "period": "night" },
+      "rating": 4.84,
+      "link": "https://www.airbnb.com/rooms/1987369"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e6f1d025-17e2-4dbb-ae8d-4118cb3f41ff.jpg?im_w=720",
+      "title": "Private room in Mitry-Mory",
+      "subtitles": ["Room/in-law for Rent", "1 bed", "Sep 11 – 16"],
+      "price": { "currency": "$", "value": 35, "period": "night" },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/797730460962683161"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-594614070332214286/original/8db97d4b-cc90-40a8-8b48-9937fca8654a.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["PARIS, nice and colorful flat", "1 bed", "Jul 25 – Aug 1"],
+      "price": { "currency": "$", "value": 34, "period": "night" },
+      "rating": 4.33,
+      "link": "https://www.airbnb.com/rooms/594614070332214286"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/59f46e16-9c0f-403e-97fe-20a7a64d50aa.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Blue room overlooking the Eiffel Tower", "1 single bed", "Oct 1 – 7"],
+      "price": { "currency": "$", "value": 51, "period": "night" },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/39703840"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c42d676c-4733-4151-9f40-c2903f4a3cd0.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studio Victor Hugo/Champs Elysees", "1 single bed", "Sep 15 – 20"],
+      "price": { "currency": "$", "value": 95, "period": "night" },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/12796557"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-873869810597928428/original/82cf72f3-5d9e-4acb-a03a-180f182be837.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Loods 5", "2 beds", "May 1 – 8"],
+      "price": { "currency": "$", "value": 109, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/873869810597928428"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-875117433755243504/original/1916dea9-8089-41fa-8c53-7feaab709c90.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Appartement rénové coeur 18ème", "1 bed", "May 21 – 26"],
+      "price": { "currency": "$", "value": 104, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/875117433755243504"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-817905033952471950/original/cab27ef0-966f-4c93-b579-f2162dc9741f.jpeg?im_w=720",
+      "title": "Private room in Villejuif",
+      "subtitles": ["Single room 2 minutes from the metro.", "1 bed", "May 1 – 7"],
+      "price": { "currency": "$", "value": 46, "period": "night" },
+      "rating": 4.33,
+      "link": "https://www.airbnb.com/rooms/817905033952471950"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-857622723003723789/original/e9f20634-7084-4bcf-a366-100281353856.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["20m² - terrace and great views of the Eiffel Tower", "1 bed", "Jul 7 – 12"],
+      "price": { "currency": "$", "value": 232, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/857622723003723789"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-51276622/original/ddee9cae-d05d-4ca9-8297-2ec96a4b44d2.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Authentic parisian's flat", "1 double bed", "Oct 1 – 7"],
+      "price": { "currency": "$", "value": 77, "period": "night" },
+      "rating": 4.85,
+      "link": "https://www.airbnb.com/rooms/51276622"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-848514681198748995/original/be1812a2-5eb4-4920-b8ce-fc8971b25264.jpeg?im_w=720",
+      "title": "Apartment in Les Lilas",
+      "subtitles": ["Mignon petit studio 16m2", "1 bed", "Oct 31 – Nov 5"],
+      "price": { "currency": "$", "value": 63, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/848514681198748995"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-778738237984664058/original/6367675b-15df-4585-9e2d-2a75e57ab3f0.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studio Calme !", "1 bed", "Jan 1 – 6"],
+      "price": { "currency": "$", "value": 68, "period": "night" },
+      "rating": 4.36,
+      "link": "https://www.airbnb.com/rooms/778738237984664058"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-813987725354408902/original/f7ef8458-fa04-406b-acda-ce6eb96b21b1.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Lovely room", "1 bed", "Jul 16 – 23"],
+      "price": { "currency": "$", "value": 54, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/813987725354408902"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-53564607/original/d49453e6-d73d-422c-8768-0f284dbe5210.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Paris : petit studio République", "1 double bed", "Mar 26 – Apr 1"],
+      "price": { "currency": "$", "value": 76, "period": "night" },
+      "rating": 4.65,
+      "link": "https://www.airbnb.com/rooms/53564607"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/20e6820a-1422-455a-b79e-4d1e3fafe9d1.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["AMAZING ART DECO STUDIO IN PARIS 9", "1 bed", "Nov 10 – 15"],
+      "price": { "currency": "$", "value": 76, "period": "night" },
+      "rating": 4.35,
+      "link": "https://www.airbnb.com/rooms/4675534"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/94ffb8a3-5238-4351-bc37-2f21d458a393.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Typical and cozy apartment - Paris 11e", "1 double bed", "May 26 – 31"],
+      "price": { "currency": "$", "value": 110, "period": "night" },
+      "rating": 4.54,
+      "link": "https://www.airbnb.com/rooms/50993425"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-873582782243231292/original/87094552-f7f8-4045-8302-e81157317492.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Petit appartement à paris 10", "1 bed", "May 5 – 12"],
+      "price": { "currency": "$", "value": 62, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/873582782243231292"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/102787707/64c923dc_original.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Apt with panoramic view of Paris", "1 double bed", "Nov 14 – 19"],
+      "price": { "currency": "$", "value": 209, "period": "night" },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/8065771"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-647656544852418255/original/b1d5bf8c-a9b6-4685-bbeb-01b3d3ea49c5.jpeg?im_w=720",
+      "title": "Apartment in Saint-Denis",
+      "subtitles": ["Sunny 1 bdr with balcony near Stade de France", "1 queen bed", "Aug 2 – 9"],
+      "price": { "currency": "$", "value": 63, "period": "night" },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/647656544852418255"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/fd883546-c4ff-4316-ad53-a8e09fe2c78a.jpg?im_w=720",
+      "title": "Shared room in Paris",
+      "subtitles": ["Shared bedrooms in the Paris center 7G", "1 bed", "Jun 22 – 27"],
+      "price": { "currency": "$", "value": 30, "period": "night" },
+      "rating": 4.29,
+      "link": "https://www.airbnb.com/rooms/9842034"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-549434519468811187/original/49ba5d13-90f7-4f08-98e6-60046b08e17d.jpeg?im_w=720",
+      "title": "Private room in Roissy-en-France",
+      "subtitles": ["CDG, Private room (2) in a clean and quiet house", "1 double bed", "May 23 – 30"],
+      "price": { "currency": "$", "value": 65, "period": "night" },
+      "rating": 4.66,
+      "link": "https://www.airbnb.com/rooms/549434519468811187"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-873595427404172500/original/618c1291-ca4b-4bdf-86b2-71bbcd7ce799.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Nid d'amour calme à 9 minutes du Musée du Louvre", "1 bed", "Jun 11 – 16"],
+      "price": { "currency": "$", "value": 129, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/873595427404172500"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6903aa5b-878c-47ff-aa1e-828be2dfc680.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Cosy apartment on the roofs of Paris", "1 double bed", "Aug 12 – 17"],
+      "price": { "currency": "$", "value": 120, "period": "night" },
+      "rating": 4.76,
+      "link": "https://www.airbnb.com/rooms/24653028"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-17190320/original/7a253384-a7f9-489d-934a-47cd4b8d996d.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Small Room Near Eiffel Tower", "1 single bed", "Aug 12 – 17"],
+      "price": { "currency": "$", "value": 93, "period": "night" },
+      "rating": 4.53,
+      "link": "https://www.airbnb.com/rooms/17190320"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d2cd99e0-68ab-43c6-b72e-86fd1da19088.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Lovely private room exclusively for girls", "1 bed", "May 1 – 6"],
+      "price": { "currency": "$", "value": 58, "period": "night" },
+      "rating": 4.62,
+      "link": "https://www.airbnb.com/rooms/543406848462528405"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-762372849553595323/original/810191fc-22fc-4dd6-9581-5760cd4fc01f.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Eiffel Tower Breathtaking View ! Magical Studio", "1 bed", "Nov 5 – 10"],
+      "price": { "currency": "$", "value": 629, "period": "night" },
+      "rating": 4.86,
+      "link": "https://www.airbnb.com/rooms/762372849553595323"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/25add22d-b2fb-4f73-9136-769a986264d2.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studio Main d'Or", "1 double bed", "Feb 1 – 6"],
+      "price": { "currency": "$", "value": 70, "period": "night" },
+      "rating": 4.81,
+      "link": "https://www.airbnb.com/rooms/11662118"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6148137a-0d10-42b7-91b0-e2f4507645f2.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Lovely studio in Paris", "1 bed", "Jul 10 – 15"],
+      "price": { "currency": "$", "value": 98, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/816945053736263747"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/036a214f-8a93-4d7d-bba8-75323dd296fb.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Bright cocoon near Gambetta", "1 double bed", "Apr 1 – 6"],
+      "price": { "currency": "$", "value": 75, "period": "night" },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/43817601"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1ad7b6ed-436f-4a52-8f69-c7da8166c34a.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["A play in Paris just opposite the Buttes Chaumont!", "1 king bed", "Jul 3 – 8"],
+      "price": { "currency": "$", "value": 50, "period": "night" },
+      "rating": 4.77,
+      "link": "https://www.airbnb.com/rooms/39481995"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-830446434740950060/original/ae46c372-113e-4d85-8489-a7c6173d9b34.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Cozy little studio", "1 bed", "Feb 19 – 24"],
+      "price": { "currency": "$", "value": 69, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/830446434740950060"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-872871503741591178/original/ef43288a-b2d4-48a3-aa68-6f0560e6ddf7.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Cosy studio near Montmartre", "1 bed", "May 19 – 25"],
+      "price": { "currency": "$", "value": 115, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/872871503741591178"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-718114665716285388/original/123f3cfd-fe16-40bd-8a18-a278ee274ca9.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Paris Studio Lumineux", "1 bed", "May 1 – 6"],
+      "price": { "currency": "$", "value": 84, "period": "night" },
+      "rating": 4.54,
+      "link": "https://www.airbnb.com/rooms/718114665716285388"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/611349e7-67ef-412f-927d-a8c4fdd2a824.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Lovely sunny apartment with balcony&beautiful view", "2 beds", "Jan 1 – 6"],
+      "price": { "currency": "$", "value": 231, "period": "night" },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/7962507"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c226a018-e774-40c2-a45f-0a434982b07e.jpg?im_w=720",
+      "title": "Home in Chatou",
+      "subtitles": ["House & garden, close TO A, 15 minutes from Paris", "1 double bed", "Jun 24 – 29"],
+      "price": { "currency": "$", "value": 76, "period": "night" },
+      "rating": 4.72,
+      "link": "https://www.airbnb.com/rooms/20945514"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-51208868/original/f376c0a7-6285-4ca0-9c97-49b7a50a9317.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Parisian Charming Apartment/ Buttes Chaumont", "1 sofa bed", "Aug 11 – 16"],
+      "price": { "currency": "$", "value": 79, "period": "night" },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/51208868"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-49354966/original/6125f15b-6dab-4a57-a930-0cfa636aff17.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Superbe Apartment in the Heart of Paris", "1 queen bed", "May 2 – 9"],
+      "price": { "currency": "$", "value": 120, "period": "night" },
+      "rating": 4.48,
+      "link": "https://www.airbnb.com/rooms/49354966"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/fad8e841-182d-4969-b9eb-2a9404cf2407.jpg?im_w=720",
+      "title": "Condo in Paris",
+      "subtitles": ["STUDIO IN THE GREEN HEART OF PARIS", "1 sofa bed", "Dec 15 – 20"],
+      "price": { "currency": "$", "value": 75, "period": "night" },
+      "rating": 4.81,
+      "link": "https://www.airbnb.com/rooms/10891540"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/fdacd223-53cb-4629-9175-2d397d69813a.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Quiet Cosy Room&terrace:breathtaking view of Paris", "1 double bed", "Jul 11 – 16"],
+      "price": { "currency": "$", "value": 97, "period": "night" },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/38639178"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-667137838177499995/original/abdebb71-e685-42d1-ba84-8b8b638367b6.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Lovely studio near Montmartre", "1 bed", "Nov 1 – 6"],
+      "price": { "currency": "$", "value": 96, "period": "night" },
+      "rating": 4.77,
+      "link": "https://www.airbnb.com/rooms/667137838177499995"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/04a340a2-5af9-4949-97ad-f8d001fa8ca6.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Paris15 Room near Eiffel Tower for 1 person", "1 double bed", "Jul 13 – 18"],
+      "price": { "currency": "$", "value": 95, "period": "night" },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/28407314"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-725291794128469507/original/11a69f10-d50b-4a8d-a691-1170411c6fd7.jpeg?im_w=720",
+      "title": "Private room in Villejuif",
+      "subtitles": [
+        "Private small room in the villa, downtown villejuif, next to subway line 7, close to China Town for transportation and shopping.",
+        "1 bed",
+        "Jun 10 – 15"
+      ],
+      "price": { "currency": "$", "value": 31, "period": "night" },
+      "rating": 4.22,
+      "link": "https://www.airbnb.com/rooms/725291794128469507"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-728674358920317373/original/814c3e74-b5a8-46b5-a077-69e4d1a3bb58.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["A private room in the city center of Paris", "1 bed", "Aug 26 – Sep 1"],
+      "price": { "currency": "$", "value": 62, "period": "night" },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/728674358920317373"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6be7e14a-22b3-440f-a900-418e9587e96c.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studio Haussmannien avec patio", "1 sofa bed", "Aug 3 – 8"],
+      "price": { "currency": "$", "value": 79, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/867181833645584354"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-649640038848119518/original/ebf19677-2306-45e9-a5fe-02f4afcfa46c.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Beautiful in the heart of Le Marais", "1 double bed", "Aug 12 – 17"],
+      "price": { "currency": "$", "value": 172, "period": "night" },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/649640038848119518"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/64d85e0e-bab6-4abb-a604-8465f9a436b3.jpg?im_w=720",
+      "title": "Private room in Ivry-sur-Seine",
+      "subtitles": ["As in the quiet countryside facing Paris", "1 double bed", "Oct 8 – 13"],
+      "price": { "currency": "$", "value": 50, "period": "night" },
+      "rating": 4.76,
+      "link": "https://www.airbnb.com/rooms/13189684"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-783228517589610328/original/268688c2-f161-497d-8717-5801062c14bc.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Charmant studio calme & spacieux", "1 bed", "Oct 14 – 19"],
+      "price": { "currency": "$", "value": 114, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/783228517589610328"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/80704668/773e94e9_original.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Joli studio proche Canal St Martin", "1 double bed", "Jul 16 – 21"],
+      "price": { "currency": "$", "value": 89, "period": "night" },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/5986960"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-868155897404099465/original/128e4159-ae34-46fb-b648-6619247ac049.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Charmante chambre vue sur jardin", "1 bed", "Sep 17 – 22"],
+      "price": { "currency": "$", "value": 38, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/868155897404099465"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/95700055/73d4c389_original.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Large Montmartre Airco studio", "1 bed", "Aug 17 – 22"],
+      "price": { "currency": "$", "value": 164, "period": "night" },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/7043650"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-680416622090870162/original/8251cd84-cf10-40ea-a10f-9afc79bbadab.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Entire Studio Daguerre", "2 beds", "Jul 28 – Aug 2"],
+      "price": { "currency": "$", "value": 88, "period": "night" },
+      "rating": 3.6,
+      "link": "https://www.airbnb.com/rooms/680416622090870162"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-856913443203368522/original/47e1f1ca-5dc8-46b9-a222-4ac60d0a4da7.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Cosy studio in Paris", "1 bed", "Jun 30 – Jul 5"],
+      "price": { "currency": "$", "value": 63, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/856913443203368522"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/c1e885cc-6823-4812-aeee-84ef2d2642bc.jpg?im_w=720",
+      "title": "Private room in Pierrefitte-sur-Seine",
+      "subtitles": ["Chambre Private Room Paris / Airport CDG / TV wifi", "1 single bed", "Jun 2 – 9"],
+      "price": { "currency": "$", "value": 29, "period": "night" },
+      "rating": 4.73,
+      "link": "https://www.airbnb.com/rooms/16809541"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1ebfcb86-5636-420f-9ea2-4b1435d1ee5d.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studio Wattignies", "1 sofa bed", "May 10 – 15"],
+      "price": { "currency": "$", "value": 77, "period": "night" },
+      "rating": 4.6,
+      "link": "https://www.airbnb.com/rooms/29797160"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-783168724896652942/original/3d074038-5e2f-4ad5-8506-dc1541568a08.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["\"Under the sky of Paris\"", "2 beds", "Jan 3 – 8"],
+      "price": { "currency": "$", "value": 101, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/783168724896652942"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-40590543/original/b78a8d4d-356c-4207-b849-8907a405a442.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Charming studio furnished and equipped in the 18th.", "1 bed", "Jan 15 – 22"],
+      "price": { "currency": "$", "value": 63, "period": "night" },
+      "rating": 4.83,
+      "link": "https://www.airbnb.com/rooms/40590543"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-2247629/original/7c5f545b-5d1b-4429-ad5b-9134b66b2f92.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Bedroom at the foot of Montmartre", "1 single bed", "Jul 5 – 10"],
+      "price": { "currency": "$", "value": 48, "period": "night" },
+      "rating": 4.51,
+      "link": "https://www.airbnb.com/rooms/2247629"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-1329018/original/c9dd78a2-d7df-4d0d-b659-e5b80502ba4b.png?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Lovely single room near Champs Elysees", "1 single bed", "Aug 28 – Sep 2"],
+      "price": { "currency": "$", "value": 66, "period": "night" },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/1329018"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/55740986/0fb6d219_original.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Cozy Marais apartment - flexible cancellation", "1 double bed", "Aug 23 – 28"],
+      "price": { "currency": "$", "value": 151, "period": "night" },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/2302860"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/97323839/9f904778_original.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["COSY studio in CENTRAL Paris", "2 beds", "Jan 13 – 18"],
+      "price": { "currency": "$", "value": 117, "period": "night" },
+      "rating": 4.41,
+      "link": "https://www.airbnb.com/rooms/6312377"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-842814902706946060/original/eb366bae-1144-4e9d-9c05-60df6380678b.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studio Charonne entre Bastille République Nation", "1 bed", "Mar 7 – 12"],
+      "price": { "currency": "$", "value": 82, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/842814902706946060"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-51344021/original/5414bf8d-726a-44e2-89cb-0c51e8fe3c7f.jpeg?im_w=720",
+      "title": "Private room in Pantin",
+      "subtitles": ["Wooden loft 5 minutes from the metro", "1 double bed", "Jun 9 – 14"],
+      "price": { "currency": "$", "value": 76, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/51344021"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1eb5214c-b96e-496d-88ee-bd7c99d666ae.jpg?im_w=720",
+      "title": "Apartment in Saint-Denis",
+      "subtitles": ["Studio close to station Métro 13 Carrefour Pleyel", "2 beds", "May 3 – 10"],
+      "price": { "currency": "$", "value": 56, "period": "night" },
+      "rating": 4.4,
+      "link": "https://www.airbnb.com/rooms/44281727"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/59304431/f93b97c4_original.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Room in Paris 17", "Jul 15 – 20"],
+      "price": { "currency": "$", "value": 45, "period": "night" },
+      "rating": 4.46,
+      "link": "https://www.airbnb.com/rooms/4723995"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-43626264/original/ff7b6224-c104-4684-ae90-acde1d1de629.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Cosy small studio with Paris views", "1 single bed", "May 9 – 15"],
+      "price": { "currency": "$", "value": 89, "period": "night" },
+      "rating": 4.58,
+      "link": "https://www.airbnb.com/rooms/43626264"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/5bca8734-6a0f-452e-8720-e24687ed78a3.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Latin Quarter 34 sq m with amazing views", "1 queen bed", "Jul 20 – 27"],
+      "price": { "currency": "$", "value": 311, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/43622871"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-709889932087507211/original/1dea3943-6714-42e5-a0ae-7316ee49c26e.jpeg?im_w=720",
+      "title": "Shared room in Ivry-sur-Seine",
+      "subtitles": ["Spacious Women’s Shared Double Room 2-2", "1 single bed", "May 6 – 12"],
+      "price": { "currency": "$", "value": 35, "period": "night" },
+      "rating": 4.83,
+      "link": "https://www.airbnb.com/rooms/710700607887743063"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/cc63a28e-29ca-4193-9f2d-8b3a6ea7433c.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["STUDIO  \"On the rooftops of Montmartre\"", "1 double bed", "Jul 5 – 11"],
+      "price": { "currency": "$", "value": 108, "period": "night" },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/24904249"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-42331532/original/4a9b6edb-1fb0-4570-b564-3cf370704b7c.jpeg?im_w=720",
+      "title": "Private room in Saint-Ouen",
+      "subtitles": ["H room", "1 king bed", "Jul 6 – 11"],
+      "price": { "currency": "$", "value": 59, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/42331532"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-637716160283341456/original/026d13c6-939f-45b1-a4f5-82bd863735ea.jpeg?im_w=720",
+      "title": "Private room in Athis-Mons",
+      "subtitles": ["The BEAUTIFUL road to the OCEAN just around the corner from Orly!", "1 bed", "May 1 – 6"],
+      "price": { "currency": "$", "value": 30, "period": "night" },
+      "rating": 4.23,
+      "link": "https://www.airbnb.com/rooms/637716160283341456"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/b09a3a68-3144-4a46-b52a-74356d659129.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["The Painter's House - BED & BREAKFAST", "2 beds", "Nov 4 – 9"],
+      "price": { "currency": "$", "value": 166, "period": "night" },
+      "rating": 4.99,
+      "link": "https://www.airbnb.com/rooms/13108828"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/099b0b5c-26c5-442d-9fda-d6f00acbeee0.jpg?im_w=720",
+      "title": "Private room in Aubervilliers",
+      "subtitles": ["Lovely apartment in Aubervilliers", "1 double bed", "May 1 – 6"],
+      "price": { "currency": "$", "value": 54, "period": "night" },
+      "rating": 4.56,
+      "link": "https://www.airbnb.com/rooms/651546989431800510"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-872904296602507440/original/0d38955c-7640-4d84-a194-90a695f03ca4.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Beau studio caché au parc Montsouris - Paris 14ᵉ", "1 bed", "May 3 – 8"],
+      "price": { "currency": "$", "value": 91, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/872904296602507440"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/b0d05585-16be-47cd-ac05-bb5064347c98.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["PARIS - LE MARAIS  28M2", "1 bed", "Jan 23 – 28"],
+      "price": { "currency": "$", "value": 176, "period": "night" },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/12315460"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0434ff74-c855-453a-8582-78ce38212e21.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["studio plein centre Paris", "1 bed", "Jul 9 – 14"],
+      "price": { "currency": "$", "value": 139, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/874437983128170319"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-846074261719011686/original/3cb6cfe0-0fd8-428a-96c3-2c1c035bb5af.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Le Nest Hotel | Classic Room", "1 double bed", "May 6 – 13"],
+      "price": { "currency": "$", "value": 176, "period": "night" },
+      "rating": 4.86,
+      "link": "https://www.airbnb.com/rooms/846074261719011686"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/fdf5cfec-363c-4856-b298-599a605b1656.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["A small nest for the lovers of Paris!", "1 double bed", "Jul 29 – Aug 3"],
+      "price": { "currency": "$", "value": 79, "period": "night" },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/26382127"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-875270896277959043/original/e59a67bd-05c4-4d4b-b1b8-013c8d1a2396.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Appartement avec parquet", "1 bed", "May 1 – 6"],
+      "price": { "currency": "$", "value": 92, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/875270896277959043"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ddd137e7-e86c-4ade-acdb-18124f05af0d.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Cozy apartment in Paris la Butte aux Quailles", "1 bed", "Aug 5 – 10"],
+      "price": { "currency": "$", "value": 134, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/664994958534617488"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/81b07002-413f-445b-b567-9c0738fe39fa.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Elegant Large Haussmannian Room", "1 bed", "Jul 26 – 31"],
+      "price": { "currency": "$", "value": 105, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/825343842246548529"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d594755e-d39d-40ce-a1ce-7ba7443cfd4b.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Romantic flat Montmartre/Grands Boulevards", "1 king bed", "Jan 11 – 18"],
+      "price": { "currency": "$", "value": 80, "period": "night" },
+      "rating": 4.75,
+      "link": "https://www.airbnb.com/rooms/15111537"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-51381873/original/7cbf4c59-a937-44f9-b039-06592019a390.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Montmartre: cozy apartment.", "1 bed", "May 5 – 11"],
+      "price": { "currency": "$", "value": 113, "period": "night" },
+      "rating": 4.95,
+      "link": "https://www.airbnb.com/rooms/51381873"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/f19816d6-62c5-4937-a373-1793b64f0c09.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studio Pereire-Etoile, comfortable and quiet.", "1 bed", "Mar 6 – 11"],
+      "price": { "currency": "$", "value": 95, "period": "night" },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/51516023"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-858441286853654499/original/468b8017-8c31-4fed-8819-ce4e79cf61ea.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Cosy apt. in the center of Paris - Montorgueuil 2e", "1 king bed", "May 8 – 14"],
+      "price": { "currency": "$", "value": 187, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/858441286853654499"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-1626998/original/5d251433-4f3f-4226-b73f-1cad722ba713.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Bright & cosy room at Goncourt", "1 single bed", "Aug 19 – 25"],
+      "price": { "currency": "$", "value": 70, "period": "night" },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/1626998"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-53534864/original/dcc0b4cb-29d3-4a81-8988-bd4ffd661c67.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studette ground floor 3 minutes from the metro L2 and L11", "1 bed", "Jun 22 – 29"],
+      "price": { "currency": "$", "value": 57, "period": "night" },
+      "rating": 4.26,
+      "link": "https://www.airbnb.com/rooms/53534864"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/47668753/ab429ae7_original.jpg?im_w=720",
+      "title": "Private room in Boulogne-Billancourt",
+      "subtitles": ["Independent room", "1 double bed", "Jun 20 – 25"],
+      "price": { "currency": "$", "value": 69, "period": "night" },
+      "rating": 4.47,
+      "link": "https://www.airbnb.com/rooms/2500361"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/80614177/3739b5c4_original.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Charming apt  in le Haut Marais", "1 bed", "Jul 27 – Aug 3"],
+      "price": { "currency": "$", "value": 177, "period": "night" },
+      "rating": 4.73,
+      "link": "https://www.airbnb.com/rooms/657696"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-770993331543332635/original/870fe1a1-bdce-4406-9aba-1deddee49750.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Room near Place de la Réunion", "1 bed", "May 1 – 6"],
+      "price": { "currency": "$", "value": 104, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/770993331543332635"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1dd4acf5-1037-4d59-b774-636020a500c2.jpg?im_w=720",
+      "title": "Apartment in Le Mesnil-Amelot",
+      "subtitles": ["Nice studio 5min airport Roissy CDG", "1 sofa bed", "May 5 – 10"],
+      "price": { "currency": "$", "value": 64, "period": "night" },
+      "rating": 4.85,
+      "link": "https://www.airbnb.com/rooms/43684033"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/741eff3f-a083-4c0c-a457-11a5b0cdc908.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Paris: Joli studio/ coeur du quartier Montmartre", "1 bed", "Oct 31 – Nov 5"],
+      "price": { "currency": "$", "value": 85, "period": "night" },
+      "rating": 4.84,
+      "link": "https://www.airbnb.com/rooms/647193995471631365"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/7736c827-8aa4-41ff-bc71-94c0ffe05dea.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Simple room C", "1 single bed", "Jun 25 – 30"],
+      "price": { "currency": "$", "value": 57, "period": "night" },
+      "rating": 4.25,
+      "link": "https://www.airbnb.com/rooms/9962282"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/d29592d6-1ae6-443c-b9fc-1333ae4b38b0.jpg?im_w=720",
+      "title": "Shared room in Saint-Denis",
+      "subtitles": ["Shared space", "1 sofa bed", "Sep 15 – 20"],
+      "price": { "currency": "$", "value": 32, "period": "night" },
+      "rating": 4.63,
+      "link": "https://www.airbnb.com/rooms/9975524"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-624483271678475509/original/4a3b6e18-69d3-4ae3-af09-095015809dd3.jpeg?im_w=720",
+      "title": "Condo in Paris",
+      "subtitles": ["Nice and quiet apartment next to Père Lachaise", "1 double bed", "Apr 7 – 13"],
+      "price": { "currency": "$", "value": 103, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/624483271678475509"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/418f36a6-ecbb-49c2-8174-4adf95910ae8.jpg?im_w=720",
+      "title": "Shared room in Paris",
+      "subtitles": ["Cosy shared appart-WOMAN ONLY (FEMME SEULEMENT)", "1 single bed", "Jul 13 – 19"],
+      "price": { "currency": "$", "value": 56, "period": "night" },
+      "rating": 4.72,
+      "link": "https://www.airbnb.com/rooms/31873274"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-50296298/original/fa878abf-6849-4420-8de2-49bd8a98b99c.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Superbe appartement vue Sacré Coeur Montmatre", "1 bed", "Aug 9 – 14"],
+      "price": { "currency": "$", "value": 79, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/50296298"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/be7bd595-5034-4ff5-800e-409a5cbbeb76.jpg?im_w=720",
+      "title": "Private room in Suresnes",
+      "subtitles": ["Room  in welcoming and friendly house.", "1 bed", "May 16 – 22"],
+      "price": { "currency": "$", "value": 39, "period": "night" },
+      "rating": 4.77,
+      "link": "https://www.airbnb.com/rooms/648230854897127996"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/418f36a6-ecbb-49c2-8174-4adf95910ae8.jpg?im_w=720",
+      "title": "Shared room in Paris",
+      "subtitles": ["Cosy shared appart-WOMAN ONLY (FEMME SEULEMENT)", "1 single bed", "Jul 13 – 19"],
+      "price": { "currency": "$", "value": 56, "period": "night" },
+      "rating": 4.72,
+      "link": "https://www.airbnb.com/rooms/31873274"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-50296298/original/fa878abf-6849-4420-8de2-49bd8a98b99c.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Superbe appartement vue Sacré Coeur Montmatre", "1 bed", "Aug 9 – 14"],
+      "price": { "currency": "$", "value": 79, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/50296298"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-686778142593980446/original/fc3c8bc4-bc3b-408c-b46a-70b7a6f98824.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Parisian apartment; central, new and cosy.", "1 bed", "Jun 8 – 14"],
+      "price": { "currency": "$", "value": 134, "period": "night" },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/686778142593980446"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0e999add-74d2-436a-b7a7-afdb3eda47c2.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Lovely SELF-CONTAINED room in the heart of Paris", "1 double bed", "Mar 17 – 22"],
+      "price": { "currency": "$", "value": 82, "period": "night" },
+      "rating": 4.66,
+      "link": "https://www.airbnb.com/rooms/1253981"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-710773939399621538/original/9d64e52e-de85-446c-8cad-b282b99dfe46.jpeg?im_w=720",
+      "title": "Shared room in Ivry-sur-Seine",
+      "subtitles": ["Spacious and Comfortable Men’s Shared Room 5-4", "1 single bed", "May 1 – 6"],
+      "price": { "currency": "$", "value": 32, "period": "night" },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/710789774820795186"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/895a310e-d8c3-4c3e-980f-9382d3cec735.jpg?im_w=720",
+      "title": "Private room in Levallois-Perret",
+      "subtitles": ["Beautiful Bright Room with Balcony Flower", "1 single bed", "May 20 – 25"],
+      "price": { "currency": "$", "value": 62, "period": "night" },
+      "rating": 4.52,
+      "link": "https://www.airbnb.com/rooms/838350"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-843985914452323329/original/17941d2b-c6fb-4534-8360-6ef898490f6e.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studio rose", "1 bed", "Jul 31 – Aug 5"],
+      "price": { "currency": "$", "value": 76, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/843985914452323329"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-53661428/original/3a9bdfa7-5c39-425b-a473-239a89287d10.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Paris, Canal Saint Martin 10th - lovely flat", "1 bed", "May 1 – 8"],
+      "price": { "currency": "$", "value": 126, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/53661428"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e949c330-ed08-488f-84d5-0d664bdab030.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["A green room", "1 double bed", "May 12 – 17"],
+      "price": { "currency": "$", "value": 75, "period": "night" },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/19686439"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-54093169/original/ada8425f-b921-4ec1-87e4-1f148abde40e.jpeg?im_w=720",
+      "title": "Apartment in Asnières-sur-Seine",
+      "subtitles": ["Nice studio equipped with  every comfort close to Paris", "1 double bed", "May 4 – 9"],
+      "price": { "currency": "$", "value": 90, "period": "night" },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/54093169"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1171c056-41ab-4d41-8dea-1afb67318878.jpg?im_w=720",
+      "title": "Private room in Versailles",
+      "subtitles": ["Welcome to the castle!", "1 king bed", "May 23 – 28"],
+      "price": { "currency": "$", "value": 59, "period": "night" },
+      "rating": 4.79,
+      "link": "https://www.airbnb.com/rooms/40132512"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/45c26933-e526-4647-8a11-32e97190d61b.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Fully equipped refurbished studio", "1 sofa bed", "Jun 9 – 16"],
+      "price": { "currency": "$", "value": 102, "period": "night" },
+      "rating": 4.83,
+      "link": "https://www.airbnb.com/rooms/43908825"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/6871382/05dec970_original.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["QUIET STUDIO IN THE HEART OF PARIS", "2 beds", "Dec 12 – 17"],
+      "price": { "currency": "$", "value": 106, "period": "night" },
+      "rating": 4.87,
+      "link": "https://www.airbnb.com/rooms/486547"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-693531939393296364/original/4650d3ff-9be7-41b4-a167-d66cb8186497.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Charming Appartment Louvre-Rivoli / Châtelet", "1 bed", "Oct 10 – 15"],
+      "price": { "currency": "$", "value": 126, "period": "night" },
+      "rating": 4.95,
+      "link": "https://www.airbnb.com/rooms/693531939393296364"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-809888769548414682/original/a5675af8-80a9-4ceb-a301-c5b18978201c.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Charmant Studio Menilmontant", "1 bed", "Jul 14 – 21"],
+      "price": { "currency": "$", "value": 100, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/809888769548414682"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/1f066e9e-6c68-46a1-8d25-3443c2f46091.jpg?im_w=720",
+      "title": "Private room in Orsay",
+      "subtitles": ["Private bathroom/bedroom", "1 double bed", "May 1 – 8"],
+      "price": { "currency": "$", "value": 40, "period": "night" },
+      "rating": 4.86,
+      "link": "https://www.airbnb.com/rooms/40508915"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-633193107717381801/original/b52a9b30-0eb2-43ca-ae6e-2ad1f7140b93.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Gare de Lyon 5", "1 bed", "May 7 – 12"],
+      "price": { "currency": "$", "value": 101, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/867199424054243719"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-633193107717381801/original/b52a9b30-0eb2-43ca-ae6e-2ad1f7140b93.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Gare de Lyon 5", "1 bed", "May 7 – 12"],
+      "price": { "currency": "$", "value": 101, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/867199424054243719"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/5ecb3c0c-6a14-4a4f-b79f-8c3a67c6239e.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Housemate room in Paris", "1 bed", "Aug 28 – Sep 2"],
+      "price": { "currency": "$", "value": 94, "period": "night" },
+      "rating": 4.77,
+      "link": "https://www.airbnb.com/rooms/756612696433760225"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-715040120844184561/original/bdd43626-d2e1-4332-82f9-813f79cf7e09.jpeg?im_w=720",
+      "title": "Apartment in Vitry-sur-Seine",
+      "subtitles": ["Beautiful apartment, super comfortable and quite.", "1 bed", "May 1 – 7"],
+      "price": { "currency": "$", "value": 74, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/715040120844184561"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/16090139/c5e889d3_original.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studio with Panoramic view of Paris", "1 double bed", "Dec 14 – 19"],
+      "price": { "currency": "$", "value": 84, "period": "night" },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/1070274"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/390f7d13-562a-4c54-82fe-d2d89ebf36d0.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Lovely Place around Canal Saint Martin", "1 double bed", "May 2 – 8"],
+      "price": { "currency": "$", "value": 112, "period": "night" },
+      "rating": 4.47,
+      "link": "https://www.airbnb.com/rooms/28118324"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-14241445/original/8285a16a-5bc5-4f90-86f7-62cf5c4ff0a7.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["A sunny and quiet bedroom with a garden", "1 double bed", "May 3 – 8"],
+      "price": { "currency": "$", "value": 76, "period": "night" },
+      "rating": 4.79,
+      "link": "https://www.airbnb.com/rooms/14241445"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/78ed442d-0393-4cd0-8a1e-2d843ce07322.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Very nice 70m2 apartment with  Eiffel Tower view", "1 king bed", "Dec 22 – 27"],
+      "price": { "currency": "$", "value": 174, "period": "night" },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/567001"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/736c86e0-00ca-401d-bc81-c961cd530926.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Paris centre, quiet and comfortable studio", "1 queen bed", "May 4 – 9"],
+      "price": { "currency": "$", "value": 115, "period": "night" },
+      "rating": 4.59,
+      "link": "https://www.airbnb.com/rooms/37175276"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-663614717071226025/original/45eae086-1947-4e04-9b13-259e28255040.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Paris in summer at the foot of the tram", "1 bed", "Jul 8 – 13"],
+      "price": { "currency": "$", "value": 67, "period": "night" },
+      "rating": 4.86,
+      "link": "https://www.airbnb.com/rooms/663614717071226025"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-23404222/original/0a9a5804-4c24-4561-8e03-d714210b9d3f.jpeg?im_w=720",
+      "title": "Private room in Chatou",
+      "subtitles": ["Spacious room in a home near Paris (+ breakfast)", "2 single beds", "May 1 – 6"],
+      "price": { "currency": "$", "value": 75, "period": "night" },
+      "rating": 4.95,
+      "link": "https://www.airbnb.com/rooms/23404222"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-822251678893016683/original/491c6ef1-23c5-4c49-b455-e63d22f682d7.png?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Chambre de voucher", "1 bed", "Oct 1 – 7"],
+      "price": { "currency": "$", "value": 57, "period": "night" },
+      "rating": 4.75,
+      "link": "https://www.airbnb.com/rooms/822251678893016683"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-564537769303629999/original/6823c69a-1261-4084-930b-f01c35bacfb5.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["PRIVATE ROOM IN ARCHITECT TOWNHOUSE IN PARIS", "1 single bed", "Jul 5 – 10"],
+      "price": { "currency": "$", "value": 88, "period": "night" },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/564537769303629999"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/52441754/31784c75_original.jpg?im_w=720",
+      "title": "Private room in Nanterre",
+      "subtitles": ["Nice room in a very charming house", "1 double bed", "May 1 – 6"],
+      "price": { "currency": "$", "value": 58, "period": "night" },
+      "rating": 4.9,
+      "link": "https://www.airbnb.com/rooms/4133176"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/68166736/48d4fac8_original.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Small studio in Passy / Eiffel Tower / Trocadero", "1 single bed", "Oct 11 – 16"],
+      "price": { "currency": "$", "value": 101, "period": "night" },
+      "rating": 4.83,
+      "link": "https://www.airbnb.com/rooms/3982131"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-622323951193844897/original/b2eec9bb-4246-4d21-b504-b8e3c9f351b8.jpeg?im_w=720",
+      "title": "Apartment in Bezons",
+      "subtitles": ["New fully equipped studio + 12-min defense parking", "1 bed", "May 1 – 7"],
+      "price": { "currency": "$", "value": 51, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/622323951193844897"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-854983080459562932/original/d48e4e3b-21a0-44b1-b012-db98fa9fc9af.jpeg?im_w=720",
+      "title": "Apartment in Tremblay-en-France",
+      "subtitles": ["Airport- Parc des expo - Paris", "2 beds", "May 17 – 22"],
+      "price": { "currency": "$", "value": 97, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/854983080459562932"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-8548168/original/8b26603f-ee62-4d14-93d9-1a159f6f7445.jpeg?im_w=720",
+      "title": "Apartment in Saint-Mandé",
+      "subtitles": ["COSY HOME subway 15 mn Paris center", "1 sofa bed", "Nov 3 – 8"],
+      "price": { "currency": "$", "value": 57, "period": "night" },
+      "rating": 4.76,
+      "link": "https://www.airbnb.com/rooms/8548168"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/0a788b4b-0d77-4187-ab92-37e3538ed285.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Cosy studio in the heart of the 17th", "1 sofa bed", "Jul 10 – 15"],
+      "price": { "currency": "$", "value": 113, "period": "night" },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/18717398"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e9e6375e-0708-4600-b10d-51a2d43c0934.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["ARTIST'S LOFT BASTILLE MARAIS", "1 queen bed", "Dec 9 – 15"],
+      "price": { "currency": "$", "value": 114, "period": "night" },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/6463848"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-37627687/original/1bb1fffa-6713-4f55-8a16-3a421953b193.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Cosy apartment next to the Atelier des Lumières", "1 double bed", "Jan 1 – 6"],
+      "price": { "currency": "$", "value": 129, "period": "night" },
+      "rating": 4.82,
+      "link": "https://www.airbnb.com/rooms/37627687"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/10f4008a-56d6-418c-9111-364866337ec9.jpg?im_w=720",
+      "title": "Condo in Rueil-Malmaison",
+      "subtitles": ["Lovely 2 rooms in the historic center of Rueil", "1 double bed", "May 1 – 7"],
+      "price": { "currency": "$", "value": 82, "period": "night" },
+      "rating": 4.79,
+      "link": "https://www.airbnb.com/rooms/20159339"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-678201612293345061/original/4714ee61-db03-4499-a4bc-ef3bcb1be072.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Room in family apartment and very Parisian", "1 bed", "Jul 17 – 22"],
+      "price": { "currency": "$", "value": 117, "period": "night" },
+      "rating": 4.73,
+      "link": "https://www.airbnb.com/rooms/678201612293345061"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/788bf57a-3731-42b7-9fd8-e994350f9ffa.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["The Getaway in Paris ~ Netflix & Wifi", "1 bed", "Aug 19 – 24"],
+      "price": { "currency": "$", "value": 94, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/802128583134391183"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/b8e92458-fcf6-4f56-9bab-365d21c8895c.jpg?im_w=720",
+      "title": "Private room in Puteaux",
+      "subtitles": ["Flat with panoramic view over Paris", "1 double bed", "Aug 13 – 19"],
+      "price": { "currency": "$", "value": 126, "period": "night" },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/1777653"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-857837069881185371/original/6ec4679f-4b64-4b66-bdf2-429c6ee85924.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Sweet Inn | Cosy studio in the 10th Arrondissement", "1 sofa bed", "May 1 – 6"],
+      "price": { "currency": "$", "value": 101, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/857837069881185371"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e1bac7fb-8c72-4fff-b391-19ad6856e971.jpg?im_w=720",
+      "title": "Private room in Massy",
+      "subtitles": ["🔴-20% OFF Private Room 20 min ORLY,40 min PARIS", "1 sofa bed", "May 1 – 6"],
+      "price": { "currency": "$", "value": 33, "period": "night" },
+      "rating": 4.76,
+      "link": "https://www.airbnb.com/rooms/24805294"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ef9e906b-e8c0-445b-9d74-2d91760eee6d.jpg?im_w=720",
+      "title": "Apartment in Neuilly-sur-Seine",
+      "subtitles": ["Paris - Cosy Duplex Champs Elysées", "2 beds", "Aug 13 – 18"],
+      "price": { "currency": "$", "value": 145, "period": "night" },
+      "rating": 4.67,
+      "link": "https://www.airbnb.com/rooms/532742"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-838182413949222124/original/d6e4144e-dc84-47f3-8a1f-10c7c4d57d87.jpeg?im_w=720",
+      "title": "Apartment in Suresnes",
+      "subtitles": ["Cozy apartment La Défense", "2 beds", "May 1 – 6"],
+      "price": { "currency": "$", "value": 100, "period": "night" },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/838182413949222124"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/607174cc-2189-4711-80e0-bf59938146f9.jpg?im_w=720",
+      "title": "Apartment in Saint-Mandé",
+      "subtitles": ["Nice stay in Paris", "1 double bed", "Jul 7 – 14"],
+      "price": { "currency": "$", "value": 65, "period": "night" },
+      "rating": 4.65,
+      "link": "https://www.airbnb.com/rooms/21592698"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/52955673/0e046daf_original.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Comfortable room with its bathroom", "1 bed", "May 7 – 13"],
+      "price": { "currency": "$", "value": 82, "period": "night" },
+      "rating": 4.89,
+      "link": "https://www.airbnb.com/rooms/4189941"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-648313624964619967/original/21dfffe1-d4b6-42f4-a6b3-51f0590aeae3.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Incredible view - cosy parisian appartement", "1 double bed", "May 8 – 14"],
+      "price": { "currency": "$", "value": 255, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/648313624964619967"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-34804124/original/4d53c696-d56e-42cb-9cf7-dee46b3c3a69.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["A Nice appartement in Montmartre", "1 sofa bed", "Aug 18 – 23"],
+      "price": { "currency": "$", "value": 63, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/34804124"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-550473493052362446/original/ee366f3f-76bc-4ec5-b1b6-62e5e9891f82.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Central place in Paris, nice & cosy neighborhood", "1 sofa bed", "Jun 11 – 16"],
+      "price": { "currency": "$", "value": 118, "period": "night" },
+      "rating": 4.97,
+      "link": "https://www.airbnb.com/rooms/550473493052362446"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/e9e20dc0-03bb-4c67-b010-adbcba160d3c.jpg?im_w=720",
+      "title": "Loft in Paris",
+      "subtitles": ["Paris : loft d’artiste en plein cœur du 11e", "2 beds", "Jun 1 – 8"],
+      "price": { "currency": "$", "value": 125, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/52514717"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/b10645ff-6977-448b-804f-72343c2317b1.jpg?im_w=720",
+      "title": "Private room in Vincennes",
+      "subtitles": ["Pink room/apartment.Vincennes", "1 double bed", "Oct 29 – Nov 3"],
+      "price": { "currency": "$", "value": 63, "period": "night" },
+      "rating": 4.93,
+      "link": "https://www.airbnb.com/rooms/8730516"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-847698682326538219/original/5ecf3145-f8ae-49a2-96cb-cea996d91be0.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Studio atypique - Canal Saint", "1 bed", "Oct 15 – 20"],
+      "price": { "currency": "$", "value": 113, "period": "night" },
+      "rating": "No rating",
+      "link": "https://www.airbnb.com/rooms/847698682326538219"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/5e1aabdf-5709-4f05-b84f-77e9b931c7d4.jpg?im_w=720",
+      "title": "Condo in Paris",
+      "subtitles": ["Lovely and comfortable apartment in the greenery", "3 beds", "Mar 18 – 23"],
+      "price": { "currency": "$", "value": 253, "period": "night" },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/51273525"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/a83dd15d-197b-4538-9e87-a239f3accb9f.jpg?im_w=720",
+      "title": "Condo in Paris",
+      "subtitles": ["Studio - Parc Exposition - 2 pers - Paris 15", "1 queen bed", "May 11 – 16"],
+      "price": { "currency": "$", "value": 102, "period": "night" },
+      "rating": 4.11,
+      "link": "https://www.airbnb.com/rooms/43552549"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-549756582281388816/original/7c274348-2b0c-4152-8895-d7c37586f216.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Pleasant private room with patio and kitchen", "1 bed", "Oct 11 – 18"],
+      "price": { "currency": "$", "value": 74, "period": "night" },
+      "rating": 4.88,
+      "link": "https://www.airbnb.com/rooms/549756582281388816"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/628c1938-d490-4d96-9be4-0fdb1ec739f1.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Cozy Studio at the heart of Paris", "1 double bed", "Jan 29 – Feb 3"],
+      "price": { "currency": "$", "value": 92, "period": "night" },
+      "rating": 4.94,
+      "link": "https://www.airbnb.com/rooms/19053982"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ade0693e-7f86-46e1-9877-0e420851ba52.jpg?im_w=720",
+      "title": "Place to stay in Neuilly-sur-Seine",
+      "subtitles": ["The river side of   Impressionists", "1 bed", "Oct 10 – 15"],
+      "price": { "currency": "$", "value": 120, "period": "night" },
+      "rating": 4.79,
+      "link": "https://www.airbnb.com/rooms/17132502"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/85319e4d-8409-43c9-8fbe-49d9d9f71f23.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["nice accommodation well located in Montmartre...", "1 bed", "Apr 15 – 21"],
+      "price": { "currency": "$", "value": 104, "period": "night" },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/8365351"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/5c6812e3-8e37-4e81-a522-eedd82c1ae14.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Cocon au pied de Montmartre", "1 bed", "Aug 24 – 29"],
+      "price": { "currency": "$", "value": 151, "period": "night" },
+      "rating": 4.7,
+      "link": "https://www.airbnb.com/rooms/50501717"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-51415319/original/36a80d85-7c12-4a94-95dd-1d0313d50480.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["☀︎ Superb apartment near Montparnasse ☀︎", "1 double bed", "May 1 – 8"],
+      "price": { "currency": "$", "value": 169, "period": "night" },
+      "rating": 4.42,
+      "link": "https://www.airbnb.com/rooms/51415319"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-44145106/original/dafaf6a6-2cb6-4d33-ab4d-a55be67a5f3a.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Charming, calm, brightness... Visit Paris on foot!", "1 queen bed", "Aug 10 – 16"],
+      "price": { "currency": "$", "value": 226, "period": "night" },
+      "rating": 5,
+      "link": "https://www.airbnb.com/rooms/44145106"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-830590953713117115/original/175255f1-b0c7-4e1f-8d05-113292aa419b.jpeg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Comfort sofa in private living room + bathroom", "1 bed", "Jul 28 – Aug 2"],
+      "price": { "currency": "$", "value": 50, "period": "night" },
+      "rating": 4.89,
+      "link": "https://www.airbnb.com/rooms/830590953713117115"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-681086270370697196/original/9daf6d45-956d-4ff3-a7ca-64fa75222ee6.jpeg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Exceptional view of the Eiffel Tower", "1 sofa bed", "Aug 13 – 18"],
+      "price": { "currency": "$", "value": 312, "period": "night" },
+      "rating": 4.92,
+      "link": "https://www.airbnb.com/rooms/681086270370697196"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/87545357/2b44f815_original.jpg?im_w=720",
+      "title": "Apartment in Bagnolet",
+      "subtitles": ["Robespierre 1 bedroom apartment subway station", "1 double bed", "Jan 8 – 14"],
+      "price": { "currency": "$", "value": 57, "period": "night" },
+      "rating": 4.79,
+      "link": "https://www.airbnb.com/rooms/2188782"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/9d64a266-f944-471d-8f4f-31d4f6cc9b89.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Charming 2 room voltaire metro", "3 beds", "Aug 18 – 25"],
+      "price": { "currency": "$", "value": 136, "period": "night" },
+      "rating": 4.8,
+      "link": "https://www.airbnb.com/rooms/11831742"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/miso/Hosting-21250378/original/11cec8c7-df60-4488-a1d7-03328227fdf3.jpeg?im_w=720",
+      "title": "Private room in Neuilly-sur-Seine",
+      "subtitles": ["Spacious room with views of the Seine", "2 single beds", "Jul 3 – 8"],
+      "price": { "currency": "$", "value": 68, "period": "night" },
+      "rating": 4.91,
+      "link": "https://www.airbnb.com/rooms/21250378"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/16c565ca-77c5-406f-9306-5c0ef52970c5.jpg?im_w=720",
+      "title": "Private room in Clichy",
+      "subtitles": ["Private 14 m² bedroom just 5 minutes from Paris", "1 queen bed", "May 14 – 20"],
+      "price": { "currency": "$", "value": 88, "period": "night" },
+      "rating": 4.74,
+      "link": "https://www.airbnb.com/rooms/28609401"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/bab67d4b-a042-41a8-8c0e-d9978fc7860d.jpg?im_w=720",
+      "title": "Private room in Paris",
+      "subtitles": ["Chambre privée dans apartment", "1 bed", "May 1 – 6"],
+      "price": { "currency": "$", "value": 89, "period": "night" },
+      "rating": 4.78,
+      "link": "https://www.airbnb.com/rooms/4912815"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/ddeb8efe-67f2-457c-a067-9db9d811c477.jpg?im_w=720",
+      "title": "Apartment in Paris",
+      "subtitles": ["Nice cozy cocoon in Paris Montmartre", "1 double bed", "Aug 11 – 16"],
+      "price": { "currency": "$", "value": 158, "period": "night" },
+      "rating": 4.96,
+      "link": "https://www.airbnb.com/rooms/46661763"
+    },
+    {
+      "thumbnail": "https://a0.muscache.com/im/pictures/9f0dc0ce-4d1c-4916-9e2d-f725a3523f29.jpg?im_w=720",
+      "title": "Guesthouse in Fontenay-lès-Briis",
+      "subtitles": ["Le 12 ♡ Dépendance Lilie & John", "1 bed", "May 1 – 8"],
+      "price": { "currency": "$", "value": 66, "period": "night" },
+      "rating": 4.81,
+      "link": "https://www.airbnb.com/rooms/48101005"
+    }
+  ]
+}

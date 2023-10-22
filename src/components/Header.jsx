@@ -15,7 +15,7 @@ export default function Header() {
         <header className="main-header">
             <nav className={"main-nav"}>
                 <div className="nav-links">
-                    <a className={"nav-logo"} href={"/"}><img src={SymbiStayIcon} alt="Symbi Stay"/></a>
+                    <NavLink to={"/"} className={"nav-logo"} href={"/"}><img src={SymbiStayIcon} alt="Symbi Stay"/></NavLink>
                     <NavLink className={"nav-text"} to={"/"}>Home</NavLink>
                     <NavLink className={"nav-text"} to={"/search"}>Search</NavLink>
                     <NavLink className={"nav-text"} to={"/contact"}>Contact</NavLink>
