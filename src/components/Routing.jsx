@@ -1,7 +1,7 @@
 import {Route, Routes} from "react-router-dom";
-import Home from "./Home.jsx";
-import HotelSearch from "./HotelSearch.jsx";
-import HotelDetails from "./HotelDetails.jsx";
+import Home from "./home/Home.jsx";
+import HotelSearch from "./searchAndDetailsPage/HotelSearch.jsx";
+import HotelDetails from "./searchAndDetailsPage/HotelDetails.jsx";
 import Contact from "./Contact.jsx";
 import Profile from "./Profile.jsx";
 

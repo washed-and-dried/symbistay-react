@@ -8,16 +8,13 @@ export default function SearchX() {
     const [guests, setGuests] = useState(guestsNo);
 
     return (
-
         <div className="search-container">
             <div className="search-items">
                 <div className="search-item-box">
                     <div className="search-text"><label htmlFor="location">Where to?</label></div>
                     <div className="search-option-text">
                         <select onChange={e => setselOpt(e.target.value)} defaultValue={selOpt} id="location">
-                            {options.map((option, key) => (
-                                <option key={key}>{option}</option>
-                            ))}
+                            {options.map((option, key) => (<option key={key}>{option}</option>))}
                         </select>
                     </div>
                 </div>
@@ -35,7 +32,8 @@ export default function SearchX() {
                 <div className="search-item-box">
                     <div className="search-text"><label htmlFor="guests">Guests</label></div>
                     <div className="search-option-text">
-                        <input onChange={e => setGuests(parseInt(e.target.value))} defaultValue={guestsNo} id="guests" type="number"/>
+                        <input onChange={e => setGuests(parseInt(e.target.value))}
+                               defaultValue={guestsNo} id="guests" type="number"/>
                     </div>
                 </div>
             </div>
@@ -47,7 +45,5 @@ export default function SearchX() {
                 </svg>
             </div>
         </div>
-
-
     )
 }
