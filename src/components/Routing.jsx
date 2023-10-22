@@ -8,11 +8,11 @@ import Profile from "./Profile.jsx";
 export default function Routing(){
     return(
         <Routes>
-            <Route element={<Home></Home>} path={"/"}/>
-            <Route element={<HotelSearch></HotelSearch>} path={"/search"}/>
-            <Route element={<HotelDetails></HotelDetails>} path={"/search/details"}/>
-            <Route element={<Contact></Contact>} path={"/contact"}/>
-            <Route element={<Profile></Profile>} path={"/profile"}/>
+            <Route element={<Home/>} path={"/"}/>
+            <Route element={<HotelSearch/>} path={"/search"}/>
+            <Route element={<HotelDetails/>} path={"/search/details"}/>
+            <Route element={<Contact/>} path={"/contact"}/>
+            <Route element={<Profile/>} path={"/profile"}/>
         </Routes>
 
     )

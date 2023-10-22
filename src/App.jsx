@@ -3,16 +3,14 @@ import Routing from "./components/Routing.jsx";
 import Footer from "./components/Footer";
 import './styles/styles.css'
 
-
 export default function App() {
     return (
         <>
-            {/*TODO: Test this!!*/}
             <div className={"app-container"}>
                 <Header/>
-                <div className="content-container">
+                <main className="content-container">
                     <Routing/>
-                </div>
+                </main>
                 <Footer/>
             </div>
         </>

@@ -21,6 +21,7 @@ export default function Header() {
                     <NavLink className={"nav-text"} to={"/contact"}>Contact</NavLink>
                     <NavLink className={"nav-text"} to={"/profile"}>Profile</NavLink>
                 </div>
+                {/*FIXME: make this work!*/}
                 <img src={ProfileIcon} onClick={handleProfileIconClick} alt="Profile" className={"profile-icon"}/>
                 <dialog className={"profile-icon-dialog"} ref={dialogRef}>
                     <button>Account</button>
