@@ -12,6 +12,11 @@ const FILE_PATH = {
     ROME: "/src/assets/jsonData/Rome.json"
 };
 
+/**
+ * Returns file path for the corresponding city
+ * @param {string} cityName
+ * @returns {string}
+ */
 const decideFileByCountryName = (cityName) => {
     switch (cityName) {
         case "Paris":
@@ -27,13 +32,25 @@ const decideFileByCountryName = (cityName) => {
     }
 }
 
+/**
+ * Fetches and returns the data from the json files present in the local repository
+ * @returns {Promise<any>}
+ * @param {string} currentCitySelected - Name of the currently selected city
+ */
 const fetchHotelsData = async (currentCitySelected) => {
     const file = decideFileByCountryName(currentCitySelected);
     const data = await fetch(file);
     return data.json();
 }
 
-const filterAndRenderHotels = (hotelsData, counter, amountToShow) => {
+/**
+ * Filters the data according to the counter and amountToShow then renders it.
+ * @param hotelsData - Data fetched from the fetchHotelsData function
+ * @param {number} counter - Counter for the current render
+ * @param {number} amountToShow - Amount of hotels to show per page (defaults to 9)
+ * @returns {*}
+ */
+const filterAndRenderHotels = (hotelsData, counter, amountToShow= 9) => {
     let showFrom = (counter - 1) * amountToShow;
     if (showFrom > hotelsData?.length - amountToShow){
         showFrom = hotelsData?.length - amountToShow - 1;
@@ -70,8 +87,6 @@ export default function HotelSearch() {
         queryKey: [currentCitySelected]
     });
 
-    console.log(currentCitySelected);
-
     return (
         <div className="hotel-search-container">
             <div className="hotel-option-container">
@@ -94,7 +109,7 @@ export default function HotelSearch() {
             </div>
             <div className="hotel-search-result">
                 {currentCitySelected}
-                {filterAndRenderHotels(hotelSearchResult?.data?.hotels, hotelsCounter, 9)}
+                {filterAndRenderHotels(hotelSearchResult?.data?.hotels, hotelsCounter)}
                 <button
                         onClick={() => setHotelsCounter((oldCounter) =>
                             oldCounter - 1 <= 0 ? 1 : oldCounter - 1)}>
