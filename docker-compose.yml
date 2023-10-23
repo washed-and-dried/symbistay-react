@@ -1,6 +1,14 @@
-version: "3"
+version: "3.8"
 services:
   web:
     build: .
     ports:
       - "4001:80"
+    container_name: symbistay-react
+    depends_on:
+      - backend
+
+  backend:
+    ports:
+      - "4000:4000"
+    image: bharatm29/symbistay:symbistay-backend

@@ -2,6 +2,11 @@ import {useState} from "react";
 import HotelSearchResultCard from "./HotelSearchResultCard.jsx";
 import {useLocation} from "react-router-dom";
 import {useQuery} from "@tanstack/react-query";
+import Berlin from "../../assets/jsonData/Berlin.json"
+import Paris from "../../assets/jsonData/Paris.json"
+import Rome from "../../assets/jsonData/Rome.json"
+import London from "../../assets/jsonData/London.json"
+import Madrid from "../../assets/jsonData/Madrid.json"
 
 //this contains URI for the files
 const FILE_PATH = {
@@ -40,7 +45,13 @@ const decideFileByCountryName = (cityName) => {
  */
 const fetchHotelsData = async (currentCitySelected) => {
     const file = decideFileByCountryName(currentCitySelected);
+
+    //using file
     const data = await fetch(file);
+
+    //using backend
+    //const data = await fetch("http://" + location.hostname + ":4000/hotels/" + currentCitySelected);
+
     return data.json();
 }
 
