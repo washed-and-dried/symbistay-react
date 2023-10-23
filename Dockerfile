@@ -9,4 +9,4 @@ RUN npm run build
 # not sure what is the difference between nginx mainline and mainline slim. Will use this for now.
 FROM nginx:mainline-alpine-slim
 
-COPY --from=build /build/dist /usr/share/nginx/htm
+COPY --from=build /build/dist /usr/share/nginx/html
