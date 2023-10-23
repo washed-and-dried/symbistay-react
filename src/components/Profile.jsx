@@ -1,8 +1,12 @@
 import soham from "../assets/userimg/myFoto.jpg"
 import kunal from "../assets/userimg/kunal.jpg"
 import arsh from "../assets/userimg/arsh.jpg"
+import bharat from "../assets/userimg/bharat.jpg"
 import idk from "../assets/svgs/profile/xxx.svg"
 import "../styles/profile.css"
+
+//TODO extract data to json?
+
 export default function Profile() {
     return (
         <div className="profile-container-wrapper">
@@ -39,7 +43,7 @@ export default function Profile() {
                         </div>
                     </div>
                     <div className="dev-item">
-                        <img className="dev-img" src="../../assets/img/myFoto.jpg" alt="foto"></img>
+                        <img className="dev-img" src={bharat} alt="foto"></img>
                         <div className="dev-text">
                             <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
                                 <g clip-path="url(#clip0_107_198)">
