@@ -32,6 +32,7 @@ const decideFileByCountryName = (cityName) => {
     }
 }
 
+
 /**
  * Fetches and returns the data from the json files present in the local repository
  * @returns {Promise<any>}

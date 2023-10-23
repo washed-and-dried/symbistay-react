@@ -7,8 +7,7 @@ export default function SearchX() {
 
     const options = ["Berlin", "Paris", "London", "Madrid", "Rome"];
     const [selOpt, setselOpt] = useState(options[0]);
-    let guestsNo = 1; //TODO: what the fuck is this?
-    const [guests, setGuests] = useState(guestsNo);
+    const [guests, setGuests] = useState(1);
 
     return (
         <div className="search-container">
@@ -36,7 +35,7 @@ export default function SearchX() {
                     <div className="search-text"><label htmlFor="guests">Guests</label></div>
                     <div className="search-option-text">
                         <input onChange={e => setGuests(parseInt(e.target.value))}
-                               defaultValue={guestsNo} id="guests" type="number"/>
+                               defaultValue={guests} id="guests" type="number"/>
                     </div>
                 </div>
             </div>
