@@ -47,10 +47,10 @@ const fetchHotelsData = async (currentCitySelected) => {
     const file = decideFileByCountryName(currentCitySelected);
 
     //using file
-    const data = await fetch(file);
+    //const data = await fetch(file)
 
     //using backend
-    //const data = await fetch("http://" + location.hostname + ":4000/hotels/" + currentCitySelected);
+    const data = await fetch("http://" + location.hostname + ":4000/hotels/" + currentCitySelected);
 
     return data.json();
 }
