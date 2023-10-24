@@ -1,6 +1,7 @@
 version: "3.8"
 services:
   backend:
-    image: bharatm29/symbistay:symbistay-backend
+    image: bharatm29/symbistay:v0.1
     ports:
       - "4000:4000"
+    container_name: symbistay-backend

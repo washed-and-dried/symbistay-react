@@ -4,11 +4,12 @@ services:
     build: .
     ports:
       - "4001:80"
-    container_name: symbistay-react
+    container_name: symbistay-frontend
     depends_on:
       - backend
 
   backend:
     ports:
       - "4000:4000"
-    image: bharatm29/symbistay:symbistay-backend
+    image: bharatm29/symbistay:v0.1
+    container_name: symbistay-backend
